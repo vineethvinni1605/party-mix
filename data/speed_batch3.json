@@ -1,0 +1,50 @@
+
+[
+{"q":"What is 9 + 16?","options":["23","24","25","26"],"answer":2,"category":"Math","difficulty":"easy"},
+{"q":"What is 12 × 4?","options":["36","44","48","52"],"answer":2,"category":"Math","difficulty":"easy"},
+{"q":"What is half of 150?","options":["65","70","75","80"],"answer":2,"category":"Math","difficulty":"easy"},
+{"q":"What is 100 minus 37?","options":["63","67","73","57"],"answer":0,"category":"Math","difficulty":"easy"},
+{"q":"What is 25% of 80?","options":["15","20","25","30"],"answer":1,"category":"Math","difficulty":"easy"},
+
+{"q":"What comes next: 3, 6, 12, 24, __?","options":["30","36","48","54"],"answer":2,"category":"Logic","difficulty":"easy"},
+{"q":"What comes next: 1, 4, 9, 16, __?","options":["20","24","25","36"],"answer":2,"category":"Logic","difficulty":"easy"},
+{"q":"Which number is odd?","options":["12","18","21","24"],"answer":2,"category":"Logic","difficulty":"easy"},
+{"q":"What comes next: A, C, E, G, __?","options":["H","I","J","K"],"answer":1,"category":"Logic","difficulty":"easy"},
+{"q":"Which number does not belong: 2, 4, 6, 9?","options":["2","4","6","9"],"answer":3,"category":"Logic","difficulty":"easy"},
+
+{"q":"Which word is spelled correctly?","options":["Definately","Definitely","Definetly","Definatly"],"answer":1,"category":"Word games","difficulty":"medium"},
+{"q":"Which word is the opposite of ancient?","options":["Old","Modern","Historic","Past"],"answer":1,"category":"Word games","difficulty":"easy"},
+{"q":"Which word rhymes with light?","options":["Late","Fight","Left","Lift"],"answer":1,"category":"Word games","difficulty":"easy"},
+{"q":"Which word is a palindrome?","options":["Table","Level","Chair","Water"],"answer":1,"category":"Word games","difficulty":"easy"},
+{"q":"Which letter comes immediately before Q?","options":["O","P","R","S"],"answer":1,"category":"Word games","difficulty":"easy"},
+
+{"q":"Which animal says moo?","options":["Goat","Cow","Sheep","Horse"],"answer":1,"category":"Funny & random","difficulty":"easy"},
+{"q":"Which food is usually eaten with chopsticks?","options":["Soup","Noodles","Pizza","Burger"],"answer":1,"category":"Funny & random","difficulty":"easy"},
+{"q":"Which animal is famous for its long neck?","options":["Zebra","Giraffe","Hippo","Rhino"],"answer":1,"category":"Funny & random","difficulty":"easy"},
+{"q":"Which of these is not a color?","options":["Purple","Orange","Triangle","Green"],"answer":2,"category":"Funny & random","difficulty":"easy"},
+{"q":"Which of these can fly naturally?","options":["Elephant","Penguin","Eagle","Ostrich"],"answer":2,"category":"Funny & random","difficulty":"easy"},
+
+{"q":"How many days are in a standard week?","options":["5","6","7","8"],"answer":2,"category":"General knowledge","difficulty":"easy"},
+{"q":"How many months are in a year?","options":["10","11","12","13"],"answer":2,"category":"General knowledge","difficulty":"easy"},
+{"q":"What is the first month of the year?","options":["March","January","June","December"],"answer":1,"category":"General knowledge","difficulty":"easy"},
+{"q":"How many hours are in a day?","options":["12","18","24","30"],"answer":2,"category":"General knowledge","difficulty":"easy"},
+{"q":"Which direction is opposite to north?","options":["East","West","South","Northeast"],"answer":2,"category":"General knowledge","difficulty":"easy"},
+
+{"q":"Which planet is closest to the Sun?","options":["Earth","Venus","Mercury","Mars"],"answer":2,"category":"Science & technology","difficulty":"easy"},
+{"q":"What does CPU stand for?","options":["Central Processing Unit","Computer Power Unit","Core Program Utility","Central Program User"],"answer":0,"category":"Science & technology","difficulty":"easy"},
+{"q":"Which gas do plants absorb during photosynthesis?","options":["Oxygen","Carbon dioxide","Helium","Hydrogen"],"answer":1,"category":"Science & technology","difficulty":"easy"},
+{"q":"How many legs does a spider have?","options":["6","8","10","12"],"answer":1,"category":"Science & technology","difficulty":"easy"},
+{"q":"What is H2O commonly called?","options":["Salt","Water","Oxygen","Hydrogen"],"answer":1,"category":"Science & technology","difficulty":"easy"},
+
+{"q":"Which sport uses a shuttlecock?","options":["Tennis","Badminton","Cricket","Golf"],"answer":1,"category":"Sports","difficulty":"easy"},
+{"q":"How many players are on the field for one soccer team?","options":["9","10","11","12"],"answer":2,"category":"Sports","difficulty":"easy"},
+{"q":"Which sport uses a bat and wickets?","options":["Baseball","Cricket","Hockey","Tennis"],"answer":1,"category":"Sports","difficulty":"easy"},
+{"q":"What is the maximum score from one basketball shot during normal play?","options":["1","2","3","4"],"answer":2,"category":"Sports","difficulty":"easy"},
+{"q":"Which sport uses the term strike?","options":["Baseball","Soccer","Golf","Basketball"],"answer":0,"category":"Sports","difficulty":"easy"},
+
+{"q":"Which game is famous for building with blocks?","options":["Minecraft","FIFA","Valorant","PUBG"],"answer":0,"category":"Gaming & anime","difficulty":"easy"},
+{"q":"Which Pokémon is yellow and uses electricity?","options":["Charmander","Squirtle","Pikachu","Bulbasaur"],"answer":2,"category":"Gaming & anime","difficulty":"easy"},
+{"q":"Which superhero carries a shield?","options":["Thor","Captain America","Iron Man","Hulk"],"answer":1,"category":"Movies & entertainment","difficulty":"easy"},
+{"q":"Which movie features Elsa and Anna?","options":["Moana","Frozen","Tangled","Brave"],"answer":1,"category":"Movies & entertainment","difficulty":"easy"},
+{"q":"Which animated character lives in a pineapple under the sea?","options":["Patrick Star","SpongeBob SquarePants","Squidward","Mr. Krabs"],"answer":1,"category":"Movies & entertainment","difficulty":"easy"}
+]

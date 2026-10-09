@@ -12,28 +12,74 @@ app.use(express.static("public"));
 const rooms = new Map();
 const MAX_PLAYERS = 8;
 const ROUND_MS = 60000;
+const QUIZ_QUESTION_MS = 12000;
 const ROUND_NAMES = ["Quiz Clash", "Guess the Word", "Draw & Guess", "Secret Spy", "Speed Challenge"];
-const QUESTIONS = [
-  { q: "Which planet is known as the Red Planet?", options: ["Venus", "Mars", "Jupiter", "Mercury"], answer: 1 },
-  { q: "How many sides does a hexagon have?", options: ["Five", "Six", "Seven", "Eight"], answer: 1 },
-  { q: "What is the largest ocean on Earth?", options: ["Atlantic", "Indian", "Arctic", "Pacific"], answer: 3 },
-  { q: "Which gas do plants absorb from the atmosphere?", options: ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"], answer: 2 },
-  { q: "What is the capital of Japan?", options: ["Seoul", "Tokyo", "Kyoto", "Osaka"], answer: 1 }
-];
-const WORDS = [
-  { word: "PIZZA", hint: "A popular food often shared in slices" },
-  { word: "GUITAR", hint: "A musical instrument with strings" },
-  { word: "VOLCANO", hint: "A mountain that can erupt" },
-  { word: "RAINBOW", hint: "A colorful arc seen in the sky" },
-  { word: "ASTRONAUT", hint: "A person trained to travel in space" }
-];
-const SPEED = [
-  { q: "What is 7 × 8?", options: ["54", "56", "58", "64"], answer: 1 },
-  { q: "Which is the odd one out?", options: ["Triangle", "Square", "Circle", "Carrot"], answer: 3 },
-  { q: "Complete the pattern: 2, 4, 8, 16, __", options: ["18", "24", "30", "32"], answer: 3 },
-  { q: "How many minutes are in 2 hours?", options: ["60", "90", "120", "180"], answer: 2 },
-  { q: "Which animal is a mammal?", options: ["Shark", "Dolphin", "Trout", "Octopus"], answer: 1 }
-];
+
+const QUESTIONS = require("./data/quiz.json");
+const WORDS = require("./data/words.json");
+const DRAWING = require("./data/drawing.json");
+const SPY = require("./data/spy.json");
+const SPEED = require("./data/speed.json");
+
+// Choose random entries without repeating them
+
+function pickUnique(items, count) {
+  // Remove duplicate questions based on their text
+  const seen = new Set();
+
+  const uniqueItems = items.filter(item => {
+    const question = String(item.q || "")
+      .trim()
+      .toLowerCase()
+      .replace(/\s+/g, " ");
+
+    if (!question || seen.has(question)) {
+      return false;
+    }
+
+    seen.add(question);
+    return true;
+  });
+
+  // Randomly shuffle the unique questions
+  for (let i = uniqueItems.length - 1; i > 0; i--) {
+    const j = crypto.randomInt(i + 1);
+
+    [uniqueItems[i], uniqueItems[j]] =
+      [uniqueItems[j], uniqueItems[i]];
+  }
+
+  // Return the requested number of questions
+  return uniqueItems.slice(0, count);
+}
+
+
+
+const challengeDecks = new WeakMap();
+
+function pickRandom(items) {
+  if (!items.length) {
+    throw new Error("Cannot select from an empty challenge library.");
+  }
+
+  let deck = challengeDecks.get(items);
+
+  // Create a new shuffled deck when all challenges are used.
+  if (!deck || deck.length === 0) {
+    deck = [...items];
+
+    for (let i = deck.length - 1; i > 0; i--) {
+      const j = crypto.randomInt(i + 1);
+      [deck[i], deck[j]] = [deck[j], deck[i]];
+    }
+
+    challengeDecks.set(items, deck);
+  }
+
+  // Remove the selected challenge so it cannot repeat
+  // until this deck has been exhausted.
+  return deck.pop();
+}
 
 function code() {
   const chars = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789";
@@ -47,8 +93,14 @@ function publicRoom(room) {
     roundName: ROUND_NAMES[room.round] || "Results",
     players: [...room.players.values()].map(p => ({ id: p.id, name: p.name, score: p.score, connected: p.connected })),
     deadline: room.deadline, game: room.game ? {
-      type: room.game.type, question: room.game.question, options: room.game.options,
-      hint: room.game.hint, prompt: room.game.prompt, drawerId: room.game.drawerId,
+type: room.game.type,
+question: room.game.question,
+options: room.game.options,
+questionIndex: room.game.questionIndex,
+totalQuestions: room.game.totalQuestions,
+hint: room.game.hint,
+prompt: room.game.prompt,
+drawerId: room.game.drawerId,
       canvas: room.game.canvas || [], votes: room.game.votes || {}
     } : null,
     results: room.results || null
@@ -67,49 +119,189 @@ function startRound(room) {
   room.results = null;
   for (const p of room.players.values()) p.roundScore = 0;
   const index = room.round;
-  if (index === 0) {
-    const q = QUESTIONS[(room.matchSeed + index) % QUESTIONS.length];
-    room.game = { type: "quiz", question: q.q, options: q.options, answer: q.answer, answered: {} };
-  } else if (index === 1) {
-    const w = WORDS[(room.matchSeed + index) % WORDS.length];
+
+if (index === 0) {
+  room.quizQuestions = pickUnique(QUESTIONS, 5);
+
+  const q = room.quizQuestions[0];
+
+  room.game = {
+    type: "quiz",
+    questionIndex: 0,
+    totalQuestions: room.quizQuestions.length,
+    question: q.q,
+    options: q.options,
+    answer: q.answer,
+    answered: {}
+  };
+}
+ else if (index === 1) {
+    const w = pickRandom(WORDS);
     room.game = { type: "word", word: w.word, hint: w.hint, guessed: {} };
   } else if (index === 2) {
     const players = [...room.players.values()];
     const drawer = players[(room.matchSeed + index) % players.length];
-    room.game = { type: "draw", prompt: ["A rocket", "A sleepy cat", "A mountain", "A birthday cake"][room.matchSeed % 4], drawerId: drawer.id, canvas: [], guessed: {}, answered: {} };
+    
+const drawingChallenge = pickRandom(DRAWING);
+
+room.game = {
+  type: "draw",
+  prompt: drawingChallenge.prompt,
+  category: drawingChallenge.category,
+  difficulty: drawingChallenge.difficulty,
+  drawerId: drawer.id,
+  canvas: [],
+  guessed: {},
+  answered: {}
+};
+
   } else if (index === 3) {
     const players = [...room.players.values()];
     const spy = players[(room.matchSeed + index) % players.length];
-    room.game = { type: "spy", spyId: spy.id, word: ["Pineapple", "Volcano", "Skateboard", "Penguin"][room.matchSeed % 4], prompt: "Describe your secret word in a few words—don't say it directly.", submitted: {}, votes: {}, voting: false };
+    
+const spyChallenge = pickRandom(SPY);
+
+room.game = {
+  type: "spy",
+  spyId: spy.id,
+  word: spyChallenge.word,
+  category: spyChallenge.category,
+  prompt: "Describe your secret word in a few words—don't say it directly.",
+  submitted: {},
+  votes: {},
+  voting: false
+};
+
     players.forEach(p => io.to(p.id).emit("secret:role", {
       role: p.id === spy.id ? "spy" : "player",
       word: p.id === spy.id ? null : room.game.word,
       message: p.id === spy.id ? "You are the SPY. Blend in and avoid being caught." : "Your secret word is: " + room.game.word
     }));
   } else {
-    const q = SPEED[(room.matchSeed + index) % SPEED.length];
+    const q = pickRandom(SPEED);
     room.game = { type: "speed", question: q.q, options: q.options, answer: q.answer, answered: {} };
   }
-  emitRoom(room);
-  room.timer = setTimeout(() => endRound(room, "Time's up!"), ROUND_MS);
+emitRoom(room);
+
+if (room.game.type === "quiz") {
+  room.timer = setTimeout(() => {
+    nextQuizQuestion(room);
+  }, QUIZ_QUESTION_MS);
+} else {
+  room.timer = setTimeout(() => {
+    endRound(room, "Time's up!");
+  }, ROUND_MS);
 }
+}
+function nextQuizQuestion(room) {
+  if (
+    !room ||
+    room.phase !== "playing" ||
+    room.game?.type !== "quiz"
+  ) return;
+
+  clearTimeout(room.timer);
+
+  const nextIndex = room.game.questionIndex + 1;
+
+  // Finish Quiz Clash after five questions
+  if (nextIndex >= 5) {
+    endRound(room, "Quiz Clash complete!");
+    return;
+  }
+
+  // Select the next question
+  const q = room.quizQuestions[nextIndex];
+
+  room.game = {
+    type: "quiz",
+    questionIndex: nextIndex,
+    totalQuestions: 5,
+    question: q.q,
+    options: q.options,
+    answer: q.answer,
+    answered: {}
+  };
+
+  // Give players 12 seconds for this question
+  room.deadline = Date.now() + QUIZ_QUESTION_MS;
+
+  // Send the new question to all players
+  emitRoom(room);
+
+  // Schedule the following question
+  room.timer = setTimeout(
+    () => nextQuizQuestion(room),
+    QUIZ_QUESTION_MS
+  );
+}
+
 function endRound(room, message = "Round complete!") {
   if (!room || room.phase !== "playing") return;
+
   clearTimeout(room.timer);
+
+  // Transfer round points into total scores
   for (const p of room.players.values()) {
     p.score += p.roundScore || 0;
   }
-  room.phase = "between";
+
   room.deadline = null;
-  room.results = { message, scores: [...room.players.values()].map(p => ({ name: p.name, roundScore: p.roundScore || 0, score: p.score })).sort((a,b) => b.roundScore-a.roundScore) };
-  room.game = room.game && room.game.type === "spy" ? { ...room.game, word: undefined, spyId: undefined } : room.game;
+
+  const scores = [...room.players.values()]
+    .map(p => ({
+      name: p.name,
+      roundScore: p.roundScore || 0,
+      score: p.score
+    }))
+    .sort((a, b) => b.score - a.score);
+
+  // After the fifth round, show final results automatically
+  if (room.round === 4) {
+    room.phase = "finished";
+    room.results = {
+      message: "Match complete!",
+      scores
+    };
+    room.game = null;
+    emitRoom(room);
+    return;
+  }
+
+  // Show round results for Rounds 1–4
+  room.phase = "between";
+  room.results = { message, scores };
+
+  if (room.game?.type === "spy") {
+    room.game = {
+      ...room.game,
+      word: undefined,
+      spyId: undefined
+    };
+  }
+
   emitRoom(room);
 }
+
 function maybeAllAnswered(room) {
   if (!room || !room.game) return;
+
   const g = room.game;
-  const active = [...room.players.values()].filter(p => p.connected);
-  if (["quiz","speed"].includes(g.type) && active.length && active.every(p => g.answered[p.id] !== undefined)) endRound(room, "Everyone answered!");
+
+  // Quiz Clash uses its own 12-second question timer.
+  // Do not end the round when everyone answers.
+  if (g.type === "quiz") return;
+
+  const active = [...room.players.values()]
+    .filter(p => p.connected);
+
+  if (
+    g.type === "speed" &&
+    active.length > 0 &&
+    active.every(p => g.answered[p.id] !== undefined)
+  ) {
+    endRound(room, "Everyone answered!");
+  }
 }
 io.on("connection", socket => {
   socket.on("room:create", ({ name }, cb = () => {}) => {
@@ -136,7 +328,7 @@ io.on("connection", socket => {
     if (!room || room.hostId !== socket.id || room.phase !== "lobby") return;
     if (room.players.size < 2) return socket.emit("notice", "At least two players are required.");
     room.round = 0; room.matchSeed = crypto.randomInt(1000);
-    for (const p of room.players.values()) { p.score = 0; p.roundScore = 0; }
+    for (const p of room.players.values()) { p.score += p.roundScore || 0; }
     startRound(room);
   });
   socket.on("game:answer", ({ answer }) => {
@@ -150,7 +342,16 @@ io.on("connection", socket => {
       g.answered[socket.id] = { correct, at: Date.now() };
       if (correct) {
         const elapsed = Math.max(0, 1 - ((Date.now() - (room.deadline - ROUND_MS)) / ROUND_MS));
-        addPoints(room, p, Math.min(1000, 800 + Math.round(200 * elapsed)));
+       if (g.type === "quiz") {
+  const timeLeft = Math.max(0, room.deadline - Date.now());
+  const speedBonus = Math.round(
+    100 * Math.min(1, timeLeft / QUIZ_QUESTION_MS)
+  );
+
+  addPoints(room, p, 100 + speedBonus);
+} else {
+  addPoints(room, p, Math.min(1000, 800 + Math.round(200 * elapsed)));
+}
       }
       socket.emit("answer:feedback", { correct, message: correct ? "Correct! Nice work." : "Not quite—keep going next round." });
       emitRoom(room); maybeAllAnswered(room);

@@ -1,0 +1,50 @@
+
+[
+  {"q":"Which instrument measures atmospheric pressure?","options":["Thermometer","Barometer","Hygrometer","Anemometer"],"answer":1,"category":"Science & technology","difficulty":"medium"},
+  {"q":"Which planet has the most prominent ring system?","options":["Mars","Venus","Saturn","Mercury"],"answer":2,"category":"Science & technology","difficulty":"easy"},
+  {"q":"Which organ produces insulin?","options":["Liver","Kidney","Pancreas","Stomach"],"answer":2,"category":"Science & technology","difficulty":"medium"},
+  {"q":"What is the largest internal organ in the human body?","options":["Heart","Liver","Lung","Kidney"],"answer":1,"category":"Science & technology","difficulty":"medium"},
+  {"q":"What does URL stand for?","options":["Uniform Resource Locator","Universal Reference Link","Unified Routing Language","User Resource Location"],"answer":0,"category":"Science & technology","difficulty":"easy"},
+
+  {"q":"Which country has the city of Kyoto?","options":["China","Japan","South Korea","Thailand"],"answer":1,"category":"Geography","difficulty":"easy"},
+  {"q":"Which river flows through Paris?","options":["Thames","Rhine","Seine","Danube"],"answer":2,"category":"Geography","difficulty":"medium"},
+  {"q":"What is the capital of Canada?","options":["Toronto","Vancouver","Montreal","Ottawa"],"answer":3,"category":"Geography","difficulty":"medium"},
+  {"q":"Which country contains Mount Kilimanjaro?","options":["Kenya","Tanzania","Uganda","Ethiopia"],"answer":1,"category":"Geography","difficulty":"medium"},
+  {"q":"Which is the world's largest island that is not classified as a continent?","options":["Madagascar","Borneo","Greenland","New Guinea"],"answer":2,"category":"Geography","difficulty":"medium"},
+
+  {"q":"Which actor played the Joker in The Dark Knight (2008)?","options":["Joaquin Phoenix","Heath Ledger","Jared Leto","Jack Nicholson"],"answer":1,"category":"Movies & entertainment","difficulty":"easy"},
+  {"q":"Which animated movie features the song Let It Go?","options":["Moana","Tangled","Frozen","Brave"],"answer":2,"category":"Movies & entertainment","difficulty":"easy"},
+  {"q":"Who directed Jurassic Park (1993)?","options":["Steven Spielberg","James Cameron","George Lucas","Tim Burton"],"answer":0,"category":"Movies & entertainment","difficulty":"medium"},
+  {"q":"Which TV series features the fictional continent of Westeros?","options":["The Witcher","Game of Thrones","Vikings","The Last Kingdom"],"answer":1,"category":"Movies & entertainment","difficulty":"easy"},
+  {"q":"Which movie features the fictional kingdom of Wakanda?","options":["Black Panther","Doctor Strange","Aquaman","Thor"],"answer":0,"category":"Movies & entertainment","difficulty":"easy"},
+
+  {"q":"How many rings appear on the Olympic symbol?","options":["4","5","6","7"],"answer":1,"category":"Sports","difficulty":"easy"},
+  {"q":"Which sport awards a touchdown?","options":["Basketball","American football","Baseball","Ice hockey"],"answer":1,"category":"Sports","difficulty":"easy"},
+  {"q":"Which country won the 2018 FIFA World Cup?","options":["Croatia","Germany","France","Argentina"],"answer":2,"category":"Sports","difficulty":"medium"},
+  {"q":"In cricket, how many legal deliveries make up a standard over?","options":["4","5","6","8"],"answer":2,"category":"Sports","difficulty":"easy"},
+  {"q":"Which tennis Grand Slam is played on clay courts?","options":["Wimbledon","US Open","Australian Open","French Open"],"answer":3,"category":"Sports","difficulty":"medium"},
+
+  {"q":"Which Indian state is famous for the classical dance Kathakali?","options":["Kerala","Punjab","Gujarat","Assam"],"answer":0,"category":"Indian movies & culture","difficulty":"medium"},
+  {"q":"Who composed the soundtrack for Slumdog Millionaire?","options":["Anirudh Ravichander","A. R. Rahman","Ilaiyaraaja","Pritam"],"answer":1,"category":"Indian movies & culture","difficulty":"medium"},
+  {"q":"Which Indian city is known as the Pink City?","options":["Udaipur","Jaipur","Jodhpur","Agra"],"answer":1,"category":"Indian movies & culture","difficulty":"easy"},
+  {"q":"Which festival celebrates the harvest in Tamil Nadu?","options":["Onam","Baisakhi","Pongal","Navratri"],"answer":2,"category":"Indian movies & culture","difficulty":"easy"},
+  {"q":"Which Indian movie features the character Rancho?","options":["3 Idiots","PK","Dangal","Lagaan"],"answer":0,"category":"Indian movies & culture","difficulty":"easy"},
+
+  {"q":"Which company created the PlayStation console?","options":["Nintendo","Microsoft","Sony","Sega"],"answer":2,"category":"Gaming & anime","difficulty":"easy"},
+  {"q":"Which anime features the character Tanjiro Kamado?","options":["Naruto","Demon Slayer","Bleach","One Piece"],"answer":1,"category":"Gaming & anime","difficulty":"easy"},
+  {"q":"Which video game series features the city of Los Santos?","options":["Grand Theft Auto","Watch Dogs","Saints Row","Need for Speed"],"answer":0,"category":"Gaming & anime","difficulty":"medium"},
+  {"q":"Which Nintendo character is known for wearing a green tunic and carrying the Master Sword?","options":["Mario","Link","Kirby","Fox McCloud"],"answer":1,"category":"Gaming & anime","difficulty":"easy"},
+  {"q":"Which anime features the character Light Yagami?","options":["Death Note","Attack on Titan","Tokyo Ghoul","Code Geass"],"answer":0,"category":"Gaming & anime","difficulty":"easy"},
+
+  {"q":"What is the traditional name for a group of lions?","options":["Pack","Pride","Herd","Colony"],"answer":1,"category":"Funny & random","difficulty":"easy"},
+  {"q":"Which animal is known for sleeping while hanging upside down?","options":["Koala","Sloth","Bat","Otter"],"answer":2,"category":"Funny & random","difficulty":"easy"},
+  {"q":"Which food is traditionally used to make guacamole?","options":["Avocado","Cucumber","Peas","Zucchini"],"answer":0,"category":"Funny & random","difficulty":"easy"},
+  {"q":"Which board game features the instruction Go to Jail?","options":["Chess","Monopoly","Scrabble","Clue"],"answer":1,"category":"Funny & random","difficulty":"easy"},
+  {"q":"Which bird is famous for mimicking human speech?","options":["Eagle","Penguin","Parrot","Ostrich"],"answer":2,"category":"Funny & random","difficulty":"easy"},
+
+  {"q":"How many sides does a hexagon have?","options":["5","6","7","8"],"answer":1,"category":"General knowledge","difficulty":"easy"},
+  {"q":"Which language is primarily spoken in Brazil?","options":["Spanish","Portuguese","French","Italian"],"answer":1,"category":"General knowledge","difficulty":"easy"},
+  {"q":"Which chess piece moves in an L shape?","options":["Bishop","Rook","Knight","Queen"],"answer":2,"category":"General knowledge","difficulty":"easy"},
+  {"q":"How many colors are traditionally listed in a rainbow?","options":["5","6","7","8"],"answer":2,"category":"General knowledge","difficulty":"easy"},
+  {"q":"Which metal is liquid at typical room temperature?","options":["Copper","Iron","Mercury","Aluminum"],"answer":2,"category":"General knowledge","difficulty":"medium"}
+]

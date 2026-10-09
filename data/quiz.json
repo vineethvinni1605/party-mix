@@ -1,0 +1,2630 @@
+[
+  {
+    "q": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": 1,
+    "category": "Science & technology",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is the capital of Japan?",
+    "options": [
+      "Seoul",
+      "Tokyo",
+      "Kyoto",
+      "Osaka"
+    ],
+    "answer": 1,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which film features the character Jack Dawson?",
+    "options": [
+      "Avatar",
+      "Titanic",
+      "Inception",
+      "Gladiator"
+    ],
+    "answer": 1,
+    "category": "Movies & entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many players are on the field for one soccer team?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": 2,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Power Utility",
+      "Central Program User",
+      "Core Processing Usage"
+    ],
+    "answer": 0,
+    "category": "Science & technology",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Who directed the film RRR?",
+    "options": [
+      "S. S. Rajamouli",
+      "Sukumar",
+      "Shankar",
+      "Mani Ratnam"
+    ],
+    "answer": 0,
+    "category": "Indian movies & culture",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which game features Creepers?",
+    "options": [
+      "Fortnite",
+      "Minecraft",
+      "Roblox",
+      "Valorant"
+    ],
+    "answer": 1,
+    "category": "Gaming & anime",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which animal is famous for carrying its home on its back?",
+    "options": [
+      "Rabbit",
+      "Turtle",
+      "Fox",
+      "Horse"
+    ],
+    "answer": 1,
+    "category": "Funny & random",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which ocean is the largest?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is the chemical symbol for gold?",
+    "options": [
+      "Ag",
+      "Au",
+      "Fe",
+      "Go"
+    ],
+    "answer": 1,
+    "category": "Science & technology",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "answer": 2,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Who directed the movie Titanic (1997)?",
+    "options": [
+      "Steven Spielberg",
+      "James Cameron",
+      "Christopher Nolan",
+      "Peter Jackson"
+    ],
+    "answer": 1,
+    "category": "Movies & entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which sport uses a shuttlecock?",
+    "options": [
+      "Tennis",
+      "Squash",
+      "Badminton",
+      "Table tennis"
+    ],
+    "answer": 2,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which country hosted the 2016 Summer Olympics?",
+    "options": [
+      "Japan",
+      "Brazil",
+      "China",
+      "United Kingdom"
+    ],
+    "answer": 1,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which Indian festival is associated with colors?",
+    "options": [
+      "Diwali",
+      "Holi",
+      "Pongal",
+      "Onam"
+    ],
+    "answer": 1,
+    "category": "Indian movies & culture",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Who plays Iron Man in the Marvel Cinematic Universe?",
+    "options": [
+      "Chris Evans",
+      "Chris Hemsworth",
+      "Robert Downey Jr.",
+      "Mark Ruffalo"
+    ],
+    "answer": 2,
+    "category": "Movies & entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is the smallest prime number?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which continent contains the Sahara Desert?",
+    "options": [
+      "Asia",
+      "Africa",
+      "Australia",
+      "South America"
+    ],
+    "answer": 1,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which programming language is named after a comedy group?",
+    "options": [
+      "Java",
+      "Python",
+      "Ruby",
+      "Swift"
+    ],
+    "answer": 1,
+    "category": "Science & technology",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which country won the 2011 Cricket World Cup?",
+    "options": [
+      "Australia",
+      "India",
+      "Sri Lanka",
+      "Pakistan"
+    ],
+    "answer": 1,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Who created the Naruto manga?",
+    "options": [
+      "Eiichiro Oda",
+      "Masashi Kishimoto",
+      "Akira Toriyama",
+      "Tite Kubo"
+    ],
+    "answer": 1,
+    "category": "Gaming & anime",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which Indian film features the song Naatu Naatu?",
+    "options": [
+      "Pushpa",
+      "Baahubali",
+      "RRR",
+      "KGF"
+    ],
+    "answer": 2,
+    "category": "Indian movies & culture",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which city is known as the Big Apple?",
+    "options": [
+      "Chicago",
+      "New York City",
+      "Boston",
+      "Los Angeles"
+    ],
+    "answer": 1,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which movie features the character Jack Sparrow?",
+    "options": [
+      "The Mummy",
+      "Pirates of the Caribbean",
+      "Indiana Jones",
+      "Treasure Planet"
+    ],
+    "answer": 1,
+    "category": "Movies & entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many players are on the field for one soccer team at the start of a standard match?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": 2,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which Pokémon is famous for its electric powers and yellow appearance?",
+    "options": [
+      "Charmander",
+      "Squirtle",
+      "Pikachu",
+      "Bulbasaur"
+    ],
+    "answer": 2,
+    "category": "Gaming & anime",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is the hardest natural mineral on the Mohs scale?",
+    "options": [
+      "Quartz",
+      "Diamond",
+      "Topaz",
+      "Corundum"
+    ],
+    "answer": 1,
+    "category": "Science & technology",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which country is home to the ancient city of Petra?",
+    "options": [
+      "Egypt",
+      "Jordan",
+      "Greece",
+      "Turkey"
+    ],
+    "answer": 1,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Who directed the film Inception?",
+    "options": [
+      "Christopher Nolan",
+      "James Cameron",
+      "Denis Villeneuve",
+      "Ridley Scott"
+    ],
+    "answer": 0,
+    "category": "Movies & entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which sport is associated with Wimbledon?",
+    "options": [
+      "Golf",
+      "Tennis",
+      "Cricket",
+      "Rugby"
+    ],
+    "answer": 1,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which Indian classical dance originated in Tamil Nadu?",
+    "options": [
+      "Kathak",
+      "Bharatanatyam",
+      "Odissi",
+      "Manipuri"
+    ],
+    "answer": 1,
+    "category": "Indian movies & culture",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What does HTML stand for?",
+    "options": [
+      "HyperText Markup Language",
+      "High Transfer Machine Language",
+      "Hyperlink Text Management Logic",
+      "Home Tool Markup Language"
+    ],
+    "answer": 0,
+    "category": "Science & technology",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which fictional character is known as the Dark Knight?",
+    "options": [
+      "Superman",
+      "Batman",
+      "Spider-Man",
+      "Iron Man"
+    ],
+    "answer": 1,
+    "category": "Movies & entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which board game uses properties, rent, and hotels?",
+    "options": [
+      "Scrabble",
+      "Monopoly",
+      "Clue",
+      "Risk"
+    ],
+    "answer": 1,
+    "category": "Funny & random",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which anime features the Straw Hat Pirates?",
+    "options": [
+      "Bleach",
+      "One Piece",
+      "Dragon Ball",
+      "Demon Slayer"
+    ],
+    "answer": 1,
+    "category": "Gaming & anime",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which country is famous for the ancient ruins of Machu Picchu?",
+    "options": [
+      "Mexico",
+      "Peru",
+      "Chile",
+      "Brazil"
+    ],
+    "answer": 1,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which actor played the lead role in the film Baahubali?",
+    "options": [
+      "Allu Arjun",
+      "Prabhas",
+      "Ram Charan",
+      "Mahesh Babu"
+    ],
+    "answer": 1,
+    "category": "Indian movies & culture",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which video game series features Master Chief?",
+    "options": [
+      "Halo",
+      "Mass Effect",
+      "Destiny",
+      "Gears of War"
+    ],
+    "answer": 0,
+    "category": "Gaming & anime",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the SI unit of electrical resistance?",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Watt"
+    ],
+    "answer": 2,
+    "category": "Science & technology",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which country won the FIFA World Cup in 2022?",
+    "options": [
+      "France",
+      "Brazil",
+      "Argentina",
+      "Germany"
+    ],
+    "answer": 2,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 12 + 29?",
+    "options": [
+      "44",
+      "39",
+      "46",
+      "41"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 13 + 30?",
+    "options": [
+      "48",
+      "46",
+      "43",
+      "41"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 14 + 31?",
+    "options": [
+      "43",
+      "50",
+      "48",
+      "45"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 15 + 32?",
+    "options": [
+      "45",
+      "50",
+      "47",
+      "52"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 16 + 33?",
+    "options": [
+      "47",
+      "52",
+      "54",
+      "49"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 17 + 34?",
+    "options": [
+      "49",
+      "56",
+      "54",
+      "51"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 18 + 35?",
+    "options": [
+      "56",
+      "51",
+      "53",
+      "58"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 19 + 36?",
+    "options": [
+      "53",
+      "60",
+      "55",
+      "58"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 20 + 37?",
+    "options": [
+      "57",
+      "60",
+      "55",
+      "62"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 21 + 38?",
+    "options": [
+      "62",
+      "64",
+      "59",
+      "57"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 22 + 39?",
+    "options": [
+      "64",
+      "59",
+      "66",
+      "61"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 23 + 40?",
+    "options": [
+      "68",
+      "66",
+      "61",
+      "63"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 24 + 41?",
+    "options": [
+      "70",
+      "63",
+      "65",
+      "68"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 25 + 42?",
+    "options": [
+      "70",
+      "72",
+      "65",
+      "67"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 26 + 43?",
+    "options": [
+      "69",
+      "67",
+      "74",
+      "72"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 27 + 44?",
+    "options": [
+      "76",
+      "71",
+      "74",
+      "69"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 28 + 45?",
+    "options": [
+      "71",
+      "78",
+      "76",
+      "73"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 29 + 46?",
+    "options": [
+      "73",
+      "80",
+      "75",
+      "78"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 30 + 47?",
+    "options": [
+      "82",
+      "80",
+      "75",
+      "77"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 31 + 48?",
+    "options": [
+      "79",
+      "77",
+      "82",
+      "84"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 32 + 49?",
+    "options": [
+      "81",
+      "84",
+      "86",
+      "79"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 33 + 50?",
+    "options": [
+      "83",
+      "88",
+      "86",
+      "81"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 34 + 51?",
+    "options": [
+      "83",
+      "90",
+      "88",
+      "85"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 35 + 52?",
+    "options": [
+      "90",
+      "92",
+      "87",
+      "85"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 36 + 53?",
+    "options": [
+      "92",
+      "89",
+      "87",
+      "94"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 6 × 9?",
+    "options": [
+      "63",
+      "72",
+      "54",
+      "45"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 7 × 3?",
+    "options": [
+      "27",
+      "18",
+      "24",
+      "21"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 8 × 4?",
+    "options": [
+      "36",
+      "40",
+      "32",
+      "28"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 9 × 5?",
+    "options": [
+      "55",
+      "50",
+      "45",
+      "40"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 10 × 6?",
+    "options": [
+      "60",
+      "66",
+      "54",
+      "72"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 11 × 7?",
+    "options": [
+      "70",
+      "77",
+      "91",
+      "84"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 12 × 8?",
+    "options": [
+      "96",
+      "112",
+      "88",
+      "104"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 13 × 9?",
+    "options": [
+      "117",
+      "126",
+      "108",
+      "135"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 14 × 3?",
+    "options": [
+      "45",
+      "48",
+      "42",
+      "39"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15 × 4?",
+    "options": [
+      "64",
+      "56",
+      "60",
+      "68"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 16 × 5?",
+    "options": [
+      "85",
+      "75",
+      "90",
+      "80"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 17 × 6?",
+    "options": [
+      "108",
+      "102",
+      "96",
+      "114"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 18 × 7?",
+    "options": [
+      "126",
+      "119",
+      "133",
+      "140"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 19 × 8?",
+    "options": [
+      "160",
+      "152",
+      "168",
+      "144"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 20 × 9?",
+    "options": [
+      "198",
+      "189",
+      "171",
+      "180"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 21 × 3?",
+    "options": [
+      "69",
+      "66",
+      "63",
+      "60"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 22 × 4?",
+    "options": [
+      "84",
+      "92",
+      "88",
+      "96"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 23 × 5?",
+    "options": [
+      "125",
+      "120",
+      "110",
+      "115"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 24 × 6?",
+    "options": [
+      "156",
+      "144",
+      "138",
+      "150"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25 × 7?",
+    "options": [
+      "182",
+      "175",
+      "189",
+      "168"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 26 × 8?",
+    "options": [
+      "200",
+      "208",
+      "224",
+      "216"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 27 × 9?",
+    "options": [
+      "261",
+      "252",
+      "234",
+      "243"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 28 × 3?",
+    "options": [
+      "87",
+      "81",
+      "84",
+      "90"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 29 × 4?",
+    "options": [
+      "124",
+      "116",
+      "120",
+      "112"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 30 × 5?",
+    "options": [
+      "155",
+      "145",
+      "160",
+      "150"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 50 - 23?",
+    "options": [
+      "32",
+      "29",
+      "24",
+      "27"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 51 - 24?",
+    "options": [
+      "29",
+      "32",
+      "24",
+      "27"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 52 - 25?",
+    "options": [
+      "27",
+      "32",
+      "24",
+      "29"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 53 - 26?",
+    "options": [
+      "27",
+      "24",
+      "32",
+      "29"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 54 - 27?",
+    "options": [
+      "32",
+      "27",
+      "24",
+      "29"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 55 - 28?",
+    "options": [
+      "27",
+      "32",
+      "29",
+      "24"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 56 - 29?",
+    "options": [
+      "27",
+      "29",
+      "24",
+      "32"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 57 - 11?",
+    "options": [
+      "48",
+      "43",
+      "51",
+      "46"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 58 - 12?",
+    "options": [
+      "43",
+      "51",
+      "48",
+      "46"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 59 - 13?",
+    "options": [
+      "51",
+      "46",
+      "43",
+      "48"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 60 - 14?",
+    "options": [
+      "48",
+      "43",
+      "51",
+      "46"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 61 - 15?",
+    "options": [
+      "51",
+      "43",
+      "46",
+      "48"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 62 - 16?",
+    "options": [
+      "48",
+      "51",
+      "46",
+      "43"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 63 - 17?",
+    "options": [
+      "46",
+      "48",
+      "51",
+      "43"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 64 - 18?",
+    "options": [
+      "51",
+      "46",
+      "43",
+      "48"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 65 - 19?",
+    "options": [
+      "43",
+      "48",
+      "46",
+      "51"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 66 - 20?",
+    "options": [
+      "48",
+      "43",
+      "46",
+      "51"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 67 - 21?",
+    "options": [
+      "51",
+      "48",
+      "43",
+      "46"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 68 - 22?",
+    "options": [
+      "46",
+      "51",
+      "48",
+      "43"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 69 - 23?",
+    "options": [
+      "48",
+      "46",
+      "43",
+      "51"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 70 - 24?",
+    "options": [
+      "43",
+      "48",
+      "51",
+      "46"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 71 - 25?",
+    "options": [
+      "48",
+      "51",
+      "46",
+      "43"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 72 - 26?",
+    "options": [
+      "43",
+      "51",
+      "46",
+      "48"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 73 - 27?",
+    "options": [
+      "43",
+      "46",
+      "51",
+      "48"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 74 - 28?",
+    "options": [
+      "51",
+      "46",
+      "48",
+      "43"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 25% of 20?",
+    "options": [
+      "15",
+      "0",
+      "10",
+      "5"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 40?",
+    "options": [
+      "15",
+      "5",
+      "20",
+      "10"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 60?",
+    "options": [
+      "20",
+      "25",
+      "10",
+      "15"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 80?",
+    "options": [
+      "20",
+      "30",
+      "25",
+      "15"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 100?",
+    "options": [
+      "35",
+      "25",
+      "20",
+      "30"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 120?",
+    "options": [
+      "40",
+      "30",
+      "25",
+      "35"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 140?",
+    "options": [
+      "35",
+      "45",
+      "40",
+      "30"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 160?",
+    "options": [
+      "40",
+      "35",
+      "45",
+      "50"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 180?",
+    "options": [
+      "55",
+      "40",
+      "45",
+      "50"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 200?",
+    "options": [
+      "45",
+      "60",
+      "50",
+      "55"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 220?",
+    "options": [
+      "60",
+      "50",
+      "55",
+      "65"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 240?",
+    "options": [
+      "65",
+      "60",
+      "70",
+      "55"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 260?",
+    "options": [
+      "70",
+      "60",
+      "75",
+      "65"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 280?",
+    "options": [
+      "65",
+      "80",
+      "70",
+      "75"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 300?",
+    "options": [
+      "85",
+      "75",
+      "70",
+      "80"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 320?",
+    "options": [
+      "75",
+      "80",
+      "90",
+      "85"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 340?",
+    "options": [
+      "80",
+      "95",
+      "90",
+      "85"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 360?",
+    "options": [
+      "85",
+      "95",
+      "90",
+      "100"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 380?",
+    "options": [
+      "95",
+      "105",
+      "90",
+      "100"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 400?",
+    "options": [
+      "100",
+      "95",
+      "110",
+      "105"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 420?",
+    "options": [
+      "115",
+      "105",
+      "110",
+      "100"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 440?",
+    "options": [
+      "120",
+      "105",
+      "115",
+      "110"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 460?",
+    "options": [
+      "120",
+      "110",
+      "125",
+      "115"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 480?",
+    "options": [
+      "115",
+      "125",
+      "120",
+      "130"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 500?",
+    "options": [
+      "135",
+      "130",
+      "120",
+      "125"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which instrument measures atmospheric pressure?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Hygrometer",
+      "Anemometer"
+    ],
+    "answer": 1,
+    "category": "Science & technology",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which planet has the most prominent ring system?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Saturn",
+      "Mercury"
+    ],
+    "answer": 2,
+    "category": "Science & technology",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which organ produces insulin?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Pancreas",
+      "Stomach"
+    ],
+    "answer": 2,
+    "category": "Science & technology",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the largest internal organ in the human body?",
+    "options": [
+      "Heart",
+      "Liver",
+      "Lung",
+      "Kidney"
+    ],
+    "answer": 1,
+    "category": "Science & technology",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What does URL stand for?",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Reference Link",
+      "Unified Routing Language",
+      "User Resource Location"
+    ],
+    "answer": 0,
+    "category": "Science & technology",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which country has the city of Kyoto?",
+    "options": [
+      "China",
+      "Japan",
+      "South Korea",
+      "Thailand"
+    ],
+    "answer": 1,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which river flows through Paris?",
+    "options": [
+      "Thames",
+      "Rhine",
+      "Seine",
+      "Danube"
+    ],
+    "answer": 2,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the capital of Canada?",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Montreal",
+      "Ottawa"
+    ],
+    "answer": 3,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which country contains Mount Kilimanjaro?",
+    "options": [
+      "Kenya",
+      "Tanzania",
+      "Uganda",
+      "Ethiopia"
+    ],
+    "answer": 1,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which is the world's largest island that is not classified as a continent?",
+    "options": [
+      "Madagascar",
+      "Borneo",
+      "Greenland",
+      "New Guinea"
+    ],
+    "answer": 2,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which actor played the Joker in The Dark Knight (2008)?",
+    "options": [
+      "Joaquin Phoenix",
+      "Heath Ledger",
+      "Jared Leto",
+      "Jack Nicholson"
+    ],
+    "answer": 1,
+    "category": "Movies & entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which animated movie features the song Let It Go?",
+    "options": [
+      "Moana",
+      "Tangled",
+      "Frozen",
+      "Brave"
+    ],
+    "answer": 2,
+    "category": "Movies & entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Who directed Jurassic Park (1993)?",
+    "options": [
+      "Steven Spielberg",
+      "James Cameron",
+      "George Lucas",
+      "Tim Burton"
+    ],
+    "answer": 0,
+    "category": "Movies & entertainment",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which TV series features the fictional continent of Westeros?",
+    "options": [
+      "The Witcher",
+      "Game of Thrones",
+      "Vikings",
+      "The Last Kingdom"
+    ],
+    "answer": 1,
+    "category": "Movies & entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which movie features the fictional kingdom of Wakanda?",
+    "options": [
+      "Black Panther",
+      "Doctor Strange",
+      "Aquaman",
+      "Thor"
+    ],
+    "answer": 0,
+    "category": "Movies & entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many rings appear on the Olympic symbol?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 1,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which sport awards a touchdown?",
+    "options": [
+      "Basketball",
+      "American football",
+      "Baseball",
+      "Ice hockey"
+    ],
+    "answer": 1,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which country won the 2018 FIFA World Cup?",
+    "options": [
+      "Croatia",
+      "Germany",
+      "France",
+      "Argentina"
+    ],
+    "answer": 2,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "q": "In cricket, how many legal deliveries make up a standard over?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": 2,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which tennis Grand Slam is played on clay courts?",
+    "options": [
+      "Wimbledon",
+      "US Open",
+      "Australian Open",
+      "French Open"
+    ],
+    "answer": 3,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which Indian state is famous for the classical dance Kathakali?",
+    "options": [
+      "Kerala",
+      "Punjab",
+      "Gujarat",
+      "Assam"
+    ],
+    "answer": 0,
+    "category": "Indian movies & culture",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Who composed the soundtrack for Slumdog Millionaire?",
+    "options": [
+      "Anirudh Ravichander",
+      "A. R. Rahman",
+      "Ilaiyaraaja",
+      "Pritam"
+    ],
+    "answer": 1,
+    "category": "Indian movies & culture",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which Indian city is known as the Pink City?",
+    "options": [
+      "Udaipur",
+      "Jaipur",
+      "Jodhpur",
+      "Agra"
+    ],
+    "answer": 1,
+    "category": "Indian movies & culture",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which festival celebrates the harvest in Tamil Nadu?",
+    "options": [
+      "Onam",
+      "Baisakhi",
+      "Pongal",
+      "Navratri"
+    ],
+    "answer": 2,
+    "category": "Indian movies & culture",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which Indian movie features the character Rancho?",
+    "options": [
+      "3 Idiots",
+      "PK",
+      "Dangal",
+      "Lagaan"
+    ],
+    "answer": 0,
+    "category": "Indian movies & culture",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which company created the PlayStation console?",
+    "options": [
+      "Nintendo",
+      "Microsoft",
+      "Sony",
+      "Sega"
+    ],
+    "answer": 2,
+    "category": "Gaming & anime",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which anime features the character Tanjiro Kamado?",
+    "options": [
+      "Naruto",
+      "Demon Slayer",
+      "Bleach",
+      "One Piece"
+    ],
+    "answer": 1,
+    "category": "Gaming & anime",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which video game series features the city of Los Santos?",
+    "options": [
+      "Grand Theft Auto",
+      "Watch Dogs",
+      "Saints Row",
+      "Need for Speed"
+    ],
+    "answer": 0,
+    "category": "Gaming & anime",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which Nintendo character is known for wearing a green tunic and carrying the Master Sword?",
+    "options": [
+      "Mario",
+      "Link",
+      "Kirby",
+      "Fox McCloud"
+    ],
+    "answer": 1,
+    "category": "Gaming & anime",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which anime features the character Light Yagami?",
+    "options": [
+      "Death Note",
+      "Attack on Titan",
+      "Tokyo Ghoul",
+      "Code Geass"
+    ],
+    "answer": 0,
+    "category": "Gaming & anime",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is the traditional name for a group of lions?",
+    "options": [
+      "Pack",
+      "Pride",
+      "Herd",
+      "Colony"
+    ],
+    "answer": 1,
+    "category": "Funny & random",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which animal is known for sleeping while hanging upside down?",
+    "options": [
+      "Koala",
+      "Sloth",
+      "Bat",
+      "Otter"
+    ],
+    "answer": 2,
+    "category": "Funny & random",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which food is traditionally used to make guacamole?",
+    "options": [
+      "Avocado",
+      "Cucumber",
+      "Peas",
+      "Zucchini"
+    ],
+    "answer": 0,
+    "category": "Funny & random",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which board game features the instruction Go to Jail?",
+    "options": [
+      "Chess",
+      "Monopoly",
+      "Scrabble",
+      "Clue"
+    ],
+    "answer": 1,
+    "category": "Funny & random",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which bird is famous for mimicking human speech?",
+    "options": [
+      "Eagle",
+      "Penguin",
+      "Parrot",
+      "Ostrich"
+    ],
+    "answer": 2,
+    "category": "Funny & random",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many sides does a hexagon have?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which language is primarily spoken in Brazil?",
+    "options": [
+      "Spanish",
+      "Portuguese",
+      "French",
+      "Italian"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which chess piece moves in an L shape?",
+    "options": [
+      "Bishop",
+      "Rook",
+      "Knight",
+      "Queen"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many colors are traditionally listed in a rainbow?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which metal is liquid at typical room temperature?",
+    "options": [
+      "Copper",
+      "Iron",
+      "Mercury",
+      "Aluminum"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Who played the title role in the 2008 movie Iron Man?",
+    "options": [
+      "Chris Evans",
+      "Robert Downey Jr.",
+      "Chris Pratt",
+      "Mark Ruffalo"
+    ],
+    "answer": 1,
+    "category": "Movies & entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which movie features a blue alien species called the Na'vi?",
+    "options": [
+      "Avatar",
+      "Star Wars",
+      "Dune",
+      "Guardians of the Galaxy"
+    ],
+    "answer": 0,
+    "category": "Movies & entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Who directed the 1994 film Pulp Fiction?",
+    "options": [
+      "Martin Scorsese",
+      "Quentin Tarantino",
+      "David Fincher",
+      "Guy Ritchie"
+    ],
+    "answer": 1,
+    "category": "Movies & entertainment",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which film features the character Forrest Gump?",
+    "options": [
+      "Cast Away",
+      "Big",
+      "Forrest Gump",
+      "Philadelphia"
+    ],
+    "answer": 2,
+    "category": "Movies & entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which movie features the character Buzz Lightyear?",
+    "options": [
+      "Cars",
+      "Toy Story",
+      "Finding Nemo",
+      "Monsters, Inc."
+    ],
+    "answer": 1,
+    "category": "Movies & entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which fictional school does Harry Potter attend?",
+    "options": [
+      "Durmstrang",
+      "Hogwarts",
+      "Beauxbatons",
+      "Ilvermorny"
+    ],
+    "answer": 1,
+    "category": "Movies & entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Who directed the 2014 film Interstellar?",
+    "options": [
+      "Denis Villeneuve",
+      "Christopher Nolan",
+      "Ridley Scott",
+      "Alfonso Cuaron"
+    ],
+    "answer": 1,
+    "category": "Movies & entertainment",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which movie features the character Shrek?",
+    "options": [
+      "Madagascar",
+      "Shrek",
+      "Kung Fu Panda",
+      "Ice Age"
+    ],
+    "answer": 1,
+    "category": "Movies & entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which actor played Pushpa Raj in Pushpa: The Rise?",
+    "options": [
+      "Prabhas",
+      "Allu Arjun",
+      "Ram Charan",
+      "Nani"
+    ],
+    "answer": 1,
+    "category": "Indian movies & culture",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which actor played the lead role in Dangal?",
+    "options": [
+      "Shah Rukh Khan",
+      "Salman Khan",
+      "Aamir Khan",
+      "Akshay Kumar"
+    ],
+    "answer": 2,
+    "category": "Indian movies & culture",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which film features the character Rocky Bhai?",
+    "options": [
+      "KGF",
+      "Vikram",
+      "Leo",
+      "Salaar"
+    ],
+    "answer": 0,
+    "category": "Indian movies & culture",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which Telugu movie features the song Butta Bomma?",
+    "options": [
+      "Ala Vaikunthapurramuloo",
+      "Pushpa",
+      "RRR",
+      "Sarileru Neekevvaru"
+    ],
+    "answer": 0,
+    "category": "Indian movies & culture",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which actor played the title role in the film Kantara (2022)?",
+    "options": [
+      "Yash",
+      "Rishab Shetty",
+      "Rakshit Shetty",
+      "Darshan"
+    ],
+    "answer": 1,
+    "category": "Indian movies & culture",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which Indian festival celebrates the victory of light over darkness?",
+    "options": [
+      "Holi",
+      "Diwali",
+      "Onam",
+      "Pongal"
+    ],
+    "answer": 1,
+    "category": "Indian movies & culture",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which Indian state is famous for Bihu celebrations?",
+    "options": [
+      "Assam",
+      "Kerala",
+      "Punjab",
+      "Goa"
+    ],
+    "answer": 0,
+    "category": "Indian movies & culture",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Who is the main protagonist of One Piece?",
+    "options": [
+      "Naruto Uzumaki",
+      "Monkey D. Luffy",
+      "Ichigo Kurosaki",
+      "Goku"
+    ],
+    "answer": 1,
+    "category": "Gaming & anime",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which anime features Eren Yeager?",
+    "options": [
+      "Attack on Titan",
+      "Death Note",
+      "Bleach",
+      "Naruto"
+    ],
+    "answer": 0,
+    "category": "Gaming & anime",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which Pokémon is known for evolving from Charmander?",
+    "options": [
+      "Wartortle",
+      "Charmeleon",
+      "Ivysaur",
+      "Raichu"
+    ],
+    "answer": 1,
+    "category": "Gaming & anime",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which game features a battle bus?",
+    "options": [
+      "Minecraft",
+      "Fortnite",
+      "Valorant",
+      "Apex Legends"
+    ],
+    "answer": 1,
+    "category": "Gaming & anime",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which anime features the character Saitama?",
+    "options": [
+      "One Punch Man",
+      "Dragon Ball",
+      "My Hero Academia",
+      "Jujutsu Kaisen"
+    ],
+    "answer": 0,
+    "category": "Gaming & anime",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which game series features Kratos?",
+    "options": [
+      "God of War",
+      "Halo",
+      "Assassin's Creed",
+      "The Witcher"
+    ],
+    "answer": 0,
+    "category": "Gaming & anime",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which anime features the character Gojo Satoru?",
+    "options": [
+      "Bleach",
+      "Jujutsu Kaisen",
+      "Demon Slayer",
+      "Black Clover"
+    ],
+    "answer": 1,
+    "category": "Gaming & anime",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which game features the characters Steve and Alex?",
+    "options": [
+      "Roblox",
+      "Minecraft",
+      "Terraria",
+      "Stardew Valley"
+    ],
+    "answer": 1,
+    "category": "Gaming & anime",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which sport uses the term birdie?",
+    "options": [
+      "Golf",
+      "Basketball",
+      "Cricket",
+      "Football"
+    ],
+    "answer": 0,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many points is a free throw worth in basketball?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 0,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which country hosted the 2020 Summer Olympics, held in 2021?",
+    "options": [
+      "China",
+      "Japan",
+      "Brazil",
+      "France"
+    ],
+    "answer": 1,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which sport features a pommel horse?",
+    "options": [
+      "Swimming",
+      "Gymnastics",
+      "Wrestling",
+      "Athletics"
+    ],
+    "answer": 1,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which cricket player is popularly nicknamed the Master Blaster?",
+    "options": [
+      "Virat Kohli",
+      "Sachin Tendulkar",
+      "Rohit Sharma",
+      "MS Dhoni"
+    ],
+    "answer": 1,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which sport uses the term love for zero?",
+    "options": [
+      "Badminton",
+      "Tennis",
+      "Basketball",
+      "Volleyball"
+    ],
+    "answer": 1,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which sport has a position called goalkeeper?",
+    "options": [
+      "Baseball",
+      "Soccer",
+      "Tennis",
+      "Cricket"
+    ],
+    "answer": 1,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many points is a touchdown worth before any extra-point attempt?",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 2,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which animal has three hearts?",
+    "options": [
+      "Octopus",
+      "Dolphin",
+      "Shark",
+      "Penguin"
+    ],
+    "answer": 0,
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which fruit has its seeds on the outside?",
+    "options": [
+      "Apple",
+      "Strawberry",
+      "Orange",
+      "Mango"
+    ],
+    "answer": 1,
+    "category": "Funny & random",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which animal is known for having a pouch to carry its young?",
+    "options": [
+      "Tiger",
+      "Kangaroo",
+      "Elephant",
+      "Giraffe"
+    ],
+    "answer": 1,
+    "category": "Funny & random",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which food is traditionally made from fermented cabbage?",
+    "options": [
+      "Sauerkraut",
+      "Hummus",
+      "Guacamole",
+      "Pesto"
+    ],
+    "answer": 0,
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which animal can rotate its head much farther than humans?",
+    "options": [
+      "Owl",
+      "Pigeon",
+      "Chicken",
+      "Duck"
+    ],
+    "answer": 0,
+    "category": "Funny & random",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is the main ingredient in traditional hummus?",
+    "options": [
+      "Lentils",
+      "Chickpeas",
+      "Potatoes",
+      "Rice"
+    ],
+    "answer": 1,
+    "category": "Funny & random",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which animal is the largest living rodent?",
+    "options": [
+      "Beaver",
+      "Capybara",
+      "Porcupine",
+      "Marmot"
+    ],
+    "answer": 1,
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which vegetable is commonly carved into jack-o'-lanterns?",
+    "options": [
+      "Pumpkin",
+      "Turnip",
+      "Cabbage",
+      "Squash"
+    ],
+    "answer": 0,
+    "category": "Funny & random",
+    "difficulty": "easy"
+  }
+]

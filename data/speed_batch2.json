@@ -1,0 +1,24 @@
+
+[
+  {"q":"What is 9 × 6?","options":["45","54","56","63"],"answer":1,"category":"Math","difficulty":"easy"},
+  {"q":"What is half of 150?","options":["65","70","75","80"],"answer":2,"category":"Math","difficulty":"easy"},
+  {"q":"What is 100 minus 37?","options":["63","67","73","53"],"answer":0,"category":"Math","difficulty":"easy"},
+  {"q":"What comes next: 3, 6, 9, 12, __?","options":["14","15","16","18"],"answer":1,"category":"Logic","difficulty":"easy"},
+  {"q":"Which number is even?","options":["13","17","22","29"],"answer":2,"category":"Logic","difficulty":"easy"},
+  {"q":"What is 12 squared?","options":["124","144","154","164"],"answer":1,"category":"Math","difficulty":"medium"},
+  {"q":"How many minutes are in 2 hours?","options":["60","90","120","150"],"answer":2,"category":"Math","difficulty":"easy"},
+  {"q":"What is 25% of 200?","options":["25","40","50","75"],"answer":2,"category":"Math","difficulty":"easy"},
+  {"q":"Which weighs more: 1 kg of feathers or 1 kg of iron?","options":["Feathers","Iron","Same weight","Cannot tell"],"answer":2,"category":"Funny & random","difficulty":"easy"},
+  {"q":"What comes next: 1, 4, 9, 16, __?","options":["20","24","25","36"],"answer":2,"category":"Logic","difficulty":"medium"},
+  {"q":"What is 81 divided by 9?","options":["7","8","9","10"],"answer":2,"category":"Math","difficulty":"easy"},
+  {"q":"Which is the smallest prime number?","options":["0","1","2","3"],"answer":2,"category":"Logic","difficulty":"easy"},
+  {"q":"How many sides does a hexagon have?","options":["5","6","7","8"],"answer":1,"category":"General knowledge","difficulty":"easy"},
+  {"q":"What is 11 × 11?","options":["111","121","131","141"],"answer":1,"category":"Math","difficulty":"easy"},
+  {"q":"Which month has 28 days?","options":["February","January","June","All months"],"answer":3,"category":"Funny & random","difficulty":"medium"},
+  {"q":"What is 5 cubed?","options":["15","25","100","125"],"answer":3,"category":"Math","difficulty":"medium"},
+  {"q":"Which is faster?","options":["Light","Sound","Both equal","Neither"],"answer":0,"category":"Science & technology","difficulty":"easy"},
+  {"q":"How many centimeters are in 1 meter?","options":["10","50","100","1000"],"answer":2,"category":"Math","difficulty":"easy"},
+  {"q":"What is 7 + 8 × 2?","options":["30","23","22","15"],"answer":1,"category":"Math","difficulty":"medium"},
+  {"q":"What is the next number: 5, 10, 20, 40, __?","options":["50","60","70","80"],"answer":3,"category":"Logic","difficulty":"easy"}
+]
+

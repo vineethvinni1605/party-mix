@@ -1,0 +1,23 @@
+
+[
+  {"word":"RAINBOW","hint":"A colorful arc that appears after rain","category":"Science & technology","difficulty":"easy"},
+  {"word":"DIAMOND","hint":"A precious gemstone made of carbon","category":"General knowledge","difficulty":"easy"},
+  {"word":"PYRAMID","hint":"A structure with triangular sides meeting at a point","category":"Geography","difficulty":"easy"},
+  {"word":"CARNIVAL","hint":"A celebration with rides, games, or parades","category":"Funny & random","difficulty":"easy"},
+  {"word":"JUPITER","hint":"The largest planet in our solar system","category":"Science & technology","difficulty":"easy"},
+  {"word":"CHESS","hint":"A strategy board game with kings and queens","category":"Gaming & anime","difficulty":"easy"},
+  {"word":"WIMBLEDON","hint":"A famous grass-court tennis tournament","category":"Sports","difficulty":"medium"},
+  {"word":"HOLLYWOOD","hint":"An area of Los Angeles associated with the film industry","category":"Movies & entertainment","difficulty":"easy"},
+  {"word":"KARATE","hint":"A Japanese martial art involving strikes and kicks","category":"Sports","difficulty":"easy"},
+  {"word":"AVATAR","hint":"A science-fiction film set on Pandora","category":"Movies & entertainment","difficulty":"medium"},
+  {"word":"MANGROVE","hint":"A tree adapted to coastal salty environments","category":"Geography","difficulty":"medium"},
+  {"word":"NEBULA","hint":"A cloud of gas and dust in space","category":"Science & technology","difficulty":"medium"},
+  {"word":"TITANIC","hint":"A famous ocean liner that sank in 1912","category":"General knowledge","difficulty":"easy"},
+  {"word":"GODZILLA","hint":"A giant monster from Japanese cinema","category":"Movies & entertainment","difficulty":"easy"},
+  {"word":"HOGWARTS","hint":"The magical school attended by Harry Potter","category":"Movies & entertainment","difficulty":"easy"},
+  {"word":"FORTNITE","hint":"A popular game featuring battle royale matches","category":"Gaming & anime","difficulty":"easy"},
+  {"word":"CHANDRAYAAN","hint":"India's series of lunar exploration missions","category":"Indian movies & culture","difficulty":"medium"},
+  {"word":"KATHAK","hint":"A classical dance form from northern India","category":"Indian movies & culture","difficulty":"medium"},
+  {"word":"TSUNAMI","hint":"A series of powerful sea waves often caused by underwater earthquakes","category":"Geography","difficulty":"medium"},
+  {"word":"CAMEO","hint":"A brief appearance by a well-known person in a film","category":"Movies & entertainment","difficulty":"medium"}
+]

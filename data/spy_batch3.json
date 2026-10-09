@@ -1,0 +1,50 @@
+
+[
+  {"word":"Biryani","category":"Food"},
+  {"word":"Pizza","category":"Food"},
+  {"word":"Samosa","category":"Food"},
+  {"word":"Chocolate","category":"Food"},
+  {"word":"Popcorn","category":"Food"},
+  {"word":"Ice Cream","category":"Food"},
+  {"word":"Dosa","category":"Food"},
+  {"word":"Burger","category":"Food"},
+
+  {"word":"Waterfall","category":"Nature"},
+  {"word":"Rainbow","category":"Nature"},
+  {"word":"Desert","category":"Nature"},
+  {"word":"Glacier","category":"Nature"},
+  {"word":"Tornado","category":"Nature"},
+
+  {"word":"Kangaroo","category":"Animals"},
+  {"word":"Dolphin","category":"Animals"},
+  {"word":"Octopus","category":"Animals"},
+  {"word":"Chameleon","category":"Animals"},
+  {"word":"Flamingo","category":"Animals"},
+
+  {"word":"Airport","category":"Travel & places"},
+  {"word":"Cruise Ship","category":"Travel & places"},
+  {"word":"Amusement Park","category":"Travel & places"},
+  {"word":"Haunted House","category":"Travel & places"},
+  {"word":"Camping","category":"Travel & places"},
+
+  {"word":"Spider-Man","category":"Movies & entertainment"},
+  {"word":"Hogwarts","category":"Movies & entertainment"},
+  {"word":"Jurassic Park","category":"Movies & entertainment"},
+  {"word":"Barbie","category":"Movies & entertainment"},
+
+  {"word":"Minecraft","category":"Gaming & anime"},
+  {"word":"Pikachu","category":"Gaming & anime"},
+  {"word":"Naruto","category":"Gaming & anime"},
+  {"word":"Fortnite","category":"Gaming & anime"},
+
+  {"word":"Diwali","category":"Indian movies & culture"},
+  {"word":"Holi","category":"Indian movies & culture"},
+  {"word":"Baahubali","category":"Indian movies & culture"},
+  {"word":"Taj Mahal","category":"Indian movies & culture"},
+
+  {"word":"Invisible Man","category":"Funny & random"},
+  {"word":"Time Machine","category":"Funny & random"},
+  {"word":"Flying Carpet","category":"Funny & random"},
+  {"word":"Alien Invasion","category":"Funny & random"},
+  {"word":"Zombie Apocalypse","category":"Funny & random"}
+]

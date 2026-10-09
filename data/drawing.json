@@ -1,0 +1,1502 @@
+[
+  {
+    "prompt": "A rocket",
+    "category": "Science & technology",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A sleepy cat",
+    "category": "Funny & random",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A birthday cake",
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A cricket bat",
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A movie camera",
+    "category": "Movies & entertainment",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A robot riding a bicycle",
+    "category": "Funny & random",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "A wizard playing video games",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A elephant holding an umbrella",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A wizard flying a kite",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A alien playing guitar",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A pirate eating pizza",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A pirate surfing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A astronaut reading a book",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A superhero flying a kite",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A elephant driving a car",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A tiger wearing sunglasses",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A snowman climbing a mountain",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A astronaut eating pizza",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dog flying a kite",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A elephant playing cricket",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A wizard sleeping on a sofa",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dinosaur flying a kite",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A gamer playing guitar",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A wizard riding a bicycle",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cat eating pizza",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A robot cooking dinner",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dragon riding a bicycle",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dog wearing sunglasses",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dragon sleeping on a sofa",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A monkey playing video games",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A alien climbing a mountain",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A panda playing video games",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cat playing video games",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A football player reading a book",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A astronaut dancing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A tiger cooking dinner",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A wizard driving a car",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A robot dancing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A penguin flying a kite",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cricket player climbing a mountain",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A robot wearing sunglasses",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dragon playing guitar",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dragon playing cricket",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A wizard surfing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A wizard wearing sunglasses",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A football player driving a car",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A superhero playing guitar",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A wizard cooking dinner",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A gamer driving a car",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cricket player driving a car",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A snowman dancing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A football player riding a bicycle",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dinosaur surfing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cat driving a car",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A rabbit playing cricket",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dog reading a book",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A snowman eating pizza",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A pirate holding an umbrella",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A superhero playing video games",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A monkey flying a kite",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A penguin reading a book",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A tiger surfing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cricket player holding an umbrella",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A pirate flying a kite",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A pirate playing cricket",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A robot playing video games",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A football player climbing a mountain",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A football player playing video games",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A rabbit wearing sunglasses",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A rabbit driving a car",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A panda surfing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A snowman wearing sunglasses",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A robot climbing a mountain",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cat flying a kite",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A football player eating pizza",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A wizard eating pizza",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A tiger playing video games",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cat wearing sunglasses",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A superhero riding a bicycle",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A tiger reading a book",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cricket player eating pizza",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dragon reading a book",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A tiger climbing a mountain",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A rabbit flying a kite",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A football player flying a kite",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A monkey surfing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A superhero surfing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A robot playing cricket",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A gamer dancing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A gamer holding an umbrella",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A elephant sleeping on a sofa",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A snowman riding a bicycle",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cricket player surfing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A panda wearing sunglasses",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dinosaur reading a book",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A penguin sleeping on a sofa",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A snowman holding an umbrella",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cricket player playing video games",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dinosaur holding an umbrella",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A alien riding a bicycle",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A alien driving a car",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A tiger playing guitar",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dinosaur dancing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A gamer surfing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A robot flying a kite",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dog driving a car",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A elephant reading a book",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A elephant eating pizza",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dinosaur playing guitar",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A panda playing guitar",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A monkey playing guitar",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A wizard climbing a mountain",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A superhero holding an umbrella",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A monkey cooking dinner",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A panda sleeping on a sofa",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A astronaut riding a bicycle",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A snowman driving a car",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A football player cooking dinner",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A astronaut wearing sunglasses",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cat playing guitar",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A elephant climbing a mountain",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A pirate dancing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A pirate playing video games",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cat sleeping on a sofa",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A robot eating pizza",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A pirate climbing a mountain",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dragon holding an umbrella",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A astronaut playing cricket",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A football player wearing sunglasses",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A penguin playing cricket",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A alien playing cricket",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A panda driving a car",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A monkey playing cricket",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A gamer reading a book",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dinosaur cooking dinner",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A monkey sleeping on a sofa",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cricket player riding a bicycle",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dragon driving a car",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A tiger driving a car",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A penguin driving a car",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A snowman surfing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dinosaur playing cricket",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dog surfing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A pirate playing guitar",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A penguin eating pizza",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A pirate wearing sunglasses",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A rabbit climbing a mountain",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cat riding a bicycle",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A snowman cooking dinner",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A alien cooking dinner",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A gamer eating pizza",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dinosaur eating pizza",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A wizard reading a book",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dinosaur climbing a mountain",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A panda eating pizza",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A rabbit holding an umbrella",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dog holding an umbrella",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cat playing cricket",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A superhero sleeping on a sofa",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A elephant playing video games",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cricket player sleeping on a sofa",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A gamer riding a bicycle",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A panda holding an umbrella",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A alien eating pizza",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dragon wearing sunglasses",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cricket player reading a book",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A monkey dancing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A astronaut flying a kite",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cricket player playing cricket",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A wizard holding an umbrella",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A robot playing guitar",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dog climbing a mountain",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A gamer climbing a mountain",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dog cooking dinner",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A pirate sleeping on a sofa",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A pirate reading a book",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A tiger playing cricket",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A panda reading a book",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A wizard playing guitar",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A panda cooking dinner",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A panda climbing a mountain",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A astronaut playing video games",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A monkey riding a bicycle",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A tiger dancing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A superhero dancing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A superhero wearing sunglasses",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A football player holding an umbrella",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A robot driving a car",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A elephant cooking dinner",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A robot sleeping on a sofa",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A astronaut climbing a mountain",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A rabbit riding a bicycle",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A football player surfing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A pirate cooking dinner",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A rabbit dancing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cricket player dancing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A wizard playing cricket",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cricket player wearing sunglasses",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A superhero reading a book",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A penguin playing guitar",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A gamer flying a kite",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A alien holding an umbrella",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dragon climbing a mountain",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dinosaur driving a car",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cat cooking dinner",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A wizard dancing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cat holding an umbrella",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A panda flying a kite",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A panda playing cricket",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dinosaur wearing sunglasses",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A rabbit reading a book",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A penguin surfing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A football player playing cricket",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cricket player cooking dinner",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A monkey holding an umbrella",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A elephant playing guitar",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A snowman playing guitar",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A astronaut holding an umbrella",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A snowman flying a kite",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A elephant dancing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A tiger sleeping on a sofa",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A superhero playing cricket",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A robot holding an umbrella",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A snowman sleeping on a sofa",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A monkey driving a car",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dog dancing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A rabbit eating pizza",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A football player dancing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A tiger riding a bicycle",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A elephant wearing sunglasses",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A rabbit sleeping on a sofa",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A penguin wearing sunglasses",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dragon eating pizza",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dragon playing video games",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A robot surfing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dragon flying a kite",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A alien flying a kite",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A monkey climbing a mountain",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A astronaut surfing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A gamer wearing sunglasses",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dragon cooking dinner",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dog playing guitar",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A alien surfing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A elephant riding a bicycle",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A alien wearing sunglasses",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dog playing video games",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dinosaur riding a bicycle",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A panda dancing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A penguin holding an umbrella",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A rabbit playing video games",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cat reading a book",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dog playing cricket",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A tiger eating pizza",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cricket player playing guitar",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A superhero climbing a mountain",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dragon dancing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A alien reading a book",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A snowman playing cricket",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A monkey wearing sunglasses",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A monkey reading a book",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A alien dancing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A monkey eating pizza",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A robot reading a book",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A tiger holding an umbrella",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A elephant flying a kite",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A snowman reading a book",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dog sleeping on a sofa",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A superhero eating pizza",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A rabbit surfing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A tiger flying a kite",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A penguin playing video games",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A panda riding a bicycle",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A gamer playing cricket",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A gamer cooking dinner",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A rabbit cooking dinner",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A astronaut driving a car",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dinosaur playing video games",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A football player sleeping on a sofa",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A rabbit playing guitar",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A gamer playing video games",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dinosaur sleeping on a sofa",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cat dancing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A superhero cooking dinner",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A snowman playing video games",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A astronaut cooking dinner",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A alien playing video games",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A gamer sleeping on a sofa",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dragon surfing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cat climbing a mountain",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A cricket player flying a kite",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A pirate riding a bicycle",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A astronaut sleeping on a sofa",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A penguin dancing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dog riding a bicycle",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A dog eating pizza",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A alien sleeping on a sofa",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A penguin riding a bicycle",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A football player playing guitar",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A penguin cooking dinner",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "A elephant surfing",
+    "category": "Funny & random",
+    "difficulty": "medium"
+  }
+]

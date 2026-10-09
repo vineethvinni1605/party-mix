@@ -1,0 +1,1202 @@
+[
+  {
+    "q": "What is 12 + 29?",
+    "options": [
+      "44",
+      "39",
+      "46",
+      "41"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 13 + 30?",
+    "options": [
+      "48",
+      "46",
+      "43",
+      "41"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 14 + 31?",
+    "options": [
+      "43",
+      "50",
+      "48",
+      "45"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 15 + 32?",
+    "options": [
+      "45",
+      "50",
+      "47",
+      "52"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 16 + 33?",
+    "options": [
+      "47",
+      "52",
+      "54",
+      "49"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 17 + 34?",
+    "options": [
+      "49",
+      "56",
+      "54",
+      "51"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 18 + 35?",
+    "options": [
+      "56",
+      "51",
+      "53",
+      "58"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 19 + 36?",
+    "options": [
+      "53",
+      "60",
+      "55",
+      "58"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 20 + 37?",
+    "options": [
+      "57",
+      "60",
+      "55",
+      "62"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 21 + 38?",
+    "options": [
+      "62",
+      "64",
+      "59",
+      "57"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 22 + 39?",
+    "options": [
+      "64",
+      "59",
+      "66",
+      "61"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 23 + 40?",
+    "options": [
+      "68",
+      "66",
+      "61",
+      "63"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 24 + 41?",
+    "options": [
+      "70",
+      "63",
+      "65",
+      "68"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 25 + 42?",
+    "options": [
+      "70",
+      "72",
+      "65",
+      "67"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 26 + 43?",
+    "options": [
+      "69",
+      "67",
+      "74",
+      "72"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 27 + 44?",
+    "options": [
+      "76",
+      "71",
+      "74",
+      "69"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 28 + 45?",
+    "options": [
+      "71",
+      "78",
+      "76",
+      "73"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 29 + 46?",
+    "options": [
+      "73",
+      "80",
+      "75",
+      "78"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 30 + 47?",
+    "options": [
+      "82",
+      "80",
+      "75",
+      "77"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 31 + 48?",
+    "options": [
+      "79",
+      "77",
+      "82",
+      "84"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 32 + 49?",
+    "options": [
+      "81",
+      "84",
+      "86",
+      "79"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 33 + 50?",
+    "options": [
+      "83",
+      "88",
+      "86",
+      "81"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 34 + 51?",
+    "options": [
+      "83",
+      "90",
+      "88",
+      "85"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 35 + 52?",
+    "options": [
+      "90",
+      "92",
+      "87",
+      "85"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 36 + 53?",
+    "options": [
+      "92",
+      "89",
+      "87",
+      "94"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 6 × 9?",
+    "options": [
+      "63",
+      "72",
+      "54",
+      "45"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 7 × 3?",
+    "options": [
+      "27",
+      "18",
+      "24",
+      "21"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 8 × 4?",
+    "options": [
+      "36",
+      "40",
+      "32",
+      "28"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 9 × 5?",
+    "options": [
+      "55",
+      "50",
+      "45",
+      "40"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 10 × 6?",
+    "options": [
+      "60",
+      "66",
+      "54",
+      "72"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 11 × 7?",
+    "options": [
+      "70",
+      "77",
+      "91",
+      "84"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 12 × 8?",
+    "options": [
+      "96",
+      "112",
+      "88",
+      "104"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 13 × 9?",
+    "options": [
+      "117",
+      "126",
+      "108",
+      "135"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 14 × 3?",
+    "options": [
+      "45",
+      "48",
+      "42",
+      "39"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15 × 4?",
+    "options": [
+      "64",
+      "56",
+      "60",
+      "68"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 16 × 5?",
+    "options": [
+      "85",
+      "75",
+      "90",
+      "80"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 17 × 6?",
+    "options": [
+      "108",
+      "102",
+      "96",
+      "114"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 18 × 7?",
+    "options": [
+      "126",
+      "119",
+      "133",
+      "140"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 19 × 8?",
+    "options": [
+      "160",
+      "152",
+      "168",
+      "144"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 20 × 9?",
+    "options": [
+      "198",
+      "189",
+      "171",
+      "180"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 21 × 3?",
+    "options": [
+      "69",
+      "66",
+      "63",
+      "60"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 22 × 4?",
+    "options": [
+      "84",
+      "92",
+      "88",
+      "96"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 23 × 5?",
+    "options": [
+      "125",
+      "120",
+      "110",
+      "115"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 24 × 6?",
+    "options": [
+      "156",
+      "144",
+      "138",
+      "150"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25 × 7?",
+    "options": [
+      "182",
+      "175",
+      "189",
+      "168"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 26 × 8?",
+    "options": [
+      "200",
+      "208",
+      "224",
+      "216"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 27 × 9?",
+    "options": [
+      "261",
+      "252",
+      "234",
+      "243"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 28 × 3?",
+    "options": [
+      "87",
+      "81",
+      "84",
+      "90"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 29 × 4?",
+    "options": [
+      "124",
+      "116",
+      "120",
+      "112"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 30 × 5?",
+    "options": [
+      "155",
+      "145",
+      "160",
+      "150"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 50 - 23?",
+    "options": [
+      "32",
+      "29",
+      "24",
+      "27"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 51 - 24?",
+    "options": [
+      "29",
+      "32",
+      "24",
+      "27"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 52 - 25?",
+    "options": [
+      "27",
+      "32",
+      "24",
+      "29"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 53 - 26?",
+    "options": [
+      "27",
+      "24",
+      "32",
+      "29"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 54 - 27?",
+    "options": [
+      "32",
+      "27",
+      "24",
+      "29"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 55 - 28?",
+    "options": [
+      "27",
+      "32",
+      "29",
+      "24"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 56 - 29?",
+    "options": [
+      "27",
+      "29",
+      "24",
+      "32"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 57 - 11?",
+    "options": [
+      "48",
+      "43",
+      "51",
+      "46"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 58 - 12?",
+    "options": [
+      "43",
+      "51",
+      "48",
+      "46"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 59 - 13?",
+    "options": [
+      "51",
+      "46",
+      "43",
+      "48"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 60 - 14?",
+    "options": [
+      "48",
+      "43",
+      "51",
+      "46"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 61 - 15?",
+    "options": [
+      "51",
+      "43",
+      "46",
+      "48"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 62 - 16?",
+    "options": [
+      "48",
+      "51",
+      "46",
+      "43"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 63 - 17?",
+    "options": [
+      "46",
+      "48",
+      "51",
+      "43"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 64 - 18?",
+    "options": [
+      "51",
+      "46",
+      "43",
+      "48"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 65 - 19?",
+    "options": [
+      "43",
+      "48",
+      "46",
+      "51"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 66 - 20?",
+    "options": [
+      "48",
+      "43",
+      "46",
+      "51"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 67 - 21?",
+    "options": [
+      "51",
+      "48",
+      "43",
+      "46"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 68 - 22?",
+    "options": [
+      "46",
+      "51",
+      "48",
+      "43"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 69 - 23?",
+    "options": [
+      "48",
+      "46",
+      "43",
+      "51"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 70 - 24?",
+    "options": [
+      "43",
+      "48",
+      "51",
+      "46"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 71 - 25?",
+    "options": [
+      "48",
+      "51",
+      "46",
+      "43"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 72 - 26?",
+    "options": [
+      "43",
+      "51",
+      "46",
+      "48"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 73 - 27?",
+    "options": [
+      "43",
+      "46",
+      "51",
+      "48"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 74 - 28?",
+    "options": [
+      "51",
+      "46",
+      "48",
+      "43"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 25% of 20?",
+    "options": [
+      "15",
+      "0",
+      "10",
+      "5"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 40?",
+    "options": [
+      "15",
+      "5",
+      "20",
+      "10"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 60?",
+    "options": [
+      "20",
+      "25",
+      "10",
+      "15"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 80?",
+    "options": [
+      "20",
+      "30",
+      "25",
+      "15"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 100?",
+    "options": [
+      "35",
+      "25",
+      "20",
+      "30"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 120?",
+    "options": [
+      "40",
+      "30",
+      "25",
+      "35"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 140?",
+    "options": [
+      "35",
+      "45",
+      "40",
+      "30"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 160?",
+    "options": [
+      "40",
+      "35",
+      "45",
+      "50"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 180?",
+    "options": [
+      "55",
+      "40",
+      "45",
+      "50"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 200?",
+    "options": [
+      "45",
+      "60",
+      "50",
+      "55"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 220?",
+    "options": [
+      "60",
+      "50",
+      "55",
+      "65"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 240?",
+    "options": [
+      "65",
+      "60",
+      "70",
+      "55"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 260?",
+    "options": [
+      "70",
+      "60",
+      "75",
+      "65"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 280?",
+    "options": [
+      "65",
+      "80",
+      "70",
+      "75"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 300?",
+    "options": [
+      "85",
+      "75",
+      "70",
+      "80"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 320?",
+    "options": [
+      "75",
+      "80",
+      "90",
+      "85"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 340?",
+    "options": [
+      "80",
+      "95",
+      "90",
+      "85"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 360?",
+    "options": [
+      "85",
+      "95",
+      "90",
+      "100"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 380?",
+    "options": [
+      "95",
+      "105",
+      "90",
+      "100"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 400?",
+    "options": [
+      "100",
+      "95",
+      "110",
+      "105"
+    ],
+    "answer": 0,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 420?",
+    "options": [
+      "115",
+      "105",
+      "110",
+      "100"
+    ],
+    "answer": 1,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 440?",
+    "options": [
+      "120",
+      "105",
+      "115",
+      "110"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 460?",
+    "options": [
+      "120",
+      "110",
+      "125",
+      "115"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 480?",
+    "options": [
+      "115",
+      "125",
+      "120",
+      "130"
+    ],
+    "answer": 2,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25% of 500?",
+    "options": [
+      "135",
+      "130",
+      "120",
+      "125"
+    ],
+    "answer": 3,
+    "category": "General knowledge",
+    "difficulty": "medium"
+  }
+]

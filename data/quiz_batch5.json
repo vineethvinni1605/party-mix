@@ -1,0 +1,47 @@
+
+[
+{"q":"Who played the title role in the 2008 movie Iron Man?","options":["Chris Evans","Robert Downey Jr.","Chris Pratt","Mark Ruffalo"],"answer":1,"category":"Movies & entertainment","difficulty":"easy"},
+{"q":"Which movie features a blue alien species called the Na'vi?","options":["Avatar","Star Wars","Dune","Guardians of the Galaxy"],"answer":0,"category":"Movies & entertainment","difficulty":"easy"},
+{"q":"Who directed the 1994 film Pulp Fiction?","options":["Martin Scorsese","Quentin Tarantino","David Fincher","Guy Ritchie"],"answer":1,"category":"Movies & entertainment","difficulty":"medium"},
+{"q":"Which film features the character Forrest Gump?","options":["Cast Away","Big","Forrest Gump","Philadelphia"],"answer":2,"category":"Movies & entertainment","difficulty":"easy"},
+{"q":"Which movie features the character Buzz Lightyear?","options":["Cars","Toy Story","Finding Nemo","Monsters, Inc."],"answer":1,"category":"Movies & entertainment","difficulty":"easy"},
+{"q":"Which fictional school does Harry Potter attend?","options":["Durmstrang","Hogwarts","Beauxbatons","Ilvermorny"],"answer":1,"category":"Movies & entertainment","difficulty":"easy"},
+{"q":"Who directed the 2014 film Interstellar?","options":["Denis Villeneuve","Christopher Nolan","Ridley Scott","Alfonso Cuaron"],"answer":1,"category":"Movies & entertainment","difficulty":"medium"},
+{"q":"Which movie features the character Shrek?","options":["Madagascar","Shrek","Kung Fu Panda","Ice Age"],"answer":1,"category":"Movies & entertainment","difficulty":"easy"},
+
+{"q":"Which actor played Pushpa Raj in Pushpa: The Rise?","options":["Prabhas","Allu Arjun","Ram Charan","Nani"],"answer":1,"category":"Indian movies & culture","difficulty":"easy"},
+{"q":"Who directed the film RRR?","options":["S. S. Rajamouli","Sukumar","Shankar","Trivikram Srinivas"],"answer":0,"category":"Indian movies & culture","difficulty":"easy"},
+{"q":"Which actor played the lead role in Dangal?","options":["Shah Rukh Khan","Salman Khan","Aamir Khan","Akshay Kumar"],"answer":2,"category":"Indian movies & culture","difficulty":"easy"},
+{"q":"Which film features the character Rocky Bhai?","options":["KGF","Vikram","Leo","Salaar"],"answer":0,"category":"Indian movies & culture","difficulty":"easy"},
+{"q":"Which Telugu movie features the song Butta Bomma?","options":["Ala Vaikunthapurramuloo","Pushpa","RRR","Sarileru Neekevvaru"],"answer":0,"category":"Indian movies & culture","difficulty":"medium"},
+{"q":"Which actor played the title role in the film Kantara (2022)?","options":["Yash","Rishab Shetty","Rakshit Shetty","Darshan"],"answer":1,"category":"Indian movies & culture","difficulty":"medium"},
+{"q":"Which Indian festival celebrates the victory of light over darkness?","options":["Holi","Diwali","Onam","Pongal"],"answer":1,"category":"Indian movies & culture","difficulty":"easy"},
+{"q":"Which Indian state is famous for Bihu celebrations?","options":["Assam","Kerala","Punjab","Goa"],"answer":0,"category":"Indian movies & culture","difficulty":"medium"},
+
+{"q":"Who is the main protagonist of One Piece?","options":["Naruto Uzumaki","Monkey D. Luffy","Ichigo Kurosaki","Goku"],"answer":1,"category":"Gaming & anime","difficulty":"easy"},
+{"q":"Which anime features Eren Yeager?","options":["Attack on Titan","Death Note","Bleach","Naruto"],"answer":0,"category":"Gaming & anime","difficulty":"easy"},
+{"q":"Which Pokémon is known for evolving from Charmander?","options":["Wartortle","Charmeleon","Ivysaur","Raichu"],"answer":1,"category":"Gaming & anime","difficulty":"easy"},
+{"q":"Which game features a battle bus?","options":["Minecraft","Fortnite","Valorant","Apex Legends"],"answer":1,"category":"Gaming & anime","difficulty":"easy"},
+{"q":"Which anime features the character Saitama?","options":["One Punch Man","Dragon Ball","My Hero Academia","Jujutsu Kaisen"],"answer":0,"category":"Gaming & anime","difficulty":"easy"},
+{"q":"Which game series features Kratos?","options":["God of War","Halo","Assassin's Creed","The Witcher"],"answer":0,"category":"Gaming & anime","difficulty":"easy"},
+{"q":"Which anime features the character Gojo Satoru?","options":["Bleach","Jujutsu Kaisen","Demon Slayer","Black Clover"],"answer":1,"category":"Gaming & anime","difficulty":"easy"},
+{"q":"Which game features the characters Steve and Alex?","options":["Roblox","Minecraft","Terraria","Stardew Valley"],"answer":1,"category":"Gaming & anime","difficulty":"easy"},
+
+{"q":"Which sport uses the term birdie?","options":["Golf","Basketball","Cricket","Football"],"answer":0,"category":"Sports","difficulty":"easy"},
+{"q":"How many points is a free throw worth in basketball?","options":["1","2","3","4"],"answer":0,"category":"Sports","difficulty":"easy"},
+{"q":"Which country hosted the 2020 Summer Olympics, held in 2021?","options":["China","Japan","Brazil","France"],"answer":1,"category":"Sports","difficulty":"medium"},
+{"q":"Which sport features a pommel horse?","options":["Swimming","Gymnastics","Wrestling","Athletics"],"answer":1,"category":"Sports","difficulty":"medium"},
+{"q":"Which cricket player is popularly nicknamed the Master Blaster?","options":["Virat Kohli","Sachin Tendulkar","Rohit Sharma","MS Dhoni"],"answer":1,"category":"Sports","difficulty":"easy"},
+{"q":"Which sport uses the term love for zero?","options":["Badminton","Tennis","Basketball","Volleyball"],"answer":1,"category":"Sports","difficulty":"easy"},
+{"q":"Which sport has a position called goalkeeper?","options":["Baseball","Soccer","Tennis","Cricket"],"answer":1,"category":"Sports","difficulty":"easy"},
+{"q":"How many points is a touchdown worth before any extra-point attempt?","options":["3","5","6","7"],"answer":2,"category":"Sports","difficulty":"easy"},
+
+{"q":"Which animal has three hearts?","options":["Octopus","Dolphin","Shark","Penguin"],"answer":0,"category":"Funny & random","difficulty":"medium"},
+{"q":"Which fruit has its seeds on the outside?","options":["Apple","Strawberry","Orange","Mango"],"answer":1,"category":"Funny & random","difficulty":"easy"},
+{"q":"Which animal is known for having a pouch to carry its young?","options":["Tiger","Kangaroo","Elephant","Giraffe"],"answer":1,"category":"Funny & random","difficulty":"easy"},
+{"q":"Which food is traditionally made from fermented cabbage?","options":["Sauerkraut","Hummus","Guacamole","Pesto"],"answer":0,"category":"Funny & random","difficulty":"medium"},
+{"q":"Which animal can rotate its head much farther than humans?","options":["Owl","Pigeon","Chicken","Duck"],"answer":0,"category":"Funny & random","difficulty":"easy"},
+{"q":"What is the main ingredient in traditional hummus?","options":["Lentils","Chickpeas","Potatoes","Rice"],"answer":1,"category":"Funny & random","difficulty":"easy"},
+{"q":"Which animal is the largest living rodent?","options":["Beaver","Capybara","Porcupine","Marmot"],"answer":1,"category":"Funny & random","difficulty":"medium"},
+{"q":"Which vegetable is commonly carved into jack-o'-lanterns?","options":["Pumpkin","Turnip","Cabbage","Squash"],"answer":0,"category":"Funny & random","difficulty":"easy"}
+]

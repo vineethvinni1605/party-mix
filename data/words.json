@@ -1,0 +1,446 @@
+[
+  {
+    "word": "PIZZA",
+    "hint": "A food commonly served in slices",
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "word": "GUITAR",
+    "hint": "A musical instrument with strings",
+    "category": "Music",
+    "difficulty": "easy"
+  },
+  {
+    "word": "VOLCANO",
+    "hint": "A mountain that can erupt",
+    "category": "Nature",
+    "difficulty": "medium"
+  },
+  {
+    "word": "ASTRONAUT",
+    "hint": "A person trained to travel into space",
+    "category": "Science & technology",
+    "difficulty": "medium"
+  },
+  {
+    "word": "CRICKET",
+    "hint": "A bat-and-ball sport with wickets",
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "word": "PIKACHU",
+    "hint": "A famous yellow electric Pokémon",
+    "category": "Gaming & anime",
+    "difficulty": "easy"
+  },
+  {
+    "word": "LIBRARY",
+    "hint": "A place where people borrow books",
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "word": "CALENDAR",
+    "hint": "Shows days, weeks, and months",
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "word": "UMBRELLA",
+    "hint": "Protects you from rain",
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "word": "TELESCOPE",
+    "hint": "Used to observe distant objects",
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "word": "COMPASS",
+    "hint": "Helps you find directions",
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "word": "PASSPORT",
+    "hint": "Document used for international travel",
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "word": "KEYBOARD",
+    "hint": "Used to type on a computer",
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "word": "BACKPACK",
+    "hint": "A bag carried on your shoulders",
+    "category": "General knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "word": "BADMINTON",
+    "hint": "A racket sport played with a shuttlecock",
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "word": "FOOTBALL",
+    "hint": "A sport played with a ball and goals",
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "word": "TENNIS",
+    "hint": "A racket sport played across a net",
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "word": "OLYMPICS",
+    "hint": "International sporting event held every four years",
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "word": "WICKET",
+    "hint": "Three stumps used in cricket",
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "word": "STADIUM",
+    "hint": "Large venue for sporting events",
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "word": "MARATHON",
+    "hint": "A running race of about 42 kilometers",
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "word": "BASKETBALL",
+    "hint": "A sport where players shoot into a hoop",
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "word": "SATELLITE",
+    "hint": "An object that orbits a planet",
+    "category": "Science & technology",
+    "difficulty": "medium"
+  },
+  {
+    "word": "MICROSCOPE",
+    "hint": "Used to view very small objects",
+    "category": "Science & technology",
+    "difficulty": "medium"
+  },
+  {
+    "word": "ALGORITHM",
+    "hint": "A sequence of steps to solve a problem",
+    "category": "Science & technology",
+    "difficulty": "medium"
+  },
+  {
+    "word": "ROBOTICS",
+    "hint": "The study and design of robots",
+    "category": "Science & technology",
+    "difficulty": "medium"
+  },
+  {
+    "word": "DATABASE",
+    "hint": "An organized collection of information",
+    "category": "Science & technology",
+    "difficulty": "medium"
+  },
+  {
+    "word": "GRAVITY",
+    "hint": "Force that attracts objects toward each other",
+    "category": "Science & technology",
+    "difficulty": "medium"
+  },
+  {
+    "word": "BLUETOOTH",
+    "hint": "Technology for short-range wireless connections",
+    "category": "Science & technology",
+    "difficulty": "medium"
+  },
+  {
+    "word": "BATTERY",
+    "hint": "A device that stores electrical energy",
+    "category": "Science & technology",
+    "difficulty": "medium"
+  },
+  {
+    "word": "EVEREST",
+    "hint": "The world's highest mountain above sea level",
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "word": "SAHARA",
+    "hint": "A vast desert in North Africa",
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "word": "AMAZON",
+    "hint": "A major river in South America",
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "word": "ANTARCTICA",
+    "hint": "The coldest continent",
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "word": "PACIFIC",
+    "hint": "The largest ocean on Earth",
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "word": "HIMALAYAS",
+    "hint": "Mountain range containing Mount Everest",
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "word": "NILE",
+    "hint": "A famous river flowing through Egypt",
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "word": "TOKYO",
+    "hint": "The capital of Japan",
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "word": "BOLLYWOOD",
+    "hint": "Hindi-language film industry based in Mumbai",
+    "category": "Indian movies & culture",
+    "difficulty": "medium"
+  },
+  {
+    "word": "DIWALI",
+    "hint": "Indian festival known for lights",
+    "category": "Indian movies & culture",
+    "difficulty": "medium"
+  },
+  {
+    "word": "BIRYANI",
+    "hint": "A popular spiced rice dish",
+    "category": "Indian movies & culture",
+    "difficulty": "medium"
+  },
+  {
+    "word": "KOLLYWOOD",
+    "hint": "Tamil-language film industry",
+    "category": "Indian movies & culture",
+    "difficulty": "medium"
+  },
+  {
+    "word": "TOLLYWOOD",
+    "hint": "Telugu-language film industry",
+    "category": "Indian movies & culture",
+    "difficulty": "medium"
+  },
+  {
+    "word": "KABADDI",
+    "hint": "Team sport involving tagging opponents",
+    "category": "Indian movies & culture",
+    "difficulty": "medium"
+  },
+  {
+    "word": "HOLI",
+    "hint": "Indian festival associated with colors",
+    "category": "Indian movies & culture",
+    "difficulty": "medium"
+  },
+  {
+    "word": "SITAR",
+    "hint": "Traditional Indian string instrument",
+    "category": "Indian movies & culture",
+    "difficulty": "medium"
+  },
+  {
+    "word": "MINECRAFT",
+    "hint": "Sandbox game known for its blocks",
+    "category": "Gaming & anime",
+    "difficulty": "medium"
+  },
+  {
+    "word": "NARUTO",
+    "hint": "Anime ninja who dreams of becoming Hokage",
+    "category": "Gaming & anime",
+    "difficulty": "medium"
+  },
+  {
+    "word": "POKEMON",
+    "hint": "Franchise about collecting and battling creatures",
+    "category": "Gaming & anime",
+    "difficulty": "medium"
+  },
+  {
+    "word": "SONIC",
+    "hint": "Blue video game hedgehog",
+    "category": "Gaming & anime",
+    "difficulty": "medium"
+  },
+  {
+    "word": "ZELDA",
+    "hint": "Princess in a Nintendo fantasy game series",
+    "category": "Gaming & anime",
+    "difficulty": "medium"
+  },
+  {
+    "word": "MARIO",
+    "hint": "Nintendo character known for his red cap",
+    "category": "Gaming & anime",
+    "difficulty": "medium"
+  },
+  {
+    "word": "ROBLOX",
+    "hint": "Platform for creating and playing games",
+    "category": "Gaming & anime",
+    "difficulty": "medium"
+  },
+  {
+    "word": "LUFFY",
+    "hint": "Pirate captain in One Piece",
+    "category": "Gaming & anime",
+    "difficulty": "medium"
+  },
+  {
+    "word": "RAINBOW",
+    "hint": "A colorful arc that appears after rain",
+    "category": "Science & technology",
+    "difficulty": "easy"
+  },
+  {
+    "word": "DIAMOND",
+    "hint": "A precious gemstone made of carbon",
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "word": "PYRAMID",
+    "hint": "A structure with triangular sides meeting at a point",
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "word": "CARNIVAL",
+    "hint": "A celebration with rides, games, or parades",
+    "category": "Funny & random",
+    "difficulty": "easy"
+  },
+  {
+    "word": "JUPITER",
+    "hint": "The largest planet in our solar system",
+    "category": "Science & technology",
+    "difficulty": "easy"
+  },
+  {
+    "word": "CHESS",
+    "hint": "A strategy board game with kings and queens",
+    "category": "Gaming & anime",
+    "difficulty": "easy"
+  },
+  {
+    "word": "WIMBLEDON",
+    "hint": "A famous grass-court tennis tournament",
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "word": "HOLLYWOOD",
+    "hint": "An area of Los Angeles associated with the film industry",
+    "category": "Movies & entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "word": "KARATE",
+    "hint": "A Japanese martial art involving strikes and kicks",
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "word": "AVATAR",
+    "hint": "A science-fiction film set on Pandora",
+    "category": "Movies & entertainment",
+    "difficulty": "medium"
+  },
+  {
+    "word": "MANGROVE",
+    "hint": "A tree adapted to coastal salty environments",
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "word": "NEBULA",
+    "hint": "A cloud of gas and dust in space",
+    "category": "Science & technology",
+    "difficulty": "medium"
+  },
+  {
+    "word": "TITANIC",
+    "hint": "A famous ocean liner that sank in 1912",
+    "category": "General knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "word": "GODZILLA",
+    "hint": "A giant monster from Japanese cinema",
+    "category": "Movies & entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "word": "HOGWARTS",
+    "hint": "The magical school attended by Harry Potter",
+    "category": "Movies & entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "word": "FORTNITE",
+    "hint": "A popular game featuring battle royale matches",
+    "category": "Gaming & anime",
+    "difficulty": "easy"
+  },
+  {
+    "word": "CHANDRAYAAN",
+    "hint": "India's series of lunar exploration missions",
+    "category": "Indian movies & culture",
+    "difficulty": "medium"
+  },
+  {
+    "word": "KATHAK",
+    "hint": "A classical dance form from northern India",
+    "category": "Indian movies & culture",
+    "difficulty": "medium"
+  },
+  {
+    "word": "TSUNAMI",
+    "hint": "A series of powerful sea waves often caused by underwater earthquakes",
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "word": "CAMEO",
+    "hint": "A brief appearance by a well-known person in a film",
+    "category": "Movies & entertainment",
+    "difficulty": "medium"
+  }
+]

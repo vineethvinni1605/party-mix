@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Party Mix — Play Together</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0c0b17;--panel:#171528;--panel2:#201d35;--ink:#f7f5ff;--muted:#aaa5c6;--purple:#9a7bff;--pink:#ff78b7;--mint:#74efc2;--line:#34304d}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at 15% 0%,#29204a 0,transparent 40%),radial-gradient(ellipse at 90% 20%,#24204b 0,transparent 35%),var(--bg);color:var(--ink);font-family:'DM Sans',sans-serif;min-height:100vh}button,input{font:inherit}button{cursor:pointer;border:0;border-radius:14px;padding:13px 18px;font-weight:700;transition:.18s}button:hover{transform:translateY(-1px);filter:brightness(1.08)}button:disabled{opacity:.45;cursor:not-allowed;transform:none}.primary{background:linear-gradient(120deg,#9a7bff,#c07bff);color:#140d2a}.secondary{background:#2b2744;color:var(--ink);border:1px solid #494267}.ghost{background:transparent;color:var(--muted);border:1px solid var(--line)}input{width:100%;border:1px solid #474160;background:#100f20;color:var(--ink);border-radius:13px;padding:14px;outline:none}input:focus{border-color:var(--purple)}.wrap{max-width:1040px;margin:auto;padding:28px 20px 60px}.top{display:flex;align-items:center;justify-content:space-between;margin-bottom:55px}.brand{font:700 22px 'Space Grotesk';letter-spacing:-.8px;display:flex;gap:10px;align-items:center}.brandmark{display:grid;place-items:center;width:38px;height:38px;border-radius:12px;background:linear-gradient(135deg,#a78bfa,#ff86c8);color:#201336}.pill{border:1px solid #474160;border-radius:30px;padding:8px 12px;color:var(--muted);font-size:12px}.hero{text-align:center;max-width:750px;margin:0 auto 35px}.eyebrow{color:var(--mint);text-transform:uppercase;font-size:12px;letter-spacing:2px;font-weight:700}.hero h1{font:700 clamp(42px,7vw,76px)/1 'Space Grotesk';letter-spacing:-3px;margin:17px 0}.gradient{background:linear-gradient(90deg,#b9a7ff,#ff9ccf);-webkit-background-clip:text;background-clip:text;color:transparent}.hero p{color:var(--muted);font-size:17px;line-height:1.6;max-width:570px;margin:0 auto}.cards{display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:720px;margin:30px auto}.card,.panel{background:linear-gradient(145deg,rgba(31,28,53,.95),rgba(19,18,34,.95));border:1px solid var(--line);border-radius:22px;padding:24px;box-shadow:0 18px 45px #0002}.card h2{font:600 21px 'Space Grotesk';margin:0 0 7px}.card p{color:var(--muted);font-size:13px;line-height:1.5;margin:0 0 20px}.field{margin:12px 0}.field label{display:block;color:var(--muted);font-size:12px;margin:0 0 7px}.wide{width:100%}.or{text-align:center;color:#77718e;font-size:12px;margin:18px}.games{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin-top:28px}.game{border:1px solid var(--line);background:#151326;border-radius:16px;padding:15px 10px;text-align:center}.emoji{font-size:26px}.game strong{display:block;font-size:12px;margin-top:9px}.game span{display:block;font-size:10px;color:var(--muted);margin-top:5px}.section-title{font:600 28px 'Space Grotesk';margin:0 0 7px}.muted{color:var(--muted)}.row{display:flex;align-items:center;gap:12px}.between{justify-content:space-between}.players{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:18px 0}.player{padding:13px;background:#211e37;border:1px solid var(--line);border-radius:14px}.avatar{display:inline-grid;place-items:center;width:34px;height:34px;border-radius:11px;background:#49396f;margin-right:8px;font-weight:700}.player small{color:var(--muted)}.roomcode{font:700 28px 'Space Grotesk';letter-spacing:5px;background:#0e0d1b;border:1px dashed #7d69c9;border-radius:13px;padding:10px 16px;display:inline-block}.hide{display:none!important}.status{color:var(--mint);font-size:13px;min-height:20px;margin-top:10px}.bar{height:7px;background:#35304f;border-radius:9px;overflow:hidden}.bar>div{height:100%;background:linear-gradient(90deg,#9a7bff,#ff78b7);width:0%;transition:width .25s}.game-head{display:flex;align-items:center;justify-content:space-between;gap:15px;flex-wrap:wrap}.timer{font:700 23px 'Space Grotesk';color:var(--mint)}.question{font:600 clamp(22px,4vw,34px)/1.25 'Space Grotesk';margin:26px 0}.answers{display:grid;grid-template-columns:1fr 1fr;gap:12px}.answer{background:#24213c;color:var(--ink);border:1px solid #454061;text-align:left;min-height:58px}.answer:hover{border-color:var(--purple)}.answer.selected{border-color:var(--mint);background:#173c38}.answer:disabled{opacity:.8}.notice{padding:12px 14px;background:#201e35;border:1px solid #4c456c;border-radius:13px;color:var(--muted);margin:14px 0}.board{width:100%;border-collapse:collapse;margin-top:15px}.board td,.board th{text-align:left;padding:13px 9px;border-bottom:1px solid var(--line)}.board th{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:1px}.board td:last-child,.board th:last-child{text-align:right;font-variant-numeric:tabular-nums}.draw-canvas{width:100%;height:330px;background:#fff;border-radius:15px;touch-action:none;display:block}.tools{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0}.tools input{width:90px}.footer{text-align:center;color:#716c8b;font-size:12px;margin-top:45px}.toast{position:fixed;bottom:22px;left:50%;transform:translateX(-50%);background:#292542;border:1px solid #5d518b;padding:12px 18px;border-radius:12px;z-index:5;box-shadow:0 10px 30px #0008}.toast:empty{display:none}
+@media(max-width:680px){.wrap{padding:18px 14px 40px}.top{margin-bottom:35px}.cards{grid-template-columns:1fr}.games{grid-template-columns:repeat(2,1fr)}.game:last-child{grid-column:span 2}.answers{grid-template-columns:1fr}.card,.panel{padding:19px}.hero h1{letter-spacing:-2px}.draw-canvas{height:260px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top"><div class="brand"><div class="brandmark">✦</div> PARTY MIX</div><div class="pill">✦ REAL-TIME MULTIPLAYER</div></header>
+  <main id="home">
+    <section class="hero"><div class="eyebrow">ONE ROOM · FIVE CHALLENGES</div><h1>Good friends.<br><span class="gradient">Great chaos.</span></h1><p>Five mini-games, one leaderboard, and bragging rights. Grab your phone, join your friends, and let the games begin.</p></section>
+    <section class="cards">
+      <div class="card"><h2>Create a room</h2><p>Start a new game and invite up to seven friends with your room code.</p><div class="field"><label>Your player name</label><input id="createName" maxlength="18" placeholder="e.g. Alex" autocomplete="nickname"></div><button class="primary wide" id="createBtn">Create room ↗</button></div>
+      <div class="card"><h2>Join your friends</h2><p>Have a room code? Enter it here and jump straight into the lobby.</p><div class="field"><label>Your player name</label><input id="joinName" maxlength="18" placeholder="e.g. Sam" autocomplete="nickname"></div><div class="field"><label>Room code</label><input id="joinCode" maxlength="5" placeholder="ABCDE" style="text-transform:uppercase;letter-spacing:3px"></div><button class="secondary wide" id="joinBtn">Join room →</button></div>
+    </section>
+    <div class="status" id="homeStatus" style="text-align:center"></div>
+    <section style="max-width:820px;margin:50px auto 0"><div style="text-align:center"><div class="eyebrow">THE LINEUP</div><h2 class="section-title" style="margin-top:10px">Five ways to win.</h2><p class="muted">Every round tests a different skill. Every point counts.</p></div>
+      <div class="games"><div class="game"><div class="emoji">🧠</div><strong>Quiz Clash</strong><span>Know your stuff</span></div><div class="game"><div class="emoji">💬</div><strong>Guess the Word</strong><span>Think fast</span></div><div class="game"><div class="emoji">🎨</div><strong>Draw & Guess</strong><span>Sketch it out</span></div><div class="game"><div class="emoji">🕵️</div><strong>Secret Spy</strong><span>Trust no one</span></div><div class="game"><div class="emoji">⚡</div><strong>Speed Challenge</strong><span>Beat the clock</span></div></div>
+    </section>
+  </main>
+  <section id="lobby" class="panel hide">
+    <div class="eyebrow">THE LOBBY</div><h2 class="section-title" style="margin-top:10px">Get your crew together.</h2><p class="muted">Share this code with your friends so they can join from their own devices.</p>
+    <div class="row between" style="flex-wrap:wrap;margin:22px 0"><div><div class="muted" style="font-size:12px;margin-bottom:7px">ROOM CODE</div><div class="roomcode" id="roomCode">-----</div></div><button class="secondary" id="copyBtn">Copy invite code</button></div>
+    <div class="row between"><h3 style="margin:0">Players <span id="playerCount" class="muted">0/8</span></h3><span class="pill">Need at least 2</span></div><div id="playerList" class="players"></div>
+    <div class="notice">🎮 Five rounds · 60-second timer · Up to 5,000 points · Individual competition</div>
+    <button id="startBtn" class="primary wide">Start Party Mix ✦</button><div class="status" id="lobbyStatus"></div>
+  </section>
+  <section id="game" class="panel hide">
+    <div class="game-head"><div><div class="eyebrow" id="roundEyebrow">ROUND 1 OF 5</div><h2 class="section-title" id="gameTitle" style="margin-top:8px">Quiz Clash</h2></div><div style="text-align:right"><div class="muted" style="font-size:11px">TIME LEFT</div><div class="timer" id="timer">60s</div></div></div>
+    <div class="bar" style="margin:18px 0 6px"><div id="timeBar"></div></div>
+    <div class="row between muted" style="font-size:12px"><span id="roundHint">Answer quickly to score more.</span><span id="roundScore">Round score: 0</span></div>
+    <div id="gameBody"></div>
+    <div class="status" id="gameStatus"></div>
+    <div style="margin-top:24px"><h3 style="font:600 18px 'Space Grotesk'">Live leaderboard</h3><div id="liveBoard"></div></div>
+  </section>
+  <section id="between" class="panel hide">
+    <div class="eyebrow">ROUND COMPLETE</div><h2 class="section-title" id="betweenTitle" style="margin-top:10px">Nice work!</h2><p class="muted">Here's how everyone did this round.</p><div id="roundResults"></div><button class="primary wide" id="nextBtn" style="margin-top:22px">Next round →</button><div class="status" id="betweenStatus"></div>
+  </section>
+  <section id="finished" class="panel hide">
+    <div class="eyebrow">THAT'S A WRAP</div><h2 class="section-title" style="margin-top:10px">The party champion is…</h2><div id="winner"></div><div id="finalBoard"></div><button id="rematchBtn" class="primary wide" style="margin-top:22px">Play another match ↻</button><div class="status" id="finishedStatus"></div>
+  </section>
+  <div class="footer">Made for your crew. Best enjoyed together. ✦</div>
+</div>
+<div class="toast" id="toast"></div>
+<script src="/socket.io/socket.io.js"></script>
+<script>
+const socket = io();
+let myId = null, currentRoom = null, roomCode = "", deadline = null, tick = null, localRole = null, spySubmissions = null, spyRevealed = false, answered = false, drawn = false, activeStroke = null;
+const $ = id => document.getElementById(id);
+const screens = ["home","lobby","game","between","finished"];
+function show(id){screens.forEach(s=>$(s).classList.toggle("hide",s!==id))}
+function toast(s){$("toast").textContent=s;setTimeout(()=>{$("toast").textContent=""},3000)}
+function emitAck(event,payload){return new Promise(resolve=>socket.emit(event,payload,resolve))}
+socket.on("connect",()=>myId=socket.id);
+function create(){const name=$("createName").value.trim()||"Player";socket.emit("room:create",{name},r=>{if(!r?.ok){$("homeStatus").textContent=r?.error||"Could not create room.";return}roomCode=r.code;show("lobby")})}
+function join(){const name=$("joinName").value.trim()||"Player",code=$("joinCode").value.trim().toUpperCase();socket.emit("room:join",{name,code},r=>{if(!r?.ok){$("homeStatus").textContent=r?.error||"Could not join.";return}roomCode=r.code;show("lobby")})}
+$("createBtn").onclick=create;$("joinBtn").onclick=join;
+$("joinCode").addEventListener("input",e=>e.target.value=e.target.value.toUpperCase().replace(/[^A-Z0-9]/g,""));
+$("copyBtn").onclick=async()=>{try{await navigator.clipboard.writeText(roomCode);toast("Room code copied!")}catch{toast("Share this code: "+roomCode)}};
+$("startBtn").onclick=()=>socket.emit("room:start");
+$("nextBtn").onclick=()=>socket.emit("round:next");
+$("rematchBtn").onclick=()=>socket.emit("match:rematch");
+socket.on("notice",toast);
+socket.on("room:update",room=>{currentRoom=room;roomCode=room.code;renderRoom(room)});
+socket.on("answer:feedback",r=>{toast(r.message);$("gameStatus").textContent=r.message});
+socket.on("secret:role",r=>{localRole=r;toast(r.message);renderGame(currentRoom)});
+socket.on("spy:vote",r=>{spySubmissions=r.submissions;renderGame(currentRoom)});
+socket.on("spy:reveal",r=>{spyRevealed=true;toast(r.caught?"The spy was caught!":"The spy escaped!");$("gameStatus").textContent=(r.caught?"The spy was caught!":"The spy escaped!")+" The spy was "+(currentRoom?.players.find(p=>p.id===r.spyId)?.name||"revealed")+". Secret word: "+r.word;});
+socket.on("draw:stroke",stroke=>{if(currentRoom?.game?.type==="draw"){currentRoom.game.canvas.push(stroke);drawStroke(stroke)}});
+function renderRoom(r){
+ $("roomCode").textContent=r.code;$("playerCount").textContent=r.players.length+"/8";
+ $("playerList").innerHTML=r.players.map(p=>`<div class="player"><div class="row"><span class="avatar">${esc(p.name[0].toUpperCase())}</span><div><strong>${esc(p.name)}</strong><br><small>${p.id===r.hostId?"Host":p.connected?"Connected":"Reconnecting…"}</small></div></div></div>`).join("");
+ $("startBtn").classList.toggle("hide",r.hostId!==myId);$("startBtn").disabled=r.players.length<2;
+ if(r.phase==="lobby")show("lobby");
+ else if(r.phase==="playing"){show("game");renderGame(r)}
+ else if(r.phase==="between"){show("between");renderBetween(r)}
+ else if(r.phase==="finished"){show("finished");renderFinished(r)}
+}
+function esc(s){return String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
+function leaderboard(players){return `<table class="board"><thead><tr><th>Player</th><th>Points</th></tr></thead><tbody>${[...players].sort((a,b)=>b.score-a.score).map((p,i)=>`<tr><td>${["🥇","🥈","🥉"][i]||"✦"} ${esc(p.name)} ${p.id===myId?"(you)":""}</td><td>${p.score.toLocaleString()}</td></tr>`).join("")}</tbody></table>`}
+function renderGame(r){
+if (!r?.game) return;
+
+const g = r.game;
+
+// Identify the current question
+const questionKey = `${r.code}-${r.round}-${g.type}-${g.questionIndex ?? 0}`;
+
+// Reset answer status only when the question changes
+
+if (window.lastQuestionKey !== questionKey) {
+  window.lastQuestionKey = questionKey;
+  window.selectedAnswer = null;
+  answered = false;
+}
+
+ $("roundEyebrow").textContent=`ROUND ${r.round+1} OF 5`;
+ $("gameTitle").textContent=["Quiz Clash","Guess the Word","Draw & Guess","Secret Spy","Speed Challenge"][r.round];
+ $("roundHint").textContent=["Choose the best answer.","Type the secret word.","Draw or guess the picture.","Share clues, then vote for the spy.","Think fast and choose correctly."][r.round];
+ $("roundScore").textContent="Round score: "+(r.players.find(p=>p.id===myId)?.score||0).toLocaleString();
+ const body=$("gameBody");
+
+
+if (g.type === "quiz" || g.type === "speed") {
+  if (g.type === "quiz") {
+    $("roundEyebrow").textContent =
+      `ROUND ${r.round + 1} OF 5 · QUESTION ${g.questionIndex + 1} OF ${g.totalQuestions}`;
+  } else {
+    $("roundEyebrow").textContent =
+      "ROUND 5 OF 5 · SPEED CHALLENGE";
+  }
+   body.innerHTML=`<div class="question">${esc(g.question)}</div><div class="answers">${g.options.map((o,i)=>`<button class="answer" data-answer="${i}">${String.fromCharCode(65+i)}. ${esc(o)}</button>`).join("")}</div>`;
+  
+body.querySelectorAll("[data-answer]").forEach(button => {
+  const answerIndex = Number(button.dataset.answer);
+
+  if (answered) {
+    button.disabled = true;
+
+    if (window.selectedAnswer === answerIndex) {
+      button.classList.add("selected");
+    }
+  }
+
+  button.onclick = () => {
+    if (answered) return;
+
+    answered = true;
+    window.selectedAnswer = answerIndex;
+
+    body.querySelectorAll("[data-answer]").forEach(b => {
+      b.disabled = true;
+    });
+
+    button.classList.add("selected");
+
+    socket.emit("game:answer", {
+      answer: answerIndex
+    });
+  };
+});
+
+ }else if(g.type==="word"){
+   body.innerHTML=`<div class="question">Can you crack the word?</div><div class="notice">💡 Clue: ${esc(g.hint)}</div><div class="field"><input id="wordGuess" placeholder="Type your guess…" autocomplete="off"></div><button class="primary wide" id="wordSubmit">Submit guess</button>`;
+   $("wordSubmit").onclick=()=>{socket.emit("game:answer",{answer:$("wordGuess").value});$("wordGuess").value=""};$("wordGuess").onkeydown=e=>{if(e.key==="Enter")$("wordSubmit").click()};
+ }else if(g.type==="draw"){
+   const isDrawer=g.drawerId===myId;
+   body.innerHTML=`<div class="question">${isDrawer?"Draw this: "+esc(g.prompt):"What is being drawn?"}</div><div class="notice">${isDrawer?"Your prompt is private. Draw on the canvas below.":"Watch the drawing and submit a guess."}</div><canvas id="drawCanvas" class="draw-canvas" width="900" height="400"></canvas>${isDrawer?`<div class="tools"><button class="secondary" id="clearCanvas">Clear canvas</button><label class="muted">Brush <input type="range" id="brushSize" min="2" max="18" value="6"></label></div>`:`<div class="field"><input id="drawGuess" placeholder="What do you think it is?"></div><button class="primary wide" id="drawSubmit">Submit guess</button>`}`;
+   const c=$("drawCanvas"),ctx=c.getContext("2d");ctx.fillStyle="#fff";ctx.fillRect(0,0,c.width,c.height);(g.canvas||[]).forEach(drawStroke);
+   if(isDrawer){c.onpointerdown=e=>{activeStroke={x:[],y:[],color:"#171528",size:Number($("brushSize").value)};c.setPointerCapture(e.pointerId);const p=pos(e,c);activeStroke.x.push(p.x);activeStroke.y.push(p.y)};c.onpointermove=e=>{if(!activeStroke)return;const p=pos(e,c);activeStroke.x.push(p.x);activeStroke.y.push(p.y);drawStroke(activeStroke);socket.emit("draw:stroke",activeStroke)};c.onpointerup=()=>activeStroke=null;$("clearCanvas").onclick=()=>{ctx.clearRect(0,0,c.width,c.height);ctx.fillStyle="#fff";ctx.fillRect(0,0,c.width,c.height);socket.emit("draw:stroke",{clear:true})}}
+   else $("drawSubmit").onclick=()=>socket.emit("draw:guess",{guess:$("drawGuess").value});
+ }else if(g.type==="spy"){
+   if(spyRevealed){body.innerHTML=`<div class="question">Spy round revealed!</div>`}
+   else if(spySubmissions&&g.voting){body.innerHTML=`<div class="question">Who is the spy?</div><div class="notice">Read the clues, then vote for one other player.</div><div class="players">${spySubmissions.map(s=>`<div class="player"><strong>${esc(s.name)}</strong><p>${esc(s.response||"No clue submitted")}</p>${s.id!==myId?`<button class="secondary wide" data-vote="${s.id}">Vote for ${esc(s.name)}</button>`:"<small>Your own response</small>"}</div>`).join("")}</div>`;body.querySelectorAll("[data-vote]").forEach(b=>b.onclick=()=>{socket.emit("spy:cast",{targetId:b.dataset.vote});b.disabled=true;b.textContent="Vote submitted"})}
+   else {body.innerHTML=`<div class="question">Give a subtle clue.</div><div class="notice">${localRole?esc(localRole.message):"Your secret role is being dealt…"}</div><div class="field"><input id="spyClue" maxlength="100" placeholder="Describe your word without saying it"></div><button class="primary wide" id="spySubmit">Submit clue</button>`;$("spySubmit").onclick=()=>{socket.emit("game:answer",{answer:$("spyClue").value});$("spySubmit").disabled=true;$("spySubmit").textContent="Clue submitted — waiting…" }}
+ }
+ $("liveBoard").innerHTML=leaderboard(r.players);startTimer(r.deadline);
+}
+function pos(e,c){const r=c.getBoundingClientRect();return{x:(e.clientX-r.left)*c.width/r.width,y:(e.clientY-r.top)*c.height/r.height}}
+function drawStroke(s){const c=$("drawCanvas");if(!c||!s)return;const ctx=c.getContext("2d");if(s.clear){ctx.fillStyle="#fff";ctx.fillRect(0,0,c.width,c.height);return}if(!s.x||!s.x.length)return;ctx.strokeStyle=s.color||"#171528";ctx.lineWidth=s.size||6;ctx.lineCap="round";ctx.lineJoin="round";ctx.beginPath();ctx.moveTo(s.x[0],s.y[0]);for(let i=1;i<s.x.length;i++)ctx.lineTo(s.x[i],s.y[i]);ctx.stroke()}
+function startTimer(d){deadline=d;if(tick)clearInterval(tick);tick=setInterval(()=>{const left=Math.max(0,Math.ceil((deadline-Date.now())/1000));$("timer").textContent=left+"s";
+$("timeBar").style.width =
+  ((left / (currentRoom?.game?.type === "quiz" ? 12 : 60)) * 100) + "%";
+  if(!left)clearInterval(tick)},200)}
+function renderBetween(r){$("betweenTitle").textContent=r.results?.message||"Round complete!";$("roundResults").innerHTML=leaderboard(r.players.map(p=>({...p,score:p.roundScore||0})));$("nextBtn").classList.toggle("hide",r.hostId!==myId);$("nextBtn").textContent=r.round===4?"See final results →":"Next round →"}
+function renderFinished(r){const sorted=[...r.players].sort((a,b)=>b.score-a.score);$("winner").innerHTML=sorted.length?`<div class="notice" style="text-align:center;padding:24px"><div style="font-size:40px">🏆</div><h2 style="font:700 30px 'Space Grotesk'">${esc(sorted[0].name)}</h2><div class="gradient" style="font-size:20px;font-weight:700">${sorted[0].score.toLocaleString()} points</div></div>`:"";$("finalBoard").innerHTML=leaderboard(r.players);$("rematchBtn").classList.toggle("hide",r.hostId!==myId)}
+</script>
+</body>
+</html>
