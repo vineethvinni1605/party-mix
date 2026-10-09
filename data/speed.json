@@ -754,5 +754,705 @@
     "answer": 1,
     "category": "Movies & entertainment",
     "difficulty": "easy"
+  },
+  {
+    "q": "How many days are in a week?",
+    "answer": "7",
+    "category": "General Knowledge"
+  },
+  {
+    "q": "What color do you get by mixing red and white?",
+    "answer": "Pink",
+    "category": "General Knowledge"
+  },
+  {
+    "q": "What is the opposite of hot?",
+    "answer": "Cold",
+    "category": "General Knowledge"
+  },
+  {
+    "q": "How many sides does a triangle have?",
+    "answer": "3",
+    "category": "General Knowledge"
+  },
+  {
+    "q": "Which animal is known as the king of the jungle?",
+    "answer": "Lion",
+    "category": "General Knowledge"
+  },
+  {
+    "q": "What color is a ripe banana usually?",
+    "answer": "Yellow",
+    "category": "General Knowledge"
+  },
+  {
+    "q": "How many letters are in the English alphabet?",
+    "answer": "26",
+    "category": "General Knowledge"
+  },
+  {
+    "q": "What is 9 plus 6?",
+    "answer": "15",
+    "category": "Math"
+  },
+  {
+    "q": "What is 12 minus 5?",
+    "answer": "7",
+    "category": "Math"
+  },
+  {
+    "q": "What is 7 times 8?",
+    "answer": "56",
+    "category": "Math"
+  },
+  {
+    "q": "What is half of 50?",
+    "answer": "25",
+    "category": "Math"
+  },
+  {
+    "q": "What is 15 plus 17?",
+    "answer": "32",
+    "category": "Math"
+  },
+  {
+    "q": "What is 6 times 9?",
+    "answer": "54",
+    "category": "Math"
+  },
+  {
+    "q": "What is the square root of 64?",
+    "answer": "8",
+    "category": "Math"
+  },
+  {
+    "q": "What is 25 percent of 200?",
+    "answer": "50",
+    "category": "Math"
+  },
+  {
+    "q": "Which planet is known as the Red Planet?",
+    "answer": "Mars",
+    "category": "Science"
+  },
+  {
+    "q": "What gas do humans breathe in to survive?",
+    "answer": "Oxygen",
+    "category": "Science"
+  },
+  {
+    "q": "Which star is at the center of our solar system?",
+    "answer": "Sun",
+    "category": "Science"
+  },
+  {
+    "q": "What force pulls objects toward Earth?",
+    "answer": "Gravity",
+    "category": "Science"
+  },
+  {
+    "q": "What organ pumps blood around the body?",
+    "answer": "Heart",
+    "category": "Science"
+  },
+  {
+    "q": "What do bees collect from flowers?",
+    "answer": "Nectar",
+    "category": "Science"
+  },
+  {
+    "q": "At what temperature does water freeze in Celsius?",
+    "answer": "0",
+    "category": "Science"
+  },
+  {
+    "q": "What is the largest planet in our solar system?",
+    "answer": "Jupiter",
+    "category": "Science"
+  },
+  {
+    "q": "How many players are on a cricket team on the field?",
+    "answer": "11",
+    "category": "Sports"
+  },
+  {
+    "q": "How many rings are on the Olympic flag?",
+    "answer": "5",
+    "category": "Sports"
+  },
+  {
+    "q": "Which sport is played at Wimbledon?",
+    "answer": "Tennis",
+    "category": "Sports"
+  },
+  {
+    "q": "How many points is a basketball free throw worth?",
+    "answer": "1",
+    "category": "Sports"
+  },
+  {
+    "q": "Which sport uses a puck?",
+    "answer": "Ice Hockey",
+    "category": "Sports"
+  },
+  {
+    "q": "How many players are on a soccer team on the field?",
+    "answer": "11",
+    "category": "Sports"
+  },
+  {
+    "q": "Which sport uses a bow and arrows?",
+    "answer": "Archery",
+    "category": "Sports"
+  },
+  {
+    "q": "How many bases are on a baseball diamond?",
+    "answer": "4",
+    "category": "Sports"
+  },
+  {
+    "q": "Which sport features a pommel horse?",
+    "answer": "Gymnastics",
+    "category": "Sports"
+  },
+  {
+    "q": "What is the name of the cowboy in Toy Story?",
+    "answer": "Woody",
+    "category": "Entertainment"
+  },
+  {
+    "q": "Which superhero carries a hammer called Mjolnir?",
+    "answer": "Thor",
+    "category": "Entertainment"
+  },
+  {
+    "q": "What is the name of Harry Potter's school?",
+    "answer": "Hogwarts",
+    "category": "Entertainment"
+  },
+  {
+    "q": "Which movie features the song Let It Go?",
+    "answer": "Frozen",
+    "category": "Entertainment"
+  },
+  {
+    "q": "What is the name of Mario's brother?",
+    "answer": "Luigi",
+    "category": "Entertainment"
+  },
+  {
+    "q": "Which superhero is known as the Dark Knight?",
+    "answer": "Batman",
+    "category": "Entertainment"
+  },
+  {
+    "q": "Which yellow cartoon character lives in a pineapple under the sea?",
+    "answer": "SpongeBob",
+    "category": "Entertainment"
+  },
+  {
+    "q": "What is the name of the lion cub in The Lion King?",
+    "answer": "Simba",
+    "category": "Entertainment"
+  },
+  {
+    "q": "Which game features colorful crewmates and impostors?",
+    "answer": "Among Us",
+    "category": "Entertainment"
+  },
+  {
+    "q": "What is the name of the snowman in Frozen?",
+    "answer": "Olaf",
+    "category": "Entertainment"
+  },
+  {
+    "q": "What is the capital of Japan?",
+    "answer": "Tokyo",
+    "category": "Geography"
+  },
+  {
+    "q": "Which country is famous for the Eiffel Tower?",
+    "answer": "France",
+    "category": "Geography"
+  },
+  {
+    "q": "What is the largest ocean on Earth?",
+    "answer": "Pacific Ocean",
+    "category": "Geography"
+  },
+  {
+    "q": "Which country has the city of Mumbai?",
+    "answer": "India",
+    "category": "Geography"
+  },
+  {
+    "q": "What is the capital of Australia?",
+    "answer": "Canberra",
+    "category": "Geography"
+  },
+  {
+    "q": "Which continent is Brazil in?",
+    "answer": "South America",
+    "category": "Geography"
+  },
+  {
+    "q": "What is the capital of Italy?",
+    "answer": "Rome",
+    "category": "Geography"
+  },
+  {
+    "q": "Which country is famous for the pyramids of Giza?",
+    "answer": "Egypt",
+    "category": "Geography"
+  },
+  {
+    "q": "What is the largest hot desert in the world?",
+    "answer": "Sahara",
+    "category": "Geography"
+  },
+  {
+    "q": "Which country has the city of Dubai?",
+    "answer": "United Arab Emirates",
+    "category": "Geography"
+  },
+  {
+    "q": "Which animal is known for its black and white stripes?",
+    "answer": "Zebra",
+    "category": "Animals"
+  },
+  {
+    "q": "What is a baby cat called?",
+    "answer": "Kitten",
+    "category": "Animals"
+  },
+  {
+    "q": "Which bird is known for its colorful tail feathers?",
+    "answer": "Peacock",
+    "category": "Animals"
+  },
+  {
+    "q": "What is the tallest living land animal?",
+    "answer": "Giraffe",
+    "category": "Animals"
+  },
+  {
+    "q": "Which animal carries its baby in a pouch?",
+    "answer": "Kangaroo",
+    "category": "Animals"
+  },
+  {
+    "q": "Which sea creature has eight arms?",
+    "answer": "Octopus",
+    "category": "Animals"
+  },
+  {
+    "q": "What is a baby dog called?",
+    "answer": "Puppy",
+    "category": "Animals"
+  },
+  {
+    "q": "Which animal is known for changing its skin color?",
+    "answer": "Chameleon",
+    "category": "Animals"
+  },
+  {
+    "q": "Which bird is often associated with Antarctica?",
+    "answer": "Penguin",
+    "category": "Animals"
+  },
+  {
+    "q": "What is the largest animal alive today?",
+    "answer": "Blue Whale",
+    "category": "Animals"
+  },
+  {
+    "q": "What fruit is used to make guacamole?",
+    "answer": "Avocado",
+    "category": "Food"
+  },
+  {
+    "q": "What is the main ingredient in traditional hummus?",
+    "answer": "Chickpeas",
+    "category": "Food"
+  },
+  {
+    "q": "Which country is sushi originally from?",
+    "answer": "Japan",
+    "category": "Food"
+  },
+  {
+    "q": "What vegetable is used to make French fries?",
+    "answer": "Potato",
+    "category": "Food"
+  },
+  {
+    "q": "What is the main ingredient in chocolate?",
+    "answer": "Cocoa",
+    "category": "Food"
+  },
+  {
+    "q": "Which fruit is dried to make raisins?",
+    "answer": "Grapes",
+    "category": "Food"
+  },
+  {
+    "q": "What dairy product is commonly used as a pizza topping?",
+    "answer": "Cheese",
+    "category": "Food"
+  },
+  {
+    "q": "What is the main ingredient in popcorn?",
+    "answer": "Corn",
+    "category": "Food"
+  },
+  {
+    "q": "Which fruit is known for having a spiky crown and rough skin?",
+    "answer": "Pineapple",
+    "category": "Food"
+  },
+  {
+    "q": "What is tofu mainly made from?",
+    "answer": "Soybeans",
+    "category": "Food"
+  },
+  {
+    "q": "What does USB stand for?",
+    "answer": "Universal Serial Bus",
+    "category": "Technology"
+  },
+  {
+    "q": "What does Wi-Fi help devices connect to wirelessly?",
+    "answer": "Network",
+    "category": "Technology"
+  },
+  {
+    "q": "Which company makes the iPhone?",
+    "answer": "Apple",
+    "category": "Technology"
+  },
+  {
+    "q": "What device is used to move a cursor on a computer?",
+    "answer": "Mouse",
+    "category": "Technology"
+  },
+  {
+    "q": "What does GPS stand for?",
+    "answer": "Global Positioning System",
+    "category": "Technology"
+  },
+  {
+    "q": "Which key is commonly used to insert a space while typing?",
+    "answer": "Spacebar",
+    "category": "Technology"
+  },
+  {
+    "q": "What does AI stand for?",
+    "answer": "Artificial Intelligence",
+    "category": "Technology"
+  },
+  {
+    "q": "What device converts paper documents into digital images?",
+    "answer": "Scanner",
+    "category": "Technology"
+  },
+  {
+    "q": "What does PDF stand for?",
+    "answer": "Portable Document Format",
+    "category": "Technology"
+  },
+  {
+    "q": "What comes next: 2, 4, 6, 8, ?",
+    "answer": "10",
+    "category": "Quick Thinking"
+  },
+  {
+    "q": "How many minutes are in two hours?",
+    "answer": "120",
+    "category": "Quick Thinking"
+  },
+  {
+    "q": "What is 5 times 5?",
+    "answer": "25",
+    "category": "Quick Thinking"
+  },
+  {
+    "q": "What comes next: A, B, C, D, ?",
+    "answer": "E",
+    "category": "Quick Thinking"
+  },
+  {
+    "q": "How many seconds are in one minute?",
+    "answer": "60",
+    "category": "Quick Thinking"
+  },
+  {
+    "q": "What is double 18?",
+    "answer": "36",
+    "category": "Quick Thinking"
+  },
+  {
+    "q": "What is 90 minus 45?",
+    "answer": "45",
+    "category": "Quick Thinking"
+  },
+  {
+    "q": "How many corners does a rectangle have?",
+    "answer": "4",
+    "category": "Quick Thinking"
+  },
+  {
+    "q": "What number comes before 100?",
+    "answer": "99",
+    "category": "Quick Thinking"
+  },
+  {
+    "q": "What is 11 times 11?",
+    "answer": "121",
+    "category": "Quick Thinking"
+  },
+  {
+    "q": "What is the capital of India?",
+    "answer": "New Delhi",
+    "category": "India"
+  },
+  {
+    "q": "Which Indian festival is known as the festival of lights?",
+    "answer": "Diwali",
+    "category": "India"
+  },
+  {
+    "q": "Which Indian city is known as the Pink City?",
+    "answer": "Jaipur",
+    "category": "India"
+  },
+  {
+    "q": "Which Indian city is famous for the Charminar?",
+    "answer": "Hyderabad",
+    "category": "India"
+  },
+  {
+    "q": "What is the currency of India?",
+    "answer": "Rupee",
+    "category": "India"
+  },
+  {
+    "q": "Which Indian state is famous for its backwaters?",
+    "answer": "Kerala",
+    "category": "India"
+  },
+  {
+    "q": "What is the national animal of India?",
+    "answer": "Tiger",
+    "category": "India"
+  },
+  {
+    "q": "Which Indian city is known as the Silicon Valley of India?",
+    "answer": "Bengaluru",
+    "category": "India"
+  },
+  {
+    "q": "Which Indian monument was built by Shah Jahan in memory of Mumtaz Mahal?",
+    "answer": "Taj Mahal",
+    "category": "India"
+  },
+  {
+    "q": "Which Indian festival is famous for throwing colored powder?",
+    "answer": "Holi",
+    "category": "India"
+  },
+  {
+    "q": "Who is the main character in the movie RRR played by Ram Charan?",
+    "answer": "Alluri Sitarama Raju",
+    "category": "Movies"
+  },
+  {
+    "q": "Which movie features a blue-skinned alien species called the Na'vi?",
+    "answer": "Avatar",
+    "category": "Movies"
+  },
+  {
+    "q": "Who is the superhero alter ego of Peter Parker?",
+    "answer": "Spider-Man",
+    "category": "Movies"
+  },
+  {
+    "q": "Which movie features a dinosaur theme park?",
+    "answer": "Jurassic Park",
+    "category": "Movies"
+  },
+  {
+    "q": "What is the name of the kingdom in Frozen?",
+    "answer": "Arendelle",
+    "category": "Movies"
+  },
+  {
+    "q": "Which movie features the character Jack Dawson?",
+    "answer": "Titanic",
+    "category": "Movies"
+  },
+  {
+    "q": "What is the name of the green ogre in the DreamWorks movie?",
+    "answer": "Shrek",
+    "category": "Movies"
+  },
+  {
+    "q": "Which movie features the character Buzz Lightyear?",
+    "answer": "Toy Story",
+    "category": "Movies"
+  },
+  {
+    "q": "What is the name of the fictional African nation in Black Panther?",
+    "answer": "Wakanda",
+    "category": "Movies"
+  },
+  {
+    "q": "Which movie features a clownfish searching for his son?",
+    "answer": "Finding Nemo",
+    "category": "Movies"
+  },
+  {
+    "q": "What is the process by which plants make food using sunlight?",
+    "answer": "Photosynthesis",
+    "category": "Nature"
+  },
+  {
+    "q": "What do caterpillars transform into?",
+    "answer": "Butterflies",
+    "category": "Nature"
+  },
+  {
+    "q": "What is the hardest naturally occurring mineral?",
+    "answer": "Diamond",
+    "category": "Nature"
+  },
+  {
+    "q": "Which layer of Earth do we live on?",
+    "answer": "Crust",
+    "category": "Nature"
+  },
+  {
+    "q": "What is molten rock called after it reaches Earth's surface?",
+    "answer": "Lava",
+    "category": "Nature"
+  },
+  {
+    "q": "Which season comes after spring?",
+    "answer": "Summer",
+    "category": "Nature"
+  },
+  {
+    "q": "What is the name of water falling from clouds as ice crystals?",
+    "answer": "Snow",
+    "category": "Nature"
+  },
+  {
+    "q": "What is a group of stars forming a recognizable pattern called?",
+    "answer": "Constellation",
+    "category": "Nature"
+  },
+  {
+    "q": "What natural phenomenon produces thunder and lightning?",
+    "answer": "Thunderstorm",
+    "category": "Nature"
+  },
+  {
+    "q": "What is 13 plus 19?",
+    "answer": "32",
+    "category": "Logic"
+  },
+  {
+    "q": "What is 14 times 3?",
+    "answer": "42",
+    "category": "Logic"
+  },
+  {
+    "q": "What is half of 90?",
+    "answer": "45",
+    "category": "Logic"
+  },
+  {
+    "q": "What comes next: 5, 10, 15, 20, ?",
+    "answer": "25",
+    "category": "Logic"
+  },
+  {
+    "q": "What is 144 divided by 12?",
+    "answer": "12",
+    "category": "Logic"
+  },
+  {
+    "q": "What is 7 squared?",
+    "answer": "49",
+    "category": "Logic"
+  },
+  {
+    "q": "What is 18 minus 9?",
+    "answer": "9",
+    "category": "Logic"
+  },
+  {
+    "q": "What is 15 percent of 100?",
+    "answer": "15",
+    "category": "Logic"
+  },
+  {
+    "q": "How many degrees are in a right angle?",
+    "answer": "90",
+    "category": "Logic"
+  },
+  {
+    "q": "What is the next prime number after 7?",
+    "answer": "11",
+    "category": "Logic"
+  },
+  {
+    "q": "What do you use to unlock a traditional door lock?",
+    "answer": "Key",
+    "category": "Everyday Knowledge"
+  },
+  {
+    "q": "Which appliance is used to keep food cold?",
+    "answer": "Refrigerator",
+    "category": "Everyday Knowledge"
+  },
+  {
+    "q": "What do you use to brush your teeth?",
+    "answer": "Toothbrush",
+    "category": "Everyday Knowledge"
+  },
+  {
+    "q": "What do you call a person who flies an airplane?",
+    "answer": "Pilot",
+    "category": "Everyday Knowledge"
+  },
+  {
+    "q": "What do you use to protect yourself from rain?",
+    "answer": "Umbrella",
+    "category": "Everyday Knowledge"
+  },
+  {
+    "q": "What device is used to measure body temperature?",
+    "answer": "Thermometer",
+    "category": "Everyday Knowledge"
+  },
+  {
+    "q": "What do you call a person who prepares food professionally?",
+    "answer": "Chef",
+    "category": "Everyday Knowledge"
+  },
+  {
+    "q": "Which household appliance is used to wash clothes?",
+    "answer": "Washing Machine",
+    "category": "Everyday Knowledge"
+  },
+  {
+    "q": "What do you use to cut paper?",
+    "answer": "Scissors",
+    "category": "Everyday Knowledge"
+  },
+  {
+    "q": "Which device is used to take photographs?",
+    "answer": "Camera",
+    "category": "Everyday Knowledge"
   }
 ]
