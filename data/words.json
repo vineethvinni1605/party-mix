@@ -1540,5 +1540,587 @@
     "hint": "Competition where participants show off dance moves",
     "category": "Party Games",
     "difficulty": "easy"
+  },
+  {
+    "word": "BAMBOO",
+    "hint": "A fast-growing plant with tall hollow stems",
+    "category": "Nature",
+    "difficulty": "easy"
+  },
+  {
+    "word": "CACTUS",
+    "hint": "A desert plant often covered in spines",
+    "category": "Nature",
+    "difficulty": "easy"
+  },
+  {
+    "word": "REDWOOD",
+    "hint": "A type of tree famous for its enormous height",
+    "category": "Nature",
+    "difficulty": "medium"
+  },
+  {
+    "word": "LAVENDER",
+    "hint": "A purple flowering plant known for its fragrance",
+    "category": "Nature",
+    "difficulty": "easy"
+  },
+  {
+    "word": "SUNFLOWER",
+    "hint": "A tall plant with a large yellow flower head",
+    "category": "Nature",
+    "difficulty": "easy"
+  },
+  {
+    "word": "VENUS FLYTRAP",
+    "hint": "A carnivorous plant that catches insects",
+    "category": "Nature",
+    "difficulty": "medium"
+  },
+  {
+    "word": "DANDELION",
+    "hint": "A yellow flower that develops a fluffy seed head",
+    "category": "Nature",
+    "difficulty": "medium"
+  },
+  {
+    "word": "LOTUS",
+    "hint": "An aquatic flower often associated with India",
+    "category": "Nature",
+    "difficulty": "easy"
+  },
+  {
+    "word": "BAOBAB",
+    "hint": "A tree known for its unusually thick trunk",
+    "category": "Nature",
+    "difficulty": "hard"
+  },
+  {
+    "word": "UNICORN",
+    "hint": "A mythical horse-like creature with one horn",
+    "category": "Fantasy",
+    "difficulty": "easy"
+  },
+  {
+    "word": "PHOENIX",
+    "hint": "A mythical bird said to rise from its ashes",
+    "category": "Fantasy",
+    "difficulty": "medium"
+  },
+  {
+    "word": "MERMAID",
+    "hint": "A mythical being with a human upper body and fish tail",
+    "category": "Fantasy",
+    "difficulty": "easy"
+  },
+  {
+    "word": "CENTAUR",
+    "hint": "A mythical creature with a human upper body and horse body",
+    "category": "Fantasy",
+    "difficulty": "medium"
+  },
+  {
+    "word": "GRIFFIN",
+    "hint": "A mythical creature with features of an eagle and lion",
+    "category": "Fantasy",
+    "difficulty": "hard"
+  },
+  {
+    "word": "GOBLIN",
+    "hint": "A small mischievous creature in fantasy stories",
+    "category": "Fantasy",
+    "difficulty": "easy"
+  },
+  {
+    "word": "TROLL",
+    "hint": "A creature often found under bridges in fairy tales",
+    "category": "Fantasy",
+    "difficulty": "easy"
+  },
+  {
+    "word": "MAGIC WAND",
+    "hint": "An object used to cast spells in fantasy stories",
+    "category": "Fantasy",
+    "difficulty": "easy"
+  },
+  {
+    "word": "INVISIBILITY CLOAK",
+    "hint": "A magical garment that hides its wearer",
+    "category": "Fantasy",
+    "difficulty": "medium"
+  },
+  {
+    "word": "TIME MACHINE",
+    "hint": "An imaginary device used to travel through time",
+    "category": "Fantasy",
+    "difficulty": "easy"
+  },
+  {
+    "word": "BLACKBOARD",
+    "hint": "A classroom board written on using chalk",
+    "category": "School",
+    "difficulty": "easy"
+  },
+  {
+    "word": "HOMEWORK",
+    "hint": "School assignments completed outside class",
+    "category": "School",
+    "difficulty": "easy"
+  },
+  {
+    "word": "GRADUATION",
+    "hint": "A ceremony celebrating completion of studies",
+    "category": "School",
+    "difficulty": "easy"
+  },
+  {
+    "word": "REPORT CARD",
+    "hint": "A document showing a student's academic performance",
+    "category": "School",
+    "difficulty": "easy"
+  },
+  {
+    "word": "TEXTBOOK",
+    "hint": "A book used for studying a particular subject",
+    "category": "School",
+    "difficulty": "easy"
+  },
+  {
+    "word": "PROTRACTOR",
+    "hint": "A tool used to measure angles",
+    "category": "School",
+    "difficulty": "medium"
+  },
+  {
+    "word": "HIGHLIGHTER",
+    "hint": "A pen used to mark important text",
+    "category": "School",
+    "difficulty": "easy"
+  },
+  {
+    "word": "LABORATORY",
+    "hint": "A room equipped for scientific experiments",
+    "category": "School",
+    "difficulty": "medium"
+  },
+  {
+    "word": "SCHOLARSHIP",
+    "hint": "Financial support awarded to help pay for education",
+    "category": "School",
+    "difficulty": "medium"
+  },
+  {
+    "word": "WHITEBOARD",
+    "hint": "A smooth board written on using erasable markers",
+    "category": "School",
+    "difficulty": "easy"
+  },
+  {
+    "word": "HELICOPTER",
+    "hint": "An aircraft that flies using rotating blades",
+    "category": "Transportation",
+    "difficulty": "easy"
+  },
+  {
+    "word": "SUBMARINE",
+    "hint": "A vessel designed to travel underwater",
+    "category": "Transportation",
+    "difficulty": "easy"
+  },
+  {
+    "word": "HOT AIR BALLOON",
+    "hint": "An aircraft lifted by heated air inside a large envelope",
+    "category": "Transportation",
+    "difficulty": "easy"
+  },
+  {
+    "word": "BULLET TRAIN",
+    "hint": "A very fast passenger train",
+    "category": "Transportation",
+    "difficulty": "easy"
+  },
+  {
+    "word": "FERRY",
+    "hint": "A boat that transports passengers or vehicles across water",
+    "category": "Transportation",
+    "difficulty": "medium"
+  },
+  {
+    "word": "GONDOLA",
+    "hint": "A traditional narrow boat used in Venice",
+    "category": "Transportation",
+    "difficulty": "medium"
+  },
+  {
+    "word": "MONORAIL",
+    "hint": "A railway system running on a single rail or beam",
+    "category": "Transportation",
+    "difficulty": "medium"
+  },
+  {
+    "word": "RICKSHAW",
+    "hint": "A small passenger vehicle common in parts of Asia",
+    "category": "Transportation",
+    "difficulty": "easy"
+  },
+  {
+    "word": "HOVERCRAFT",
+    "hint": "A vehicle that travels on a cushion of air",
+    "category": "Transportation",
+    "difficulty": "hard"
+  },
+  {
+    "word": "EXCITEMENT",
+    "hint": "A feeling of eager enthusiasm",
+    "category": "Emotions",
+    "difficulty": "easy"
+  },
+  {
+    "word": "JEALOUSY",
+    "hint": "A feeling of envy or fear of losing someone's attention",
+    "category": "Emotions",
+    "difficulty": "medium"
+  },
+  {
+    "word": "CURIOSITY",
+    "hint": "A strong desire to learn or discover something",
+    "category": "Emotions",
+    "difficulty": "easy"
+  },
+  {
+    "word": "NOSTALGIA",
+    "hint": "A sentimental longing for the past",
+    "category": "Emotions",
+    "difficulty": "medium"
+  },
+  {
+    "word": "FRUSTRATION",
+    "hint": "A feeling caused by repeated difficulties or obstacles",
+    "category": "Emotions",
+    "difficulty": "medium"
+  },
+  {
+    "word": "CONFIDENCE",
+    "hint": "Belief in your own abilities",
+    "category": "Emotions",
+    "difficulty": "easy"
+  },
+  {
+    "word": "EMBARRASSMENT",
+    "hint": "An uncomfortable feeling after an awkward moment",
+    "category": "Emotions",
+    "difficulty": "medium"
+  },
+  {
+    "word": "GRATITUDE",
+    "hint": "A feeling of thankfulness",
+    "category": "Emotions",
+    "difficulty": "medium"
+  },
+  {
+    "word": "SURPRISE",
+    "hint": "A feeling caused by something unexpected",
+    "category": "Emotions",
+    "difficulty": "easy"
+  },
+  {
+    "word": "RELIEF",
+    "hint": "A feeling when worry or discomfort ends",
+    "category": "Emotions",
+    "difficulty": "easy"
+  },
+  {
+    "word": "POTTERY",
+    "hint": "Making objects from clay and hardening them with heat",
+    "category": "Hobbies",
+    "difficulty": "medium"
+  },
+  {
+    "word": "ORIGAMI",
+    "hint": "Japanese art of folding paper into shapes",
+    "category": "Hobbies",
+    "difficulty": "medium"
+  },
+  {
+    "word": "KNITTING",
+    "hint": "Creating fabric by interlocking loops of yarn",
+    "category": "Hobbies",
+    "difficulty": "easy"
+  },
+  {
+    "word": "CROCHET",
+    "hint": "Making fabric using yarn and a hooked needle",
+    "category": "Hobbies",
+    "difficulty": "medium"
+  },
+  {
+    "word": "CALLIGRAPHY",
+    "hint": "The art of decorative handwriting",
+    "category": "Hobbies",
+    "difficulty": "hard"
+  },
+  {
+    "word": "PHOTOGRAPHY",
+    "hint": "The art of capturing images with a camera",
+    "category": "Hobbies",
+    "difficulty": "easy"
+  },
+  {
+    "word": "GARDENING",
+    "hint": "Growing and caring for plants",
+    "category": "Hobbies",
+    "difficulty": "easy"
+  },
+  {
+    "word": "WOODWORKING",
+    "hint": "Making useful or decorative objects from wood",
+    "category": "Hobbies",
+    "difficulty": "medium"
+  },
+  {
+    "word": "BIRDWATCHING",
+    "hint": "Observing birds in their natural habitats",
+    "category": "Hobbies",
+    "difficulty": "medium"
+  },
+  {
+    "word": "SCRAPBOOKING",
+    "hint": "Preserving memories in a decorated album",
+    "category": "Hobbies",
+    "difficulty": "medium"
+  },
+  {
+    "word": "MONOPOLY",
+    "hint": "A board game about buying and trading properties",
+    "category": "Games",
+    "difficulty": "easy"
+  },
+  {
+    "word": "SCRABBLE",
+    "hint": "A board game where players form words using letter tiles",
+    "category": "Games",
+    "difficulty": "easy"
+  },
+  {
+    "word": "JENGA",
+    "hint": "A game where players remove blocks from a wooden tower",
+    "category": "Games",
+    "difficulty": "easy"
+  },
+  {
+    "word": "UNO",
+    "hint": "A card game involving colors, numbers, and special action cards",
+    "category": "Games",
+    "difficulty": "easy"
+  },
+  {
+    "word": "SUDOKU",
+    "hint": "A number puzzle played on a nine-by-nine grid",
+    "category": "Games",
+    "difficulty": "medium"
+  },
+  {
+    "word": "CROSSWORD",
+    "hint": "A word puzzle with intersecting horizontal and vertical answers",
+    "category": "Games",
+    "difficulty": "easy"
+  },
+  {
+    "word": "DOMINOES",
+    "hint": "A game played with rectangular tiles marked with dots",
+    "category": "Games",
+    "difficulty": "easy"
+  },
+  {
+    "word": "BINGO",
+    "hint": "A game where players mark numbers called at random",
+    "category": "Games",
+    "difficulty": "easy"
+  },
+  {
+    "word": "PICTIONARY",
+    "hint": "A guessing game where players draw clues",
+    "category": "Games",
+    "difficulty": "easy"
+  },
+  {
+    "word": "BIRTHDAY CAKE",
+    "hint": "A dessert traditionally served during birthday celebrations",
+    "category": "Celebrations",
+    "difficulty": "easy"
+  },
+  {
+    "word": "CONFETTI",
+    "hint": "Small pieces of colored paper thrown during celebrations",
+    "category": "Celebrations",
+    "difficulty": "easy"
+  },
+  {
+    "word": "FIREWORKS",
+    "hint": "Colorful explosive displays used at celebrations",
+    "category": "Celebrations",
+    "difficulty": "easy"
+  },
+  {
+    "word": "PARTY HAT",
+    "hint": "A festive paper hat often worn at birthday parties",
+    "category": "Celebrations",
+    "difficulty": "easy"
+  },
+  {
+    "word": "WEDDING RING",
+    "hint": "A band exchanged as a symbol of marriage",
+    "category": "Celebrations",
+    "difficulty": "easy"
+  },
+  {
+    "word": "GRADUATION CAP",
+    "hint": "A square academic hat worn at graduation ceremonies",
+    "category": "Celebrations",
+    "difficulty": "easy"
+  },
+  {
+    "word": "GIFT WRAP",
+    "hint": "Decorative paper used to cover presents",
+    "category": "Celebrations",
+    "difficulty": "easy"
+  },
+  {
+    "word": "PHOTO BOOTH",
+    "hint": "A small setup where guests take fun pictures",
+    "category": "Celebrations",
+    "difficulty": "easy"
+  },
+  {
+    "word": "COUNTDOWN",
+    "hint": "Counting backward before an important moment",
+    "category": "Celebrations",
+    "difficulty": "easy"
+  },
+  {
+    "word": "ANNIVERSARY",
+    "hint": "A yearly celebration of an important event",
+    "category": "Celebrations",
+    "difficulty": "easy"
+  },
+  {
+    "word": "JOGGING",
+    "hint": "Running at a slow and steady pace",
+    "category": "Activities",
+    "difficulty": "easy"
+  },
+  {
+    "word": "HIKING",
+    "hint": "Walking long distances on outdoor trails",
+    "category": "Activities",
+    "difficulty": "easy"
+  },
+  {
+    "word": "CYCLING",
+    "hint": "Traveling or exercising on a bicycle",
+    "category": "Activities",
+    "difficulty": "easy"
+  },
+  {
+    "word": "YOGA",
+    "hint": "A practice combining physical poses and breathing",
+    "category": "Activities",
+    "difficulty": "easy"
+  },
+  {
+    "word": "MEDITATION",
+    "hint": "A practice of focusing attention to calm the mind",
+    "category": "Activities",
+    "difficulty": "medium"
+  },
+  {
+    "word": "ROCK CLIMBING",
+    "hint": "An activity involving climbing natural or artificial rock surfaces",
+    "category": "Activities",
+    "difficulty": "medium"
+  },
+  {
+    "word": "KAYAKING",
+    "hint": "Paddling a small narrow boat",
+    "category": "Activities",
+    "difficulty": "medium"
+  },
+  {
+    "word": "HORSE RIDING",
+    "hint": "An activity involving riding on horseback",
+    "category": "Activities",
+    "difficulty": "easy"
+  },
+  {
+    "word": "SKYDIVING",
+    "hint": "Jumping from an aircraft and descending with a parachute",
+    "category": "Activities",
+    "difficulty": "medium"
+  },
+  {
+    "word": "ICE SKATING",
+    "hint": "Gliding across ice using special footwear",
+    "category": "Activities",
+    "difficulty": "easy"
+  },
+  {
+    "word": "PAPER CLIP",
+    "hint": "A small bent wire used to hold papers together",
+    "category": "Everyday Objects",
+    "difficulty": "easy"
+  },
+  {
+    "word": "STAPLER",
+    "hint": "A device that fastens sheets of paper together",
+    "category": "Everyday Objects",
+    "difficulty": "easy"
+  },
+  {
+    "word": "MAGNIFYING GLASS",
+    "hint": "A handheld lens that makes objects appear larger",
+    "category": "Everyday Objects",
+    "difficulty": "easy"
+  },
+  {
+    "word": "MEASURING TAPE",
+    "hint": "A flexible tool used to measure length",
+    "category": "Everyday Objects",
+    "difficulty": "easy"
+  },
+  {
+    "word": "PENCIL SHARPENER",
+    "hint": "A tool used to create a pointed pencil tip",
+    "category": "Everyday Objects",
+    "difficulty": "easy"
+  },
+  {
+    "word": "LUNCHBOX",
+    "hint": "A container used to carry a packed meal",
+    "category": "Everyday Objects",
+    "difficulty": "easy"
+  },
+  {
+    "word": "WATER BOTTLE",
+    "hint": "A portable container used to carry drinking water",
+    "category": "Everyday Objects",
+    "difficulty": "easy"
+  },
+  {
+    "word": "KEYCHAIN",
+    "hint": "A small accessory used to hold keys together",
+    "category": "Everyday Objects",
+    "difficulty": "easy"
+  },
+  {
+    "word": "WALLET",
+    "hint": "A small case used to carry money and cards",
+    "category": "Everyday Objects",
+    "difficulty": "easy"
+  },
+  {
+    "word": "CALCULATOR",
+    "hint": "An electronic device used to perform arithmetic",
+    "category": "Everyday Objects",
+    "difficulty": "easy"
   }
 ]
