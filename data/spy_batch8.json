@@ -1,0 +1,22 @@
+[
+  {"word":"SNOW GLOBE","category":"Everyday Objects"},
+  {"word":"BOOMERANG","category":"Everyday Objects"},
+  {"word":"HOURGLASS","category":"Everyday Objects"},
+  {"word":"PINATA","category":"Celebrations"},
+  {"word":"DISCO BALL","category":"Celebrations"},
+  {"word":"FOG MACHINE","category":"Entertainment"},
+  {"word":"PUPPET SHOW","category":"Entertainment"},
+  {"word":"MIME ARTIST","category":"Entertainment"},
+  {"word":"VENTRILOQUIST","category":"Entertainment"},
+  {"word":"CIRCUS TENT","category":"Entertainment"},
+  {"word":"TREEHOUSE","category":"Places"},
+  {"word":"PLANETARIUM","category":"Places"},
+  {"word":"AQUARIUM TUNNEL","category":"Places"},
+  {"word":"SKI RESORT","category":"Places"},
+  {"word":"UNDERWATER HOTEL","category":"Places"},
+  {"word":"METEOR SHOWER","category":"Nature"},
+  {"word":"SANDSTORM","category":"Nature"},
+  {"word":"WHIRLPOOL","category":"Nature"},
+  {"word":"FIREFLY","category":"Animals"},
+  {"word":"STARFISH","category":"Animals"}
+]

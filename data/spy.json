@@ -290,5 +290,741 @@
   {
     "word": "Zombie Apocalypse",
     "category": "Funny & random"
+  },
+  {
+    "word": "HOSPITAL",
+    "category": "Places"
+  },
+  {
+    "word": "BEACH",
+    "category": "Places"
+  },
+  {
+    "word": "LIBRARY",
+    "category": "Places"
+  },
+  {
+    "word": "SHOPPING MALL",
+    "category": "Places"
+  },
+  {
+    "word": "RAILWAY STATION",
+    "category": "Places"
+  },
+  {
+    "word": "MOVIE THEATER",
+    "category": "Places"
+  },
+  {
+    "word": "WATER PARK",
+    "category": "Places"
+  },
+  {
+    "word": "ZOO",
+    "category": "Places"
+  },
+  {
+    "word": "ELEPHANT",
+    "category": "Animals"
+  },
+  {
+    "word": "TIGER",
+    "category": "Animals"
+  },
+  {
+    "word": "GIRAFFE",
+    "category": "Animals"
+  },
+  {
+    "word": "PANDA",
+    "category": "Animals"
+  },
+  {
+    "word": "PEACOCK",
+    "category": "Animals"
+  },
+  {
+    "word": "CROCODILE",
+    "category": "Animals"
+  },
+  {
+    "word": "KARAOKE",
+    "category": "Entertainment"
+  },
+  {
+    "word": "VIDEO GAME",
+    "category": "Entertainment"
+  },
+  {
+    "word": "MAGIC SHOW",
+    "category": "Entertainment"
+  },
+  {
+    "word": "CONCERT",
+    "category": "Entertainment"
+  },
+  {
+    "word": "CARTOON",
+    "category": "Entertainment"
+  },
+  {
+    "word": "DANCE BATTLE",
+    "category": "Entertainment"
+  },
+  {
+    "word": "CRICKET MATCH",
+    "category": "Entertainment"
+  },
+  {
+    "word": "COMEDY SHOW",
+    "category": "Entertainment"
+  },
+  {
+    "word": "BOARD GAME",
+    "category": "Entertainment"
+  },
+  {
+    "word": "TALENT SHOW",
+    "category": "Entertainment"
+  },
+  {
+    "word": "UMBRELLA",
+    "category": "Everyday Objects"
+  },
+  {
+    "word": "TOOTHBRUSH",
+    "category": "Everyday Objects"
+  },
+  {
+    "word": "HEADPHONES",
+    "category": "Everyday Objects"
+  },
+  {
+    "word": "BACKPACK",
+    "category": "Everyday Objects"
+  },
+  {
+    "word": "SUNGLASSES",
+    "category": "Everyday Objects"
+  },
+  {
+    "word": "REMOTE CONTROL",
+    "category": "Everyday Objects"
+  },
+  {
+    "word": "WATER BOTTLE",
+    "category": "Everyday Objects"
+  },
+  {
+    "word": "ALARM CLOCK",
+    "category": "Everyday Objects"
+  },
+  {
+    "word": "FLASHLIGHT",
+    "category": "Everyday Objects"
+  },
+  {
+    "word": "MIRROR",
+    "category": "Everyday Objects"
+  },
+  {
+    "word": "ASTRONAUT",
+    "category": "Professions"
+  },
+  {
+    "word": "DETECTIVE",
+    "category": "Professions"
+  },
+  {
+    "word": "FIREFIGHTER",
+    "category": "Professions"
+  },
+  {
+    "word": "ARCHITECT",
+    "category": "Professions"
+  },
+  {
+    "word": "PHOTOGRAPHER",
+    "category": "Professions"
+  },
+  {
+    "word": "SCIENTIST",
+    "category": "Professions"
+  },
+  {
+    "word": "MAGICIAN",
+    "category": "Professions"
+  },
+  {
+    "word": "JOURNALIST",
+    "category": "Professions"
+  },
+  {
+    "word": "VETERINARIAN",
+    "category": "Professions"
+  },
+  {
+    "word": "LIFEGUARD",
+    "category": "Professions"
+  },
+  {
+    "word": "ARCHERY",
+    "category": "Sports"
+  },
+  {
+    "word": "SKATEBOARDING",
+    "category": "Sports"
+  },
+  {
+    "word": "SURFING",
+    "category": "Sports"
+  },
+  {
+    "word": "BOXING",
+    "category": "Sports"
+  },
+  {
+    "word": "GYMNASTICS",
+    "category": "Sports"
+  },
+  {
+    "word": "VOLLEYBALL",
+    "category": "Sports"
+  },
+  {
+    "word": "FENCING",
+    "category": "Sports"
+  },
+  {
+    "word": "TABLE TENNIS",
+    "category": "Sports"
+  },
+  {
+    "word": "DRONE",
+    "category": "Technology"
+  },
+  {
+    "word": "SMARTWATCH",
+    "category": "Technology"
+  },
+  {
+    "word": "HOLOGRAM",
+    "category": "Technology"
+  },
+  {
+    "word": "3D PRINTER",
+    "category": "Technology"
+  },
+  {
+    "word": "SELF DRIVING CAR",
+    "category": "Technology"
+  },
+  {
+    "word": "VOICE ASSISTANT",
+    "category": "Technology"
+  },
+  {
+    "word": "TOUCHSCREEN",
+    "category": "Technology"
+  },
+  {
+    "word": "PASSPORT",
+    "category": "Travel"
+  },
+  {
+    "word": "SUITCASE",
+    "category": "Travel"
+  },
+  {
+    "word": "HOT AIR BALLOON",
+    "category": "Travel"
+  },
+  {
+    "word": "ROAD TRIP",
+    "category": "Travel"
+  },
+  {
+    "word": "MOUNTAIN CABIN",
+    "category": "Travel"
+  },
+  {
+    "word": "SNORKELING",
+    "category": "Travel"
+  },
+  {
+    "word": "CABLE CAR",
+    "category": "Travel"
+  },
+  {
+    "word": "DRAGON",
+    "category": "Fantasy"
+  },
+  {
+    "word": "UNICORN",
+    "category": "Fantasy"
+  },
+  {
+    "word": "WIZARD",
+    "category": "Fantasy"
+  },
+  {
+    "word": "MERMAID",
+    "category": "Fantasy"
+  },
+  {
+    "word": "PHOENIX",
+    "category": "Fantasy"
+  },
+  {
+    "word": "MAGIC WAND",
+    "category": "Fantasy"
+  },
+  {
+    "word": "INVISIBILITY CLOAK",
+    "category": "Fantasy"
+  },
+  {
+    "word": "TREASURE CHEST",
+    "category": "Fantasy"
+  },
+  {
+    "word": "HAUNTED CASTLE",
+    "category": "Fantasy"
+  },
+  {
+    "word": "CHRISTMAS",
+    "category": "Festivals"
+  },
+  {
+    "word": "HALLOWEEN",
+    "category": "Festivals"
+  },
+  {
+    "word": "PONGAL",
+    "category": "Festivals"
+  },
+  {
+    "word": "ONAM",
+    "category": "Festivals"
+  },
+  {
+    "word": "NAVRATRI",
+    "category": "Festivals"
+  },
+  {
+    "word": "THANKSGIVING",
+    "category": "Festivals"
+  },
+  {
+    "word": "EID",
+    "category": "Festivals"
+  },
+  {
+    "word": "OKTOBERFEST",
+    "category": "Festivals"
+  },
+  {
+    "word": "CORAL REEF",
+    "category": "Nature"
+  },
+  {
+    "word": "GEYSER",
+    "category": "Nature"
+  },
+  {
+    "word": "JUNGLE",
+    "category": "Nature"
+  },
+  {
+    "word": "NORTHERN LIGHTS",
+    "category": "Nature"
+  },
+  {
+    "word": "QUICKSAND",
+    "category": "Nature"
+  },
+  {
+    "word": "GUITAR",
+    "category": "Music"
+  },
+  {
+    "word": "PIANO",
+    "category": "Music"
+  },
+  {
+    "word": "VIOLIN",
+    "category": "Music"
+  },
+  {
+    "word": "DRUMS",
+    "category": "Music"
+  },
+  {
+    "word": "SAXOPHONE",
+    "category": "Music"
+  },
+  {
+    "word": "FLUTE",
+    "category": "Music"
+  },
+  {
+    "word": "TRUMPET",
+    "category": "Music"
+  },
+  {
+    "word": "HARMONICA",
+    "category": "Music"
+  },
+  {
+    "word": "TAMBOURINE",
+    "category": "Music"
+  },
+  {
+    "word": "MICROPHONE",
+    "category": "Music"
+  },
+  {
+    "word": "EIFFEL TOWER",
+    "category": "Landmarks"
+  },
+  {
+    "word": "STATUE OF LIBERTY",
+    "category": "Landmarks"
+  },
+  {
+    "word": "GREAT WALL OF CHINA",
+    "category": "Landmarks"
+  },
+  {
+    "word": "BIG BEN",
+    "category": "Landmarks"
+  },
+  {
+    "word": "BURJ KHALIFA",
+    "category": "Landmarks"
+  },
+  {
+    "word": "COLOSSEUM",
+    "category": "Landmarks"
+  },
+  {
+    "word": "MOUNT EVEREST",
+    "category": "Landmarks"
+  },
+  {
+    "word": "MACHU PICCHU",
+    "category": "Landmarks"
+  },
+  {
+    "word": "SYDNEY OPERA HOUSE",
+    "category": "Landmarks"
+  },
+  {
+    "word": "IRON MAN",
+    "category": "Superheroes"
+  },
+  {
+    "word": "SPIDER MAN",
+    "category": "Superheroes"
+  },
+  {
+    "word": "BATMAN",
+    "category": "Superheroes"
+  },
+  {
+    "word": "SUPERMAN",
+    "category": "Superheroes"
+  },
+  {
+    "word": "THOR",
+    "category": "Superheroes"
+  },
+  {
+    "word": "HULK",
+    "category": "Superheroes"
+  },
+  {
+    "word": "BLACK PANTHER",
+    "category": "Superheroes"
+  },
+  {
+    "word": "WONDER WOMAN",
+    "category": "Superheroes"
+  },
+  {
+    "word": "DOCTOR STRANGE",
+    "category": "Superheroes"
+  },
+  {
+    "word": "DEADPOOL",
+    "category": "Superheroes"
+  },
+  {
+    "word": "RANGOLI",
+    "category": "Indian Culture"
+  },
+  {
+    "word": "MEHNDI",
+    "category": "Indian Culture"
+  },
+  {
+    "word": "DANDIYA",
+    "category": "Indian Culture"
+  },
+  {
+    "word": "BHARATANATYAM",
+    "category": "Indian Culture"
+  },
+  {
+    "word": "KUCHIPUDI",
+    "category": "Indian Culture"
+  },
+  {
+    "word": "RAKHI",
+    "category": "Indian Culture"
+  },
+  {
+    "word": "DHOTI",
+    "category": "Indian Culture"
+  },
+  {
+    "word": "SAREE",
+    "category": "Indian Culture"
+  },
+  {
+    "word": "AUTO RICKSHAW",
+    "category": "Indian Culture"
+  },
+  {
+    "word": "WEDDING BARAAT",
+    "category": "Indian Culture"
+  },
+  {
+    "word": "TITANIC",
+    "category": "Movies & TV"
+  },
+  {
+    "word": "AVATAR",
+    "category": "Movies & TV"
+  },
+  {
+    "word": "INCEPTION",
+    "category": "Movies & TV"
+  },
+  {
+    "word": "HARRY POTTER",
+    "category": "Movies & TV"
+  },
+  {
+    "word": "STRANGER THINGS",
+    "category": "Movies & TV"
+  },
+  {
+    "word": "FRIENDS",
+    "category": "Movies & TV"
+  },
+  {
+    "word": "SQUID GAME",
+    "category": "Movies & TV"
+  },
+  {
+    "word": "GAME OF THRONES",
+    "category": "Movies & TV"
+  },
+  {
+    "word": "THE LION KING",
+    "category": "Movies & TV"
+  },
+  {
+    "word": "BLACK HOLE",
+    "category": "Science"
+  },
+  {
+    "word": "SOLAR ECLIPSE",
+    "category": "Science"
+  },
+  {
+    "word": "DNA",
+    "category": "Science"
+  },
+  {
+    "word": "GRAVITY",
+    "category": "Science"
+  },
+  {
+    "word": "MAGNET",
+    "category": "Science"
+  },
+  {
+    "word": "FOSSIL",
+    "category": "Science"
+  },
+  {
+    "word": "CHEMICAL REACTION",
+    "category": "Science"
+  },
+  {
+    "word": "SPACE STATION",
+    "category": "Science"
+  },
+  {
+    "word": "CENTAUR",
+    "category": "Mythical Creatures"
+  },
+  {
+    "word": "GRIFFIN",
+    "category": "Mythical Creatures"
+  },
+  {
+    "word": "GOBLIN",
+    "category": "Mythical Creatures"
+  },
+  {
+    "word": "TROLL",
+    "category": "Mythical Creatures"
+  },
+  {
+    "word": "MINOTAUR",
+    "category": "Mythical Creatures"
+  },
+  {
+    "word": "KRAKEN",
+    "category": "Mythical Creatures"
+  },
+  {
+    "word": "PEGASUS",
+    "category": "Mythical Creatures"
+  },
+  {
+    "word": "YETI",
+    "category": "Mythical Creatures"
+  },
+  {
+    "word": "WEREWOLF",
+    "category": "Mythical Creatures"
+  },
+  {
+    "word": "VAMPIRE",
+    "category": "Mythical Creatures"
+  },
+  {
+    "word": "ESCAPE ROOM",
+    "category": "Fun Activities"
+  },
+  {
+    "word": "TREASURE HUNT",
+    "category": "Fun Activities"
+  },
+  {
+    "word": "PILLOW FIGHT",
+    "category": "Fun Activities"
+  },
+  {
+    "word": "MUSICAL CHAIRS",
+    "category": "Fun Activities"
+  },
+  {
+    "word": "ROLLER COASTER",
+    "category": "Fun Activities"
+  },
+  {
+    "word": "ZIPLINING",
+    "category": "Fun Activities"
+  },
+  {
+    "word": "PAINTBALL",
+    "category": "Fun Activities"
+  },
+  {
+    "word": "LASER TAG",
+    "category": "Fun Activities"
+  },
+  {
+    "word": "SCAVENGER HUNT",
+    "category": "Fun Activities"
+  },
+  {
+    "word": "TRAMPOLINE PARK",
+    "category": "Fun Activities"
+  },
+  {
+    "word": "SNOW GLOBE",
+    "category": "Everyday Objects"
+  },
+  {
+    "word": "BOOMERANG",
+    "category": "Everyday Objects"
+  },
+  {
+    "word": "HOURGLASS",
+    "category": "Everyday Objects"
+  },
+  {
+    "word": "PINATA",
+    "category": "Celebrations"
+  },
+  {
+    "word": "DISCO BALL",
+    "category": "Celebrations"
+  },
+  {
+    "word": "FOG MACHINE",
+    "category": "Entertainment"
+  },
+  {
+    "word": "PUPPET SHOW",
+    "category": "Entertainment"
+  },
+  {
+    "word": "MIME ARTIST",
+    "category": "Entertainment"
+  },
+  {
+    "word": "VENTRILOQUIST",
+    "category": "Entertainment"
+  },
+  {
+    "word": "CIRCUS TENT",
+    "category": "Entertainment"
+  },
+  {
+    "word": "TREEHOUSE",
+    "category": "Places"
+  },
+  {
+    "word": "PLANETARIUM",
+    "category": "Places"
+  },
+  {
+    "word": "AQUARIUM TUNNEL",
+    "category": "Places"
+  },
+  {
+    "word": "SKI RESORT",
+    "category": "Places"
+  },
+  {
+    "word": "UNDERWATER HOTEL",
+    "category": "Places"
+  },
+  {
+    "word": "METEOR SHOWER",
+    "category": "Nature"
+  },
+  {
+    "word": "SANDSTORM",
+    "category": "Nature"
+  },
+  {
+    "word": "WHIRLPOOL",
+    "category": "Nature"
+  },
+  {
+    "word": "FIREFLY",
+    "category": "Animals"
+  },
+  {
+    "word": "STARFISH",
+    "category": "Animals"
   }
 ]
