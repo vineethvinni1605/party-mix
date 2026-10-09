@@ -2626,5 +2626,4685 @@
     "answer": 0,
     "category": "Funny & random",
     "difficulty": "easy"
+  },
+  {
+    "q": "Which part of the cell contains most of its genetic material?",
+    "options": [
+      "Ribosome",
+      "Nucleus",
+      "Cell membrane",
+      "Cytoplasm"
+    ],
+    "answer": 1,
+    "category": "Science & technology",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is the approximate speed of light in a vacuum?",
+    "options": [
+      "300,000 km/s",
+      "30,000 km/s",
+      "3,000 km/s",
+      "3,000,000 km/s"
+    ],
+    "answer": 0,
+    "category": "Science & technology",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which organ produces insulin in the human body?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Pancreas",
+      "Heart"
+    ],
+    "answer": 2,
+    "category": "Science & technology",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What does DNA stand for?",
+    "options": [
+      "Dynamic Nuclear Acid",
+      "Deoxyribonucleic Acid",
+      "Double Nitrogen Atom",
+      "Digital Nucleic Array"
+    ],
+    "answer": 1,
+    "category": "Science & technology",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which scientist formulated the three laws of motion?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "answer": 1,
+    "category": "Science & technology",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which blood cells help the body fight infections?",
+    "options": [
+      "Red blood cells",
+      "Platelets",
+      "White blood cells",
+      "Plasma"
+    ],
+    "answer": 2,
+    "category": "Science & technology",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which element has atomic number 1?",
+    "options": [
+      "Helium",
+      "Hydrogen",
+      "Oxygen",
+      "Carbon"
+    ],
+    "answer": 1,
+    "category": "Science & technology",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which country is home to Mount Kilimanjaro?",
+    "options": [
+      "Kenya",
+      "Tanzania",
+      "Uganda",
+      "Ethiopia"
+    ],
+    "answer": 1,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which continent has the greatest number of countries?",
+    "options": [
+      "Asia",
+      "Europe",
+      "Africa",
+      "South America"
+    ],
+    "answer": 2,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the capital of South Korea?",
+    "options": [
+      "Busan",
+      "Seoul",
+      "Incheon",
+      "Daegu"
+    ],
+    "answer": 1,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which country is famous for the ancient city of Petra?",
+    "options": [
+      "Egypt",
+      "Jordan",
+      "Greece",
+      "Turkey"
+    ],
+    "answer": 1,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the largest island in the world, excluding continents?",
+    "options": [
+      "Madagascar",
+      "Borneo",
+      "Greenland",
+      "New Guinea"
+    ],
+    "answer": 2,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which mountain range separates much of Europe from Asia?",
+    "options": [
+      "Alps",
+      "Andes",
+      "Urals",
+      "Rockies"
+    ],
+    "answer": 2,
+    "category": "Geography",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the capital of New Zealand?",
+    "options": [
+      "Auckland",
+      "Christchurch",
+      "Wellington",
+      "Hamilton"
+    ],
+    "answer": 2,
+    "category": "Geography",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which country has the most natural lakes?",
+    "options": [
+      "Canada",
+      "Russia",
+      "Brazil",
+      "United States"
+    ],
+    "answer": 0,
+    "category": "Geography",
+    "difficulty": "hard"
+  },
+  {
+    "q": "Who was the first President of the United States?",
+    "options": [
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "George Washington",
+      "John Adams"
+    ],
+    "answer": 2,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "q": "In which year did World War II end?",
+    "options": [
+      "1942",
+      "1945",
+      "1948",
+      "1950"
+    ],
+    "answer": 1,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which civilization built Machu Picchu?",
+    "options": [
+      "Maya",
+      "Aztec",
+      "Inca",
+      "Roman"
+    ],
+    "answer": 2,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Who was known as the Iron Lady of British politics?",
+    "options": [
+      "Queen Victoria",
+      "Margaret Thatcher",
+      "Elizabeth I",
+      "Theresa May"
+    ],
+    "answer": 1,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which ancient civilization developed along the Nile River?",
+    "options": [
+      "Roman",
+      "Egyptian",
+      "Greek",
+      "Persian"
+    ],
+    "answer": 1,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "q": "In which year did India gain independence from British rule?",
+    "options": [
+      "1945",
+      "1946",
+      "1947",
+      "1950"
+    ],
+    "answer": 2,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Who was the first person to walk on the Moon?",
+    "options": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "Michael Collins"
+    ],
+    "answer": 2,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which empire was ruled by Julius Caesar before his assassination?",
+    "options": [
+      "Ottoman Empire",
+      "Roman Republic",
+      "Mongol Empire",
+      "Byzantine Empire"
+    ],
+    "answer": 1,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What was the name of the ship that carried the Pilgrims to North America in 1620?",
+    "options": [
+      "Santa Maria",
+      "Mayflower",
+      "Titanic",
+      "Endeavour"
+    ],
+    "answer": 1,
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Who led the Salt March in India in 1930?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Mahatma Gandhi",
+      "Bhagat Singh"
+    ],
+    "answer": 2,
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many players are on the court for one basketball team during play?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 1,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which country won the 2011 ICC Cricket World Cup?",
+    "options": [
+      "Australia",
+      "Sri Lanka",
+      "India",
+      "Pakistan"
+    ],
+    "answer": 2,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is the maximum break in standard snooker?",
+    "options": [
+      "100",
+      "147",
+      "155",
+      "180"
+    ],
+    "answer": 1,
+    "category": "Sports",
+    "difficulty": "hard"
+  },
+  {
+    "q": "Which sport uses the terms birdie and eagle?",
+    "options": [
+      "Tennis",
+      "Golf",
+      "Badminton",
+      "Baseball"
+    ],
+    "answer": 1,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many sets must a player win in a best-of-five tennis match?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the distance of a full marathon?",
+    "options": [
+      "21.1 km",
+      "40 km",
+      "42.195 km",
+      "50 km"
+    ],
+    "answer": 2,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "q": "In which sport would you perform a slam dunk?",
+    "options": [
+      "Volleyball",
+      "Basketball",
+      "Tennis",
+      "Handball"
+    ],
+    "answer": 1,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which chess piece can jump over other pieces?",
+    "options": [
+      "Bishop",
+      "Rook",
+      "Knight",
+      "Queen"
+    ],
+    "answer": 2,
+    "category": "Sports",
+    "difficulty": "medium"
+  },
+  {
+    "q": "How many holes are played in a standard full round of golf?",
+    "options": [
+      "9",
+      "12",
+      "18",
+      "24"
+    ],
+    "answer": 2,
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which actor played Jack in the 1997 film Titanic?",
+    "options": [
+      "Brad Pitt",
+      "Leonardo DiCaprio",
+      "Tom Cruise",
+      "Matt Damon"
+    ],
+    "answer": 1,
+    "category": "Entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which animated film features a robot named WALL-E?",
+    "options": [
+      "Big Hero 6",
+      "WALL-E",
+      "Robots",
+      "The Iron Giant"
+    ],
+    "answer": 1,
+    "category": "Entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Who is the author of the Harry Potter book series?",
+    "options": [
+      "J.R.R. Tolkien",
+      "J.K. Rowling",
+      "Suzanne Collins",
+      "Rick Riordan"
+    ],
+    "answer": 1,
+    "category": "Entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which video game series features a character named Link?",
+    "options": [
+      "Final Fantasy",
+      "The Legend of Zelda",
+      "Sonic",
+      "Halo"
+    ],
+    "answer": 1,
+    "category": "Entertainment",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which movie won Best Picture at the 2024 Academy Awards?",
+    "options": [
+      "Barbie",
+      "Poor Things",
+      "Oppenheimer",
+      "The Holdovers"
+    ],
+    "answer": 2,
+    "category": "Entertainment",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the name of the fictional school attended by Wednesday Addams?",
+    "options": [
+      "Hogwarts",
+      "Nevermore Academy",
+      "Riverdale High",
+      "East High"
+    ],
+    "answer": 1,
+    "category": "Entertainment",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which singer is known for the album Thriller?",
+    "options": [
+      "Prince",
+      "Michael Jackson",
+      "Elvis Presley",
+      "Bruno Mars"
+    ],
+    "answer": 1,
+    "category": "Entertainment",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which studio produced the animated film Spirited Away?",
+    "options": [
+      "Pixar",
+      "DreamWorks",
+      "Studio Ghibli",
+      "Disney Animation"
+    ],
+    "answer": 2,
+    "category": "Entertainment",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which data structure follows First In, First Out?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
+    ],
+    "answer": 1,
+    "category": "Computers",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the binary representation of decimal 5?",
+    "options": [
+      "100",
+      "101",
+      "110",
+      "111"
+    ],
+    "answer": 1,
+    "category": "Computers",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which protocol is primarily used to securely browse websites?",
+    "options": [
+      "FTP",
+      "HTTP",
+      "SMTP",
+      "HTTPS"
+    ],
+    "answer": 3,
+    "category": "Computers",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What does RAM stand for?",
+    "options": [
+      "Read Access Memory",
+      "Random Access Memory",
+      "Rapid Application Module",
+      "Remote Access Machine"
+    ],
+    "answer": 1,
+    "category": "Computers",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which company originally developed the Java programming language?",
+    "options": [
+      "Microsoft",
+      "Sun Microsystems",
+      "IBM",
+      "Apple"
+    ],
+    "answer": 1,
+    "category": "Computers",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the default port number for HTTPS?",
+    "options": [
+      "21",
+      "80",
+      "443",
+      "8080"
+    ],
+    "answer": 2,
+    "category": "Computers",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which SQL keyword is used to retrieve data from a table?",
+    "options": [
+      "INSERT",
+      "SELECT",
+      "UPDATE",
+      "DELETE"
+    ],
+    "answer": 1,
+    "category": "Computers",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What does DNS stand for?",
+    "options": [
+      "Domain Name System",
+      "Digital Network Service",
+      "Data Naming Standard",
+      "Dynamic Node Security"
+    ],
+    "answer": 0,
+    "category": "Computers",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which planet rotates on its side with an extreme axial tilt?",
+    "options": [
+      "Mars",
+      "Uranus",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": 1,
+    "category": "Space",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the name of our galaxy?",
+    "options": [
+      "Andromeda",
+      "Triangulum",
+      "Milky Way",
+      "Whirlpool"
+    ],
+    "answer": 2,
+    "category": "Space",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which moon of Saturn has lakes of liquid methane and ethane?",
+    "options": [
+      "Europa",
+      "Titan",
+      "Ganymede",
+      "Io"
+    ],
+    "answer": 1,
+    "category": "Space",
+    "difficulty": "hard"
+  },
+  {
+    "q": "What is the boundary around a black hole beyond which light cannot escape?",
+    "options": [
+      "Asteroid belt",
+      "Event horizon",
+      "Solar corona",
+      "Magnetosphere"
+    ],
+    "answer": 1,
+    "category": "Space",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which planet has the Great Red Spot?",
+    "options": [
+      "Saturn",
+      "Neptune",
+      "Jupiter",
+      "Venus"
+    ],
+    "answer": 2,
+    "category": "Space",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What was the first artificial satellite launched into Earth orbit?",
+    "options": [
+      "Explorer 1",
+      "Sputnik 1",
+      "Vostok 1",
+      "Luna 2"
+    ],
+    "answer": 1,
+    "category": "Space",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which space telescope was launched in December 2021?",
+    "options": [
+      "Hubble",
+      "Kepler",
+      "James Webb",
+      "Spitzer"
+    ],
+    "answer": 2,
+    "category": "Space",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the term for a star that suddenly increases greatly in brightness due to an explosion?",
+    "options": [
+      "Nebula",
+      "Supernova",
+      "Pulsar",
+      "Quasar"
+    ],
+    "answer": 1,
+    "category": "Space",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which planet has the shortest year in our solar system?",
+    "options": [
+      "Venus",
+      "Earth",
+      "Mercury",
+      "Mars"
+    ],
+    "answer": 2,
+    "category": "Space",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the name of the first human-made object to land softly on the Moon?",
+    "options": [
+      "Apollo 11",
+      "Luna 9",
+      "Surveyor 3",
+      "Luna 2"
+    ],
+    "answer": 1,
+    "category": "Space",
+    "difficulty": "hard"
+  },
+  {
+    "q": "Which traditional Japanese garment is wrapped and secured with an obi?",
+    "options": [
+      "Hanbok",
+      "Kimono",
+      "Sari",
+      "Ao dai"
+    ],
+    "answer": 1,
+    "category": "World Culture",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which festival in Mexico honors deceased loved ones?",
+    "options": [
+      "Carnival",
+      "Día de los Muertos",
+      "Oktoberfest",
+      "Songkran"
+    ],
+    "answer": 1,
+    "category": "World Culture",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which Indian classical dance form originated in Tamil Nadu?",
+    "options": [
+      "Kathak",
+      "Odissi",
+      "Bharatanatyam",
+      "Manipuri"
+    ],
+    "answer": 2,
+    "category": "World Culture",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the traditional Korean dress called?",
+    "options": [
+      "Kimono",
+      "Hanbok",
+      "Cheongsam",
+      "Dirndl"
+    ],
+    "answer": 1,
+    "category": "World Culture",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which Brazilian celebration is famous for samba parades?",
+    "options": [
+      "Carnival",
+      "Oktoberfest",
+      "Holi",
+      "Vesak"
+    ],
+    "answer": 0,
+    "category": "World Culture",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which country is traditionally associated with flamenco music and dance?",
+    "options": [
+      "Portugal",
+      "Spain",
+      "Italy",
+      "Greece"
+    ],
+    "answer": 1,
+    "category": "World Culture",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which instrument is commonly associated with Scottish Highland music?",
+    "options": [
+      "Sitar",
+      "Bagpipes",
+      "Shamisen",
+      "Didgeridoo"
+    ],
+    "answer": 1,
+    "category": "World Culture",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which Thai festival is known for nationwide water celebrations in April?",
+    "options": [
+      "Loy Krathong",
+      "Songkran",
+      "Yi Peng",
+      "Vesak"
+    ],
+    "answer": 1,
+    "category": "World Culture",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the name of the traditional Māori ceremonial dance often performed by New Zealand sports teams?",
+    "options": [
+      "Haka",
+      "Samba",
+      "Tango",
+      "Kabuki"
+    ],
+    "answer": 0,
+    "category": "World Culture",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which country is the birthplace of the tango dance?",
+    "options": [
+      "Brazil",
+      "Argentina",
+      "Cuba",
+      "Mexico"
+    ],
+    "answer": 1,
+    "category": "World Culture",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which spice gives many curries a yellow color?",
+    "options": [
+      "Cinnamon",
+      "Turmeric",
+      "Cloves",
+      "Cardamom"
+    ],
+    "answer": 1,
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What type of pasta is shaped like small rice grains?",
+    "options": [
+      "Penne",
+      "Orzo",
+      "Fusilli",
+      "Rigatoni"
+    ],
+    "answer": 1,
+    "category": "Food",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which country is traditionally associated with paella?",
+    "options": [
+      "Italy",
+      "Spain",
+      "France",
+      "Portugal"
+    ],
+    "answer": 1,
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is the main ingredient in traditional guacamole?",
+    "options": [
+      "Tomato",
+      "Avocado",
+      "Cucumber",
+      "Zucchini"
+    ],
+    "answer": 1,
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which cheese is traditionally used in Greek salad?",
+    "options": [
+      "Cheddar",
+      "Parmesan",
+      "Feta",
+      "Gouda"
+    ],
+    "answer": 2,
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is the Japanese term for grilled skewered chicken?",
+    "options": [
+      "Tempura",
+      "Yakitori",
+      "Sashimi",
+      "Udon"
+    ],
+    "answer": 1,
+    "category": "Food",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which dessert is traditionally made with layers of coffee-soaked ladyfingers and mascarpone?",
+    "options": [
+      "Baklava",
+      "Tiramisu",
+      "Panna cotta",
+      "Cannoli"
+    ],
+    "answer": 1,
+    "category": "Food",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which grain is traditionally used to make risotto?",
+    "options": [
+      "Basmati rice",
+      "Arborio rice",
+      "Quinoa",
+      "Bulgur"
+    ],
+    "answer": 1,
+    "category": "Food",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the primary ingredient in traditional hummus?",
+    "options": [
+      "Lentils",
+      "Chickpeas",
+      "Kidney beans",
+      "Peas"
+    ],
+    "answer": 1,
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which fruit is used to make traditional key lime pie?",
+    "options": [
+      "Lemon",
+      "Key lime",
+      "Orange",
+      "Grapefruit"
+    ],
+    "answer": 1,
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Which layer of Earth's atmosphere contains most weather phenomena?",
+    "options": [
+      "Stratosphere",
+      "Troposphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "answer": 1,
+    "category": "Nature",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the process by which plants release water vapor through their leaves?",
+    "options": [
+      "Condensation",
+      "Transpiration",
+      "Precipitation",
+      "Respiration"
+    ],
+    "answer": 1,
+    "category": "Nature",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which type of rock forms when magma or lava cools and solidifies?",
+    "options": [
+      "Sedimentary",
+      "Metamorphic",
+      "Igneous",
+      "Organic"
+    ],
+    "answer": 2,
+    "category": "Nature",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the largest species of penguin?",
+    "options": [
+      "King penguin",
+      "Emperor penguin",
+      "Adélie penguin",
+      "Gentoo penguin"
+    ],
+    "answer": 1,
+    "category": "Nature",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which natural phenomenon is measured using the Richter scale?",
+    "options": [
+      "Hurricanes",
+      "Earthquakes",
+      "Tornadoes",
+      "Floods"
+    ],
+    "answer": 1,
+    "category": "Nature",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is the scientific name for the study of fungi?",
+    "options": [
+      "Botany",
+      "Mycology",
+      "Zoology",
+      "Ecology"
+    ],
+    "answer": 1,
+    "category": "Nature",
+    "difficulty": "hard"
+  },
+  {
+    "q": "Which animal is the largest living land mammal?",
+    "options": [
+      "Hippopotamus",
+      "African elephant",
+      "White rhinoceros",
+      "Giraffe"
+    ],
+    "answer": 1,
+    "category": "Nature",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is the term for a region where freshwater and seawater mix?",
+    "options": [
+      "Lagoon",
+      "Estuary",
+      "Glacier",
+      "Delta"
+    ],
+    "answer": 1,
+    "category": "Nature",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Which type of cloud is commonly associated with thunderstorms?",
+    "options": [
+      "Cirrus",
+      "Cumulonimbus",
+      "Stratus",
+      "Altocumulus"
+    ],
+    "answer": 1,
+    "category": "Nature",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the name of the process where water changes from liquid to gas?",
+    "options": [
+      "Condensation",
+      "Evaporation",
+      "Freezing",
+      "Deposition"
+    ],
+    "answer": 1,
+    "category": "Nature",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 13 multiplied by 10?",
+    "options": [
+      "143",
+      "130",
+      "120",
+      "140"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 14 multiplied by 11?",
+    "options": [
+      "154",
+      "165",
+      "143",
+      "168"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15 multiplied by 12?",
+    "options": [
+      "192",
+      "168",
+      "180",
+      "195"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 16 multiplied by 13?",
+    "options": [
+      "221",
+      "224",
+      "208",
+      "195"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 17 multiplied by 14?",
+    "options": [
+      "238",
+      "255",
+      "224",
+      "252"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 18 multiplied by 6?",
+    "options": [
+      "126",
+      "102",
+      "108",
+      "114"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 19 multiplied by 7?",
+    "options": [
+      "152",
+      "140",
+      "126",
+      "133"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 20 multiplied by 8?",
+    "options": [
+      "180",
+      "168",
+      "152",
+      "160"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 21 multiplied by 9?",
+    "options": [
+      "198",
+      "180",
+      "189",
+      "210"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 22 multiplied by 10?",
+    "options": [
+      "210",
+      "230",
+      "220",
+      "242"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 23 multiplied by 11?",
+    "options": [
+      "264",
+      "253",
+      "276",
+      "242"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 24 multiplied by 12?",
+    "options": [
+      "288",
+      "312",
+      "276",
+      "300"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25 multiplied by 13?",
+    "options": [
+      "350",
+      "312",
+      "325",
+      "338"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 26 multiplied by 14?",
+    "options": [
+      "378",
+      "364",
+      "350",
+      "390"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 27 multiplied by 6?",
+    "options": [
+      "156",
+      "168",
+      "162",
+      "189"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 28 multiplied by 7?",
+    "options": [
+      "196",
+      "224",
+      "189",
+      "203"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 29 multiplied by 8?",
+    "options": [
+      "224",
+      "261",
+      "240",
+      "232"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 30 multiplied by 9?",
+    "options": [
+      "270",
+      "300",
+      "261",
+      "279"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 31 multiplied by 10?",
+    "options": [
+      "341",
+      "300",
+      "310",
+      "320"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 32 multiplied by 11?",
+    "options": [
+      "341",
+      "352",
+      "363",
+      "384"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 33 multiplied by 12?",
+    "options": [
+      "408",
+      "429",
+      "384",
+      "396"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 34 multiplied by 13?",
+    "options": [
+      "455",
+      "476",
+      "429",
+      "442"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 35 multiplied by 14?",
+    "options": [
+      "490",
+      "476",
+      "525",
+      "504"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 36 multiplied by 6?",
+    "options": [
+      "210",
+      "222",
+      "252",
+      "216"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 37 multiplied by 7?",
+    "options": [
+      "252",
+      "259",
+      "296",
+      "266"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 84 divided by 7?",
+    "options": [
+      "12",
+      "13",
+      "10",
+      "15"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 104 divided by 8?",
+    "options": [
+      "13",
+      "16",
+      "14",
+      "11"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 126 divided by 9?",
+    "options": [
+      "17",
+      "12",
+      "15",
+      "14"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 150 divided by 10?",
+    "options": [
+      "18",
+      "13",
+      "16",
+      "15"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 48 divided by 3?",
+    "options": [
+      "19",
+      "14",
+      "16",
+      "17"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 68 divided by 4?",
+    "options": [
+      "20",
+      "17",
+      "15",
+      "18"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 90 divided by 5?",
+    "options": [
+      "19",
+      "16",
+      "18",
+      "21"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 114 divided by 6?",
+    "options": [
+      "22",
+      "20",
+      "19",
+      "17"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 140 divided by 7?",
+    "options": [
+      "18",
+      "21",
+      "20",
+      "23"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 168 divided by 8?",
+    "options": [
+      "22",
+      "24",
+      "19",
+      "21"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 198 divided by 9?",
+    "options": [
+      "25",
+      "22",
+      "20",
+      "23"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 230 divided by 10?",
+    "options": [
+      "24",
+      "26",
+      "21",
+      "23"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 72 divided by 3?",
+    "options": [
+      "27",
+      "22",
+      "25",
+      "24"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 100 divided by 4?",
+    "options": [
+      "25",
+      "23",
+      "26",
+      "28"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 130 divided by 5?",
+    "options": [
+      "27",
+      "29",
+      "26",
+      "24"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 162 divided by 6?",
+    "options": [
+      "25",
+      "28",
+      "27",
+      "30"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 196 divided by 7?",
+    "options": [
+      "28",
+      "31",
+      "26",
+      "29"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 232 divided by 8?",
+    "options": [
+      "32",
+      "30",
+      "27",
+      "29"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 270 divided by 9?",
+    "options": [
+      "28",
+      "31",
+      "33",
+      "30"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 310 divided by 10?",
+    "options": [
+      "34",
+      "31",
+      "29",
+      "32"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 96 divided by 3?",
+    "options": [
+      "30",
+      "32",
+      "33",
+      "35"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 132 divided by 4?",
+    "options": [
+      "33",
+      "34",
+      "31",
+      "36"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 170 divided by 5?",
+    "options": [
+      "34",
+      "37",
+      "32",
+      "35"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 210 divided by 6?",
+    "options": [
+      "36",
+      "33",
+      "38",
+      "35"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 252 divided by 7?",
+    "options": [
+      "37",
+      "36",
+      "34",
+      "39"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Complete the sequence: 5, 13, 21, 29, ?",
+    "options": [
+      "45",
+      "53",
+      "29",
+      "37"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 6, 15, 24, 33, ?",
+    "options": [
+      "51",
+      "33",
+      "42",
+      "60"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 7, 10, 13, 16, ?",
+    "options": [
+      "16",
+      "25",
+      "22",
+      "19"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 8, 12, 16, 20, ?",
+    "options": [
+      "32",
+      "28",
+      "20",
+      "24"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 9, 14, 19, 24, ?",
+    "options": [
+      "34",
+      "24",
+      "29",
+      "39"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 10, 16, 22, 28, ?",
+    "options": [
+      "28",
+      "40",
+      "34",
+      "46"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 11, 18, 25, 32, ?",
+    "options": [
+      "32",
+      "46",
+      "39",
+      "53"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 12, 20, 28, 36, ?",
+    "options": [
+      "36",
+      "52",
+      "60",
+      "44"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 13, 22, 31, 40, ?",
+    "options": [
+      "49",
+      "58",
+      "67",
+      "40"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 14, 17, 20, 23, ?",
+    "options": [
+      "32",
+      "26",
+      "29",
+      "23"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 15, 19, 23, 27, ?",
+    "options": [
+      "39",
+      "31",
+      "27",
+      "35"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 16, 21, 26, 31, ?",
+    "options": [
+      "31",
+      "36",
+      "46",
+      "41"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 17, 23, 29, 35, ?",
+    "options": [
+      "47",
+      "53",
+      "35",
+      "41"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 18, 25, 32, 39, ?",
+    "options": [
+      "46",
+      "39",
+      "53",
+      "60"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 19, 27, 35, 43, ?",
+    "options": [
+      "51",
+      "59",
+      "43",
+      "67"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 20, 29, 38, 47, ?",
+    "options": [
+      "56",
+      "47",
+      "74",
+      "65"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 21, 24, 27, 30, ?",
+    "options": [
+      "36",
+      "39",
+      "33",
+      "30"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 22, 26, 30, 34, ?",
+    "options": [
+      "42",
+      "46",
+      "38",
+      "34"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 23, 28, 33, 38, ?",
+    "options": [
+      "43",
+      "48",
+      "53",
+      "38"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 24, 30, 36, 42, ?",
+    "options": [
+      "48",
+      "42",
+      "54",
+      "60"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 25, 32, 39, 46, ?",
+    "options": [
+      "46",
+      "67",
+      "60",
+      "53"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 26, 34, 42, 50, ?",
+    "options": [
+      "74",
+      "50",
+      "66",
+      "58"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 27, 36, 45, 54, ?",
+    "options": [
+      "72",
+      "81",
+      "63",
+      "54"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 28, 31, 34, 37, ?",
+    "options": [
+      "43",
+      "40",
+      "37",
+      "46"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 29, 33, 37, 41, ?",
+    "options": [
+      "45",
+      "41",
+      "49",
+      "53"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 16?",
+    "options": [
+      "288",
+      "240",
+      "272",
+      "256"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 17?",
+    "options": [
+      "272",
+      "289",
+      "306",
+      "323"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 18?",
+    "options": [
+      "324",
+      "342",
+      "306",
+      "360"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 19?",
+    "options": [
+      "380",
+      "361",
+      "342",
+      "399"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 20?",
+    "options": [
+      "420",
+      "440",
+      "380",
+      "400"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 21?",
+    "options": [
+      "483",
+      "441",
+      "420",
+      "462"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 22?",
+    "options": [
+      "528",
+      "462",
+      "506",
+      "484"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 23?",
+    "options": [
+      "575",
+      "506",
+      "529",
+      "552"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 24?",
+    "options": [
+      "576",
+      "552",
+      "600",
+      "624"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 25?",
+    "options": [
+      "600",
+      "650",
+      "675",
+      "625"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 26?",
+    "options": [
+      "676",
+      "650",
+      "728",
+      "702"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 27?",
+    "options": [
+      "729",
+      "783",
+      "756",
+      "702"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 28?",
+    "options": [
+      "840",
+      "756",
+      "784",
+      "812"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 29?",
+    "options": [
+      "841",
+      "870",
+      "899",
+      "812"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 30?",
+    "options": [
+      "960",
+      "900",
+      "930",
+      "870"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 31?",
+    "options": [
+      "930",
+      "992",
+      "1023",
+      "961"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 32?",
+    "options": [
+      "1056",
+      "1088",
+      "1024",
+      "992"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 33?",
+    "options": [
+      "1089",
+      "1056",
+      "1155",
+      "1122"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 34?",
+    "options": [
+      "1190",
+      "1224",
+      "1122",
+      "1156"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 35?",
+    "options": [
+      "1260",
+      "1225",
+      "1190",
+      "1295"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 36?",
+    "options": [
+      "1296",
+      "1368",
+      "1260",
+      "1332"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 37?",
+    "options": [
+      "1369",
+      "1406",
+      "1332",
+      "1443"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 38?",
+    "options": [
+      "1406",
+      "1444",
+      "1520",
+      "1482"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 39?",
+    "options": [
+      "1599",
+      "1521",
+      "1560",
+      "1482"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 40?",
+    "options": [
+      "1680",
+      "1600",
+      "1640",
+      "1560"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 440?",
+    "options": [
+      "66",
+      "76",
+      "56",
+      "86"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 480?",
+    "options": [
+      "62",
+      "72",
+      "82",
+      "92"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 520?",
+    "options": [
+      "98",
+      "88",
+      "78",
+      "68"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 560?",
+    "options": [
+      "74",
+      "104",
+      "94",
+      "84"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 600?",
+    "options": [
+      "90",
+      "80",
+      "100",
+      "110"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 640?",
+    "options": [
+      "106",
+      "116",
+      "96",
+      "86"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 680?",
+    "options": [
+      "102",
+      "122",
+      "92",
+      "112"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 720?",
+    "options": [
+      "108",
+      "128",
+      "118",
+      "98"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 760?",
+    "options": [
+      "124",
+      "134",
+      "114",
+      "104"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 800?",
+    "options": [
+      "130",
+      "140",
+      "110",
+      "120"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 840?",
+    "options": [
+      "146",
+      "126",
+      "136",
+      "116"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 880?",
+    "options": [
+      "142",
+      "122",
+      "152",
+      "132"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 920?",
+    "options": [
+      "138",
+      "148",
+      "158",
+      "128"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 960?",
+    "options": [
+      "164",
+      "134",
+      "154",
+      "144"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 1000?",
+    "options": [
+      "150",
+      "140",
+      "170",
+      "160"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 1040?",
+    "options": [
+      "176",
+      "156",
+      "146",
+      "166"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 1080?",
+    "options": [
+      "162",
+      "182",
+      "152",
+      "172"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 1120?",
+    "options": [
+      "188",
+      "168",
+      "158",
+      "178"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 1160?",
+    "options": [
+      "164",
+      "174",
+      "184",
+      "194"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 1200?",
+    "options": [
+      "200",
+      "180",
+      "170",
+      "190"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 1240?",
+    "options": [
+      "196",
+      "186",
+      "206",
+      "176"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 1280?",
+    "options": [
+      "212",
+      "202",
+      "182",
+      "192"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 1320?",
+    "options": [
+      "188",
+      "218",
+      "208",
+      "198"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 1360?",
+    "options": [
+      "214",
+      "204",
+      "194",
+      "224"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15% of 1400?",
+    "options": [
+      "220",
+      "230",
+      "210",
+      "200"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 10, 18, and 26?",
+    "options": [
+      "26",
+      "22",
+      "14",
+      "18"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 11, 19, and 27?",
+    "options": [
+      "19",
+      "27",
+      "23",
+      "15"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 12, 20, and 28?",
+    "options": [
+      "16",
+      "20",
+      "24",
+      "28"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 13, 21, and 29?",
+    "options": [
+      "25",
+      "29",
+      "21",
+      "17"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 14, 22, and 30?",
+    "options": [
+      "22",
+      "30",
+      "18",
+      "26"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 15, 23, and 31?",
+    "options": [
+      "27",
+      "19",
+      "23",
+      "31"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 16, 24, and 32?",
+    "options": [
+      "32",
+      "24",
+      "28",
+      "20"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 17, 25, and 33?",
+    "options": [
+      "25",
+      "21",
+      "29",
+      "33"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 18, 26, and 34?",
+    "options": [
+      "30",
+      "34",
+      "26",
+      "22"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 19, 27, and 35?",
+    "options": [
+      "27",
+      "31",
+      "23",
+      "35"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 20, 28, and 36?",
+    "options": [
+      "24",
+      "32",
+      "28",
+      "36"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 21, 29, and 37?",
+    "options": [
+      "37",
+      "33",
+      "29",
+      "25"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 22, 30, and 38?",
+    "options": [
+      "30",
+      "26",
+      "34",
+      "38"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 23, 31, and 39?",
+    "options": [
+      "39",
+      "35",
+      "27",
+      "31"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 24, 32, and 40?",
+    "options": [
+      "32",
+      "40",
+      "28",
+      "36"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 25, 33, and 41?",
+    "options": [
+      "33",
+      "29",
+      "37",
+      "41"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 26, 34, and 42?",
+    "options": [
+      "30",
+      "34",
+      "38",
+      "42"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 27, 35, and 43?",
+    "options": [
+      "31",
+      "39",
+      "35",
+      "43"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 28, 36, and 44?",
+    "options": [
+      "36",
+      "44",
+      "32",
+      "40"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 29, 37, and 45?",
+    "options": [
+      "45",
+      "37",
+      "41",
+      "33"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 30, 38, and 46?",
+    "options": [
+      "46",
+      "38",
+      "34",
+      "42"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 31, 39, and 47?",
+    "options": [
+      "35",
+      "43",
+      "39",
+      "47"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 32, 40, and 48?",
+    "options": [
+      "48",
+      "44",
+      "40",
+      "36"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 33, 41, and 49?",
+    "options": [
+      "41",
+      "37",
+      "49",
+      "45"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the average of 34, 42, and 50?",
+    "options": [
+      "50",
+      "46",
+      "38",
+      "42"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "How many minutes are in 15 hours?",
+    "options": [
+      "930",
+      "840",
+      "960",
+      "900"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 16 hours?",
+    "options": [
+      "990",
+      "1020",
+      "900",
+      "960"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 17 hours?",
+    "options": [
+      "1050",
+      "1020",
+      "1080",
+      "960"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 18 hours?",
+    "options": [
+      "1080",
+      "1020",
+      "1140",
+      "1110"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 19 hours?",
+    "options": [
+      "1140",
+      "1170",
+      "1080",
+      "1200"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 20 hours?",
+    "options": [
+      "1140",
+      "1260",
+      "1230",
+      "1200"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 21 hours?",
+    "options": [
+      "1290",
+      "1260",
+      "1200",
+      "1320"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 22 hours?",
+    "options": [
+      "1260",
+      "1380",
+      "1350",
+      "1320"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 23 hours?",
+    "options": [
+      "1320",
+      "1380",
+      "1440",
+      "1410"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 24 hours?",
+    "options": [
+      "1470",
+      "1380",
+      "1500",
+      "1440"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 25 hours?",
+    "options": [
+      "1560",
+      "1530",
+      "1500",
+      "1440"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 26 hours?",
+    "options": [
+      "1560",
+      "1620",
+      "1500",
+      "1590"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 27 hours?",
+    "options": [
+      "1680",
+      "1650",
+      "1560",
+      "1620"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 28 hours?",
+    "options": [
+      "1620",
+      "1710",
+      "1680",
+      "1740"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 29 hours?",
+    "options": [
+      "1770",
+      "1680",
+      "1800",
+      "1740"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 30 hours?",
+    "options": [
+      "1740",
+      "1800",
+      "1860",
+      "1830"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 31 hours?",
+    "options": [
+      "1890",
+      "1800",
+      "1860",
+      "1920"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 32 hours?",
+    "options": [
+      "1950",
+      "1980",
+      "1860",
+      "1920"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 33 hours?",
+    "options": [
+      "1920",
+      "1980",
+      "2040",
+      "2010"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 34 hours?",
+    "options": [
+      "2100",
+      "1980",
+      "2040",
+      "2070"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 35 hours?",
+    "options": [
+      "2160",
+      "2100",
+      "2130",
+      "2040"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 36 hours?",
+    "options": [
+      "2220",
+      "2190",
+      "2100",
+      "2160"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 37 hours?",
+    "options": [
+      "2160",
+      "2220",
+      "2280",
+      "2250"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 38 hours?",
+    "options": [
+      "2340",
+      "2220",
+      "2310",
+      "2280"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "How many minutes are in 39 hours?",
+    "options": [
+      "2400",
+      "2340",
+      "2370",
+      "2280"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is the fifth multiple of 8?",
+    "options": [
+      "48",
+      "56",
+      "32",
+      "40"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 9?",
+    "options": [
+      "36",
+      "63",
+      "54",
+      "45"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 10?",
+    "options": [
+      "60",
+      "70",
+      "50",
+      "40"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 11?",
+    "options": [
+      "55",
+      "77",
+      "44",
+      "66"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 12?",
+    "options": [
+      "84",
+      "60",
+      "72",
+      "48"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 13?",
+    "options": [
+      "52",
+      "78",
+      "65",
+      "91"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 14?",
+    "options": [
+      "56",
+      "70",
+      "84",
+      "98"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 15?",
+    "options": [
+      "105",
+      "60",
+      "75",
+      "90"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 16?",
+    "options": [
+      "96",
+      "80",
+      "112",
+      "64"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 17?",
+    "options": [
+      "85",
+      "68",
+      "102",
+      "119"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 18?",
+    "options": [
+      "90",
+      "108",
+      "72",
+      "126"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 19?",
+    "options": [
+      "133",
+      "114",
+      "95",
+      "76"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 20?",
+    "options": [
+      "80",
+      "100",
+      "120",
+      "140"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 21?",
+    "options": [
+      "126",
+      "147",
+      "84",
+      "105"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 22?",
+    "options": [
+      "132",
+      "88",
+      "110",
+      "154"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 23?",
+    "options": [
+      "115",
+      "138",
+      "161",
+      "92"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 24?",
+    "options": [
+      "144",
+      "120",
+      "96",
+      "168"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 25?",
+    "options": [
+      "150",
+      "175",
+      "100",
+      "125"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 26?",
+    "options": [
+      "182",
+      "104",
+      "156",
+      "130"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 27?",
+    "options": [
+      "135",
+      "189",
+      "108",
+      "162"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 28?",
+    "options": [
+      "140",
+      "112",
+      "168",
+      "196"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 29?",
+    "options": [
+      "203",
+      "116",
+      "145",
+      "174"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 30?",
+    "options": [
+      "150",
+      "120",
+      "210",
+      "180"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 31?",
+    "options": [
+      "124",
+      "186",
+      "217",
+      "155"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the fifth multiple of 32?",
+    "options": [
+      "128",
+      "224",
+      "192",
+      "160"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "If one ticket costs $60, how much do 3 tickets cost?",
+    "options": [
+      "190",
+      "180",
+      "120",
+      "240"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $65, how much do 3 tickets cost?",
+    "options": [
+      "260",
+      "195",
+      "205",
+      "130"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $70, how much do 3 tickets cost?",
+    "options": [
+      "140",
+      "280",
+      "220",
+      "210"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $75, how much do 3 tickets cost?",
+    "options": [
+      "235",
+      "300",
+      "150",
+      "225"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $80, how much do 3 tickets cost?",
+    "options": [
+      "320",
+      "240",
+      "250",
+      "160"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $85, how much do 3 tickets cost?",
+    "options": [
+      "265",
+      "170",
+      "340",
+      "255"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $90, how much do 3 tickets cost?",
+    "options": [
+      "280",
+      "360",
+      "180",
+      "270"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $95, how much do 3 tickets cost?",
+    "options": [
+      "285",
+      "380",
+      "295",
+      "190"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $100, how much do 3 tickets cost?",
+    "options": [
+      "200",
+      "400",
+      "300",
+      "310"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $105, how much do 3 tickets cost?",
+    "options": [
+      "315",
+      "210",
+      "325",
+      "420"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $110, how much do 3 tickets cost?",
+    "options": [
+      "440",
+      "220",
+      "340",
+      "330"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $115, how much do 3 tickets cost?",
+    "options": [
+      "355",
+      "345",
+      "460",
+      "230"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $120, how much do 3 tickets cost?",
+    "options": [
+      "360",
+      "240",
+      "370",
+      "480"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $125, how much do 3 tickets cost?",
+    "options": [
+      "500",
+      "385",
+      "250",
+      "375"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $130, how much do 3 tickets cost?",
+    "options": [
+      "400",
+      "260",
+      "520",
+      "390"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $135, how much do 3 tickets cost?",
+    "options": [
+      "270",
+      "540",
+      "415",
+      "405"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $140, how much do 3 tickets cost?",
+    "options": [
+      "430",
+      "280",
+      "560",
+      "420"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $145, how much do 3 tickets cost?",
+    "options": [
+      "580",
+      "290",
+      "445",
+      "435"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $150, how much do 3 tickets cost?",
+    "options": [
+      "300",
+      "450",
+      "460",
+      "600"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $155, how much do 3 tickets cost?",
+    "options": [
+      "465",
+      "475",
+      "310",
+      "620"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $160, how much do 3 tickets cost?",
+    "options": [
+      "480",
+      "320",
+      "640",
+      "490"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $165, how much do 3 tickets cost?",
+    "options": [
+      "505",
+      "330",
+      "660",
+      "495"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $170, how much do 3 tickets cost?",
+    "options": [
+      "680",
+      "340",
+      "520",
+      "510"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $175, how much do 3 tickets cost?",
+    "options": [
+      "700",
+      "525",
+      "535",
+      "350"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $180, how much do 3 tickets cost?",
+    "options": [
+      "720",
+      "360",
+      "540",
+      "550"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is one-eighth of 80?",
+    "options": [
+      "10",
+      "14",
+      "12",
+      "8"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 88?",
+    "options": [
+      "9",
+      "15",
+      "13",
+      "11"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 96?",
+    "options": [
+      "12",
+      "16",
+      "14",
+      "10"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 104?",
+    "options": [
+      "13",
+      "11",
+      "15",
+      "17"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 112?",
+    "options": [
+      "16",
+      "12",
+      "18",
+      "14"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 120?",
+    "options": [
+      "19",
+      "15",
+      "17",
+      "13"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 128?",
+    "options": [
+      "18",
+      "16",
+      "14",
+      "20"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 136?",
+    "options": [
+      "17",
+      "19",
+      "15",
+      "21"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 144?",
+    "options": [
+      "16",
+      "20",
+      "18",
+      "22"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 152?",
+    "options": [
+      "17",
+      "23",
+      "19",
+      "21"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 160?",
+    "options": [
+      "22",
+      "24",
+      "18",
+      "20"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 168?",
+    "options": [
+      "21",
+      "25",
+      "23",
+      "19"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 176?",
+    "options": [
+      "24",
+      "22",
+      "20",
+      "26"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 184?",
+    "options": [
+      "23",
+      "27",
+      "25",
+      "21"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 192?",
+    "options": [
+      "26",
+      "28",
+      "24",
+      "22"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 200?",
+    "options": [
+      "27",
+      "23",
+      "29",
+      "25"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 208?",
+    "options": [
+      "26",
+      "28",
+      "24",
+      "30"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 216?",
+    "options": [
+      "31",
+      "25",
+      "27",
+      "29"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 224?",
+    "options": [
+      "32",
+      "30",
+      "28",
+      "26"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 232?",
+    "options": [
+      "29",
+      "33",
+      "31",
+      "27"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 240?",
+    "options": [
+      "32",
+      "34",
+      "30",
+      "28"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 248?",
+    "options": [
+      "31",
+      "35",
+      "29",
+      "33"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 256?",
+    "options": [
+      "32",
+      "30",
+      "36",
+      "34"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 264?",
+    "options": [
+      "37",
+      "31",
+      "35",
+      "33"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 272?",
+    "options": [
+      "34",
+      "32",
+      "36",
+      "38"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 14 cm and width 8 cm?",
+    "options": [
+      "40",
+      "52",
+      "48",
+      "44"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 15 cm and width 9 cm?",
+    "options": [
+      "52",
+      "48",
+      "44",
+      "56"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 16 cm and width 10 cm?",
+    "options": [
+      "56",
+      "60",
+      "48",
+      "52"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 17 cm and width 11 cm?",
+    "options": [
+      "52",
+      "60",
+      "64",
+      "56"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 18 cm and width 12 cm?",
+    "options": [
+      "60",
+      "68",
+      "56",
+      "64"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 19 cm and width 13 cm?",
+    "options": [
+      "68",
+      "64",
+      "72",
+      "60"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 20 cm and width 14 cm?",
+    "options": [
+      "72",
+      "64",
+      "68",
+      "76"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 21 cm and width 15 cm?",
+    "options": [
+      "72",
+      "68",
+      "76",
+      "80"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 22 cm and width 16 cm?",
+    "options": [
+      "80",
+      "72",
+      "76",
+      "84"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 23 cm and width 17 cm?",
+    "options": [
+      "76",
+      "80",
+      "84",
+      "88"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 24 cm and width 18 cm?",
+    "options": [
+      "84",
+      "88",
+      "80",
+      "92"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 25 cm and width 19 cm?",
+    "options": [
+      "92",
+      "96",
+      "84",
+      "88"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 26 cm and width 20 cm?",
+    "options": [
+      "92",
+      "88",
+      "96",
+      "100"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 27 cm and width 21 cm?",
+    "options": [
+      "100",
+      "92",
+      "96",
+      "104"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 28 cm and width 22 cm?",
+    "options": [
+      "96",
+      "104",
+      "108",
+      "100"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 29 cm and width 23 cm?",
+    "options": [
+      "112",
+      "104",
+      "100",
+      "108"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 30 cm and width 24 cm?",
+    "options": [
+      "104",
+      "112",
+      "108",
+      "116"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 31 cm and width 25 cm?",
+    "options": [
+      "116",
+      "108",
+      "120",
+      "112"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 32 cm and width 26 cm?",
+    "options": [
+      "116",
+      "120",
+      "112",
+      "124"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 33 cm and width 27 cm?",
+    "options": [
+      "120",
+      "116",
+      "128",
+      "124"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 34 cm and width 28 cm?",
+    "options": [
+      "132",
+      "120",
+      "124",
+      "128"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 35 cm and width 29 cm?",
+    "options": [
+      "124",
+      "132",
+      "136",
+      "128"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 36 cm and width 30 cm?",
+    "options": [
+      "132",
+      "140",
+      "128",
+      "136"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 37 cm and width 31 cm?",
+    "options": [
+      "144",
+      "140",
+      "136",
+      "132"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 38 cm and width 32 cm?",
+    "options": [
+      "144",
+      "140",
+      "136",
+      "148"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 11, plus 7?",
+    "options": [
+      "33",
+      "43",
+      "47",
+      "40"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 12, plus 7?",
+    "options": [
+      "46",
+      "36",
+      "43",
+      "50"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 13, plus 7?",
+    "options": [
+      "39",
+      "53",
+      "49",
+      "46"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 14, plus 7?",
+    "options": [
+      "49",
+      "52",
+      "56",
+      "42"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 15, plus 7?",
+    "options": [
+      "52",
+      "59",
+      "55",
+      "45"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 16, plus 7?",
+    "options": [
+      "55",
+      "58",
+      "48",
+      "62"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 17, plus 7?",
+    "options": [
+      "51",
+      "61",
+      "65",
+      "58"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 18, plus 7?",
+    "options": [
+      "54",
+      "64",
+      "61",
+      "68"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 19, plus 7?",
+    "options": [
+      "64",
+      "71",
+      "57",
+      "67"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 20, plus 7?",
+    "options": [
+      "67",
+      "70",
+      "60",
+      "74"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 21, plus 7?",
+    "options": [
+      "70",
+      "77",
+      "63",
+      "73"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 22, plus 7?",
+    "options": [
+      "73",
+      "76",
+      "66",
+      "80"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 23, plus 7?",
+    "options": [
+      "69",
+      "79",
+      "76",
+      "83"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 24, plus 7?",
+    "options": [
+      "82",
+      "72",
+      "86",
+      "79"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 25, plus 7?",
+    "options": [
+      "82",
+      "75",
+      "85",
+      "89"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 26, plus 7?",
+    "options": [
+      "78",
+      "85",
+      "92",
+      "88"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 27, plus 7?",
+    "options": [
+      "95",
+      "81",
+      "91",
+      "88"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 28, plus 7?",
+    "options": [
+      "98",
+      "91",
+      "94",
+      "84"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 29, plus 7?",
+    "options": [
+      "94",
+      "87",
+      "97",
+      "101"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 30, plus 7?",
+    "options": [
+      "97",
+      "90",
+      "100",
+      "104"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 31, plus 7?",
+    "options": [
+      "107",
+      "93",
+      "103",
+      "100"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 32, plus 7?",
+    "options": [
+      "106",
+      "96",
+      "110",
+      "103"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 33, plus 7?",
+    "options": [
+      "109",
+      "113",
+      "106",
+      "99"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 34, plus 7?",
+    "options": [
+      "112",
+      "109",
+      "116",
+      "102"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 35, plus 7?",
+    "options": [
+      "105",
+      "115",
+      "119",
+      "112"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
   }
 ]

@@ -1,0 +1,1202 @@
+[
+  {
+    "q": "What is 13 multiplied by 10?",
+    "options": [
+      "143",
+      "130",
+      "120",
+      "140"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 14 multiplied by 11?",
+    "options": [
+      "154",
+      "165",
+      "143",
+      "168"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 15 multiplied by 12?",
+    "options": [
+      "192",
+      "168",
+      "180",
+      "195"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 16 multiplied by 13?",
+    "options": [
+      "221",
+      "224",
+      "208",
+      "195"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 17 multiplied by 14?",
+    "options": [
+      "238",
+      "255",
+      "224",
+      "252"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 18 multiplied by 6?",
+    "options": [
+      "126",
+      "102",
+      "108",
+      "114"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 19 multiplied by 7?",
+    "options": [
+      "152",
+      "140",
+      "126",
+      "133"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 20 multiplied by 8?",
+    "options": [
+      "180",
+      "168",
+      "152",
+      "160"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 21 multiplied by 9?",
+    "options": [
+      "198",
+      "180",
+      "189",
+      "210"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 22 multiplied by 10?",
+    "options": [
+      "210",
+      "230",
+      "220",
+      "242"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 23 multiplied by 11?",
+    "options": [
+      "264",
+      "253",
+      "276",
+      "242"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 24 multiplied by 12?",
+    "options": [
+      "288",
+      "312",
+      "276",
+      "300"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 25 multiplied by 13?",
+    "options": [
+      "350",
+      "312",
+      "325",
+      "338"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 26 multiplied by 14?",
+    "options": [
+      "378",
+      "364",
+      "350",
+      "390"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 27 multiplied by 6?",
+    "options": [
+      "156",
+      "168",
+      "162",
+      "189"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 28 multiplied by 7?",
+    "options": [
+      "196",
+      "224",
+      "189",
+      "203"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 29 multiplied by 8?",
+    "options": [
+      "224",
+      "261",
+      "240",
+      "232"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 30 multiplied by 9?",
+    "options": [
+      "270",
+      "300",
+      "261",
+      "279"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 31 multiplied by 10?",
+    "options": [
+      "341",
+      "300",
+      "310",
+      "320"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 32 multiplied by 11?",
+    "options": [
+      "341",
+      "352",
+      "363",
+      "384"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 33 multiplied by 12?",
+    "options": [
+      "408",
+      "429",
+      "384",
+      "396"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 34 multiplied by 13?",
+    "options": [
+      "455",
+      "476",
+      "429",
+      "442"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 35 multiplied by 14?",
+    "options": [
+      "490",
+      "476",
+      "525",
+      "504"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 36 multiplied by 6?",
+    "options": [
+      "210",
+      "222",
+      "252",
+      "216"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 37 multiplied by 7?",
+    "options": [
+      "252",
+      "259",
+      "296",
+      "266"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 84 divided by 7?",
+    "options": [
+      "12",
+      "13",
+      "10",
+      "15"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 104 divided by 8?",
+    "options": [
+      "13",
+      "16",
+      "14",
+      "11"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 126 divided by 9?",
+    "options": [
+      "17",
+      "12",
+      "15",
+      "14"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 150 divided by 10?",
+    "options": [
+      "18",
+      "13",
+      "16",
+      "15"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 48 divided by 3?",
+    "options": [
+      "19",
+      "14",
+      "16",
+      "17"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 68 divided by 4?",
+    "options": [
+      "20",
+      "17",
+      "15",
+      "18"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 90 divided by 5?",
+    "options": [
+      "19",
+      "16",
+      "18",
+      "21"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 114 divided by 6?",
+    "options": [
+      "22",
+      "20",
+      "19",
+      "17"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 140 divided by 7?",
+    "options": [
+      "18",
+      "21",
+      "20",
+      "23"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 168 divided by 8?",
+    "options": [
+      "22",
+      "24",
+      "19",
+      "21"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 198 divided by 9?",
+    "options": [
+      "25",
+      "22",
+      "20",
+      "23"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 230 divided by 10?",
+    "options": [
+      "24",
+      "26",
+      "21",
+      "23"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 72 divided by 3?",
+    "options": [
+      "27",
+      "22",
+      "25",
+      "24"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 100 divided by 4?",
+    "options": [
+      "25",
+      "23",
+      "26",
+      "28"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 130 divided by 5?",
+    "options": [
+      "27",
+      "29",
+      "26",
+      "24"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 162 divided by 6?",
+    "options": [
+      "25",
+      "28",
+      "27",
+      "30"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 196 divided by 7?",
+    "options": [
+      "28",
+      "31",
+      "26",
+      "29"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 232 divided by 8?",
+    "options": [
+      "32",
+      "30",
+      "27",
+      "29"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 270 divided by 9?",
+    "options": [
+      "28",
+      "31",
+      "33",
+      "30"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 310 divided by 10?",
+    "options": [
+      "34",
+      "31",
+      "29",
+      "32"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 96 divided by 3?",
+    "options": [
+      "30",
+      "32",
+      "33",
+      "35"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 132 divided by 4?",
+    "options": [
+      "33",
+      "34",
+      "31",
+      "36"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 170 divided by 5?",
+    "options": [
+      "34",
+      "37",
+      "32",
+      "35"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 210 divided by 6?",
+    "options": [
+      "36",
+      "33",
+      "38",
+      "35"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is 252 divided by 7?",
+    "options": [
+      "37",
+      "36",
+      "34",
+      "39"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "Complete the sequence: 5, 13, 21, 29, ?",
+    "options": [
+      "45",
+      "53",
+      "29",
+      "37"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 6, 15, 24, 33, ?",
+    "options": [
+      "51",
+      "33",
+      "42",
+      "60"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 7, 10, 13, 16, ?",
+    "options": [
+      "16",
+      "25",
+      "22",
+      "19"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 8, 12, 16, 20, ?",
+    "options": [
+      "32",
+      "28",
+      "20",
+      "24"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 9, 14, 19, 24, ?",
+    "options": [
+      "34",
+      "24",
+      "29",
+      "39"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 10, 16, 22, 28, ?",
+    "options": [
+      "28",
+      "40",
+      "34",
+      "46"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 11, 18, 25, 32, ?",
+    "options": [
+      "32",
+      "46",
+      "39",
+      "53"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 12, 20, 28, 36, ?",
+    "options": [
+      "36",
+      "52",
+      "60",
+      "44"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 13, 22, 31, 40, ?",
+    "options": [
+      "49",
+      "58",
+      "67",
+      "40"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 14, 17, 20, 23, ?",
+    "options": [
+      "32",
+      "26",
+      "29",
+      "23"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 15, 19, 23, 27, ?",
+    "options": [
+      "39",
+      "31",
+      "27",
+      "35"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 16, 21, 26, 31, ?",
+    "options": [
+      "31",
+      "36",
+      "46",
+      "41"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 17, 23, 29, 35, ?",
+    "options": [
+      "47",
+      "53",
+      "35",
+      "41"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 18, 25, 32, 39, ?",
+    "options": [
+      "46",
+      "39",
+      "53",
+      "60"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 19, 27, 35, 43, ?",
+    "options": [
+      "51",
+      "59",
+      "43",
+      "67"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 20, 29, 38, 47, ?",
+    "options": [
+      "56",
+      "47",
+      "74",
+      "65"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 21, 24, 27, 30, ?",
+    "options": [
+      "36",
+      "39",
+      "33",
+      "30"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 22, 26, 30, 34, ?",
+    "options": [
+      "42",
+      "46",
+      "38",
+      "34"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 23, 28, 33, 38, ?",
+    "options": [
+      "43",
+      "48",
+      "53",
+      "38"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 24, 30, 36, 42, ?",
+    "options": [
+      "48",
+      "42",
+      "54",
+      "60"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 25, 32, 39, 46, ?",
+    "options": [
+      "46",
+      "67",
+      "60",
+      "53"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 26, 34, 42, 50, ?",
+    "options": [
+      "74",
+      "50",
+      "66",
+      "58"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 27, 36, 45, 54, ?",
+    "options": [
+      "72",
+      "81",
+      "63",
+      "54"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 28, 31, 34, 37, ?",
+    "options": [
+      "43",
+      "40",
+      "37",
+      "46"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "Complete the sequence: 29, 33, 37, 41, ?",
+    "options": [
+      "45",
+      "41",
+      "49",
+      "53"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 16?",
+    "options": [
+      "288",
+      "240",
+      "272",
+      "256"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 17?",
+    "options": [
+      "272",
+      "289",
+      "306",
+      "323"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 18?",
+    "options": [
+      "324",
+      "342",
+      "306",
+      "360"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 19?",
+    "options": [
+      "380",
+      "361",
+      "342",
+      "399"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 20?",
+    "options": [
+      "420",
+      "440",
+      "380",
+      "400"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 21?",
+    "options": [
+      "483",
+      "441",
+      "420",
+      "462"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 22?",
+    "options": [
+      "528",
+      "462",
+      "506",
+      "484"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 23?",
+    "options": [
+      "575",
+      "506",
+      "529",
+      "552"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 24?",
+    "options": [
+      "576",
+      "552",
+      "600",
+      "624"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 25?",
+    "options": [
+      "600",
+      "650",
+      "675",
+      "625"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 26?",
+    "options": [
+      "676",
+      "650",
+      "728",
+      "702"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 27?",
+    "options": [
+      "729",
+      "783",
+      "756",
+      "702"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 28?",
+    "options": [
+      "840",
+      "756",
+      "784",
+      "812"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 29?",
+    "options": [
+      "841",
+      "870",
+      "899",
+      "812"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 30?",
+    "options": [
+      "960",
+      "900",
+      "930",
+      "870"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 31?",
+    "options": [
+      "930",
+      "992",
+      "1023",
+      "961"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 32?",
+    "options": [
+      "1056",
+      "1088",
+      "1024",
+      "992"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 33?",
+    "options": [
+      "1089",
+      "1056",
+      "1155",
+      "1122"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 34?",
+    "options": [
+      "1190",
+      "1224",
+      "1122",
+      "1156"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 35?",
+    "options": [
+      "1260",
+      "1225",
+      "1190",
+      "1295"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 36?",
+    "options": [
+      "1296",
+      "1368",
+      "1260",
+      "1332"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 37?",
+    "options": [
+      "1369",
+      "1406",
+      "1332",
+      "1443"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 38?",
+    "options": [
+      "1406",
+      "1444",
+      "1520",
+      "1482"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 39?",
+    "options": [
+      "1599",
+      "1521",
+      "1560",
+      "1482"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the square of 40?",
+    "options": [
+      "1680",
+      "1600",
+      "1640",
+      "1560"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  }
+]

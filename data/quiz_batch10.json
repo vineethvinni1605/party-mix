@@ -1,0 +1,1202 @@
+[
+  {
+    "q": "If one ticket costs $60, how much do 3 tickets cost?",
+    "options": [
+      "190",
+      "180",
+      "120",
+      "240"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $65, how much do 3 tickets cost?",
+    "options": [
+      "260",
+      "195",
+      "205",
+      "130"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $70, how much do 3 tickets cost?",
+    "options": [
+      "140",
+      "280",
+      "220",
+      "210"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $75, how much do 3 tickets cost?",
+    "options": [
+      "235",
+      "300",
+      "150",
+      "225"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $80, how much do 3 tickets cost?",
+    "options": [
+      "320",
+      "240",
+      "250",
+      "160"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $85, how much do 3 tickets cost?",
+    "options": [
+      "265",
+      "170",
+      "340",
+      "255"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $90, how much do 3 tickets cost?",
+    "options": [
+      "280",
+      "360",
+      "180",
+      "270"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $95, how much do 3 tickets cost?",
+    "options": [
+      "285",
+      "380",
+      "295",
+      "190"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $100, how much do 3 tickets cost?",
+    "options": [
+      "200",
+      "400",
+      "300",
+      "310"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $105, how much do 3 tickets cost?",
+    "options": [
+      "315",
+      "210",
+      "325",
+      "420"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $110, how much do 3 tickets cost?",
+    "options": [
+      "440",
+      "220",
+      "340",
+      "330"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $115, how much do 3 tickets cost?",
+    "options": [
+      "355",
+      "345",
+      "460",
+      "230"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $120, how much do 3 tickets cost?",
+    "options": [
+      "360",
+      "240",
+      "370",
+      "480"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $125, how much do 3 tickets cost?",
+    "options": [
+      "500",
+      "385",
+      "250",
+      "375"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $130, how much do 3 tickets cost?",
+    "options": [
+      "400",
+      "260",
+      "520",
+      "390"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $135, how much do 3 tickets cost?",
+    "options": [
+      "270",
+      "540",
+      "415",
+      "405"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $140, how much do 3 tickets cost?",
+    "options": [
+      "430",
+      "280",
+      "560",
+      "420"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $145, how much do 3 tickets cost?",
+    "options": [
+      "580",
+      "290",
+      "445",
+      "435"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $150, how much do 3 tickets cost?",
+    "options": [
+      "300",
+      "450",
+      "460",
+      "600"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $155, how much do 3 tickets cost?",
+    "options": [
+      "465",
+      "475",
+      "310",
+      "620"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $160, how much do 3 tickets cost?",
+    "options": [
+      "480",
+      "320",
+      "640",
+      "490"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $165, how much do 3 tickets cost?",
+    "options": [
+      "505",
+      "330",
+      "660",
+      "495"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $170, how much do 3 tickets cost?",
+    "options": [
+      "680",
+      "340",
+      "520",
+      "510"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $175, how much do 3 tickets cost?",
+    "options": [
+      "700",
+      "525",
+      "535",
+      "350"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "If one ticket costs $180, how much do 3 tickets cost?",
+    "options": [
+      "720",
+      "360",
+      "540",
+      "550"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "easy"
+  },
+  {
+    "q": "What is one-eighth of 80?",
+    "options": [
+      "10",
+      "14",
+      "12",
+      "8"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 88?",
+    "options": [
+      "9",
+      "15",
+      "13",
+      "11"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 96?",
+    "options": [
+      "12",
+      "16",
+      "14",
+      "10"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 104?",
+    "options": [
+      "13",
+      "11",
+      "15",
+      "17"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 112?",
+    "options": [
+      "16",
+      "12",
+      "18",
+      "14"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 120?",
+    "options": [
+      "19",
+      "15",
+      "17",
+      "13"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 128?",
+    "options": [
+      "18",
+      "16",
+      "14",
+      "20"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 136?",
+    "options": [
+      "17",
+      "19",
+      "15",
+      "21"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 144?",
+    "options": [
+      "16",
+      "20",
+      "18",
+      "22"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 152?",
+    "options": [
+      "17",
+      "23",
+      "19",
+      "21"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 160?",
+    "options": [
+      "22",
+      "24",
+      "18",
+      "20"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 168?",
+    "options": [
+      "21",
+      "25",
+      "23",
+      "19"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 176?",
+    "options": [
+      "24",
+      "22",
+      "20",
+      "26"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 184?",
+    "options": [
+      "23",
+      "27",
+      "25",
+      "21"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 192?",
+    "options": [
+      "26",
+      "28",
+      "24",
+      "22"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 200?",
+    "options": [
+      "27",
+      "23",
+      "29",
+      "25"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 208?",
+    "options": [
+      "26",
+      "28",
+      "24",
+      "30"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 216?",
+    "options": [
+      "31",
+      "25",
+      "27",
+      "29"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 224?",
+    "options": [
+      "32",
+      "30",
+      "28",
+      "26"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 232?",
+    "options": [
+      "29",
+      "33",
+      "31",
+      "27"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 240?",
+    "options": [
+      "32",
+      "34",
+      "30",
+      "28"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 248?",
+    "options": [
+      "31",
+      "35",
+      "29",
+      "33"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 256?",
+    "options": [
+      "32",
+      "30",
+      "36",
+      "34"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 264?",
+    "options": [
+      "37",
+      "31",
+      "35",
+      "33"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is one-eighth of 272?",
+    "options": [
+      "34",
+      "32",
+      "36",
+      "38"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 14 cm and width 8 cm?",
+    "options": [
+      "40",
+      "52",
+      "48",
+      "44"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 15 cm and width 9 cm?",
+    "options": [
+      "52",
+      "48",
+      "44",
+      "56"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 16 cm and width 10 cm?",
+    "options": [
+      "56",
+      "60",
+      "48",
+      "52"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 17 cm and width 11 cm?",
+    "options": [
+      "52",
+      "60",
+      "64",
+      "56"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 18 cm and width 12 cm?",
+    "options": [
+      "60",
+      "68",
+      "56",
+      "64"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 19 cm and width 13 cm?",
+    "options": [
+      "68",
+      "64",
+      "72",
+      "60"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 20 cm and width 14 cm?",
+    "options": [
+      "72",
+      "64",
+      "68",
+      "76"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 21 cm and width 15 cm?",
+    "options": [
+      "72",
+      "68",
+      "76",
+      "80"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 22 cm and width 16 cm?",
+    "options": [
+      "80",
+      "72",
+      "76",
+      "84"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 23 cm and width 17 cm?",
+    "options": [
+      "76",
+      "80",
+      "84",
+      "88"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 24 cm and width 18 cm?",
+    "options": [
+      "84",
+      "88",
+      "80",
+      "92"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 25 cm and width 19 cm?",
+    "options": [
+      "92",
+      "96",
+      "84",
+      "88"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 26 cm and width 20 cm?",
+    "options": [
+      "92",
+      "88",
+      "96",
+      "100"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 27 cm and width 21 cm?",
+    "options": [
+      "100",
+      "92",
+      "96",
+      "104"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 28 cm and width 22 cm?",
+    "options": [
+      "96",
+      "104",
+      "108",
+      "100"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 29 cm and width 23 cm?",
+    "options": [
+      "112",
+      "104",
+      "100",
+      "108"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 30 cm and width 24 cm?",
+    "options": [
+      "104",
+      "112",
+      "108",
+      "116"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 31 cm and width 25 cm?",
+    "options": [
+      "116",
+      "108",
+      "120",
+      "112"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 32 cm and width 26 cm?",
+    "options": [
+      "116",
+      "120",
+      "112",
+      "124"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 33 cm and width 27 cm?",
+    "options": [
+      "120",
+      "116",
+      "128",
+      "124"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 34 cm and width 28 cm?",
+    "options": [
+      "132",
+      "120",
+      "124",
+      "128"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 35 cm and width 29 cm?",
+    "options": [
+      "124",
+      "132",
+      "136",
+      "128"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 36 cm and width 30 cm?",
+    "options": [
+      "132",
+      "140",
+      "128",
+      "136"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 37 cm and width 31 cm?",
+    "options": [
+      "144",
+      "140",
+      "136",
+      "132"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 38 cm and width 32 cm?",
+    "options": [
+      "144",
+      "140",
+      "136",
+      "148"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 11, plus 7?",
+    "options": [
+      "33",
+      "43",
+      "47",
+      "40"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 12, plus 7?",
+    "options": [
+      "46",
+      "36",
+      "43",
+      "50"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 13, plus 7?",
+    "options": [
+      "39",
+      "53",
+      "49",
+      "46"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 14, plus 7?",
+    "options": [
+      "49",
+      "52",
+      "56",
+      "42"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 15, plus 7?",
+    "options": [
+      "52",
+      "59",
+      "55",
+      "45"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 16, plus 7?",
+    "options": [
+      "55",
+      "58",
+      "48",
+      "62"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 17, plus 7?",
+    "options": [
+      "51",
+      "61",
+      "65",
+      "58"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 18, plus 7?",
+    "options": [
+      "54",
+      "64",
+      "61",
+      "68"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 19, plus 7?",
+    "options": [
+      "64",
+      "71",
+      "57",
+      "67"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 20, plus 7?",
+    "options": [
+      "67",
+      "70",
+      "60",
+      "74"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 21, plus 7?",
+    "options": [
+      "70",
+      "77",
+      "63",
+      "73"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 22, plus 7?",
+    "options": [
+      "73",
+      "76",
+      "66",
+      "80"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 23, plus 7?",
+    "options": [
+      "69",
+      "79",
+      "76",
+      "83"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 24, plus 7?",
+    "options": [
+      "82",
+      "72",
+      "86",
+      "79"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 25, plus 7?",
+    "options": [
+      "82",
+      "75",
+      "85",
+      "89"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 26, plus 7?",
+    "options": [
+      "78",
+      "85",
+      "92",
+      "88"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 27, plus 7?",
+    "options": [
+      "95",
+      "81",
+      "91",
+      "88"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 28, plus 7?",
+    "options": [
+      "98",
+      "91",
+      "94",
+      "84"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 29, plus 7?",
+    "options": [
+      "94",
+      "87",
+      "97",
+      "101"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 30, plus 7?",
+    "options": [
+      "97",
+      "90",
+      "100",
+      "104"
+    ],
+    "answer": 0,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 31, plus 7?",
+    "options": [
+      "107",
+      "93",
+      "103",
+      "100"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 32, plus 7?",
+    "options": [
+      "106",
+      "96",
+      "110",
+      "103"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 33, plus 7?",
+    "options": [
+      "109",
+      "113",
+      "106",
+      "99"
+    ],
+    "answer": 2,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 34, plus 7?",
+    "options": [
+      "112",
+      "109",
+      "116",
+      "102"
+    ],
+    "answer": 1,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  },
+  {
+    "q": "What is 3 times 35, plus 7?",
+    "options": [
+      "105",
+      "115",
+      "119",
+      "112"
+    ],
+    "answer": 3,
+    "category": "Math & logic",
+    "difficulty": "medium"
+  }
+]
